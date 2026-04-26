@@ -1,0 +1,1496 @@
+,review_en,sentiment_encoded,aspect_ambiance,aspect_food,aspect_miscellaneous,aspect_price,aspect_service
+0,the food was very tasty but the price was high,1,False,True,False,False,False
+0,the food was very tasty but the price was high,0,False,False,False,True,False
+1,although the food was good but the ambience was bad,1,False,True,False,False,False
+1,although the food was good but the ambience was bad,0,False,False,False,False,True
+2,food always tastes fresh and served promptly,1,False,True,False,False,False
+2,food always tastes fresh and served promptly,1,False,False,False,False,True
+3,very good price and very good service,1,False,False,False,True,False
+3,very good price and very good service,1,False,False,False,False,True
+4,its a pretty relaxing place now the food is good,1,True,False,False,False,False
+4,its a pretty relaxing place now the food is good,1,False,True,False,False,False
+5,the meat portions were huge although the price was nothing special,1,False,True,False,False,False
+5,the meat portions were huge although the price was nothing special,1,False,False,False,True,False
+6,the service was inadequate and the food was below average,0,False,False,False,False,True
+6,the service was inadequate and the food was below average,0,False,True,False,False,False
+7,had authentic food and i go twice a month,1,False,True,False,False,False
+8,there was no atmosphere service was inadequate,0,True,False,False,False,False
+8,there was no atmosphere service was inadequate,0,False,False,False,False,True
+9,there was no atmosphere and the food was below average,0,True,False,False,False,False
+9,there was no atmosphere and the food was below average,0,False,True,False,False,False
+11,i found this block of banquets to be the best theyve had ive been eating well for twenty years,1,True,False,False,False,False
+11,i found this block of banquets to be the best theyve had ive been eating well for twenty years,1,False,False,True,False,False
+12,but everything was delicious overall the price was high,1,False,True,False,False,False
+12,but everything was delicious overall the price was high,0,False,False,False,True,False
+13,dirty service and a clean bathroom,0,False,False,False,False,True
+13,dirty service and a clean bathroom,1,True,False,False,False,False
+14,great food great service,1,False,True,False,False,False
+14,great food great service,1,False,False,False,False,True
+15,great food crappy service,1,False,True,False,False,False
+15,great food crappy service,0,False,False,False,False,True
+16,great food and a clean bathroom,1,False,True,False,False,False
+16,great food and a clean bathroom,1,True,False,False,False,False
+17,their nachos are very interesting but not everyones taste is the same,1,False,True,False,False,False
+18,your cooked meat has half bones if necessary increase the amount of money a little more,0,False,True,False,False,False
+18,your cooked meat has half bones if necessary increase the amount of money a little more,0,False,False,False,True,False
+19,several of their items are delicious as well as reasonably priced,1,False,True,False,False,False
+19,several of their items are delicious as well as reasonably priced,1,False,False,False,True,False
+20,good coffee or quiet environment,1,False,True,False,False,False
+20,good coffee or quiet environment,1,True,False,False,False,False
+21,the steak was delicious and the cost was low,1,False,True,False,False,False
+21,the steak was delicious and the cost was low,1,False,False,False,True,False
+22,bondami service is excluded why is the price so high,0,False,False,False,False,True
+22,bondami service is excluded why is the price so high,0,False,False,False,True,False
+23,dumplings are not very good it is late to pay everything,0,False,True,False,False,False
+23,dumplings are not very good it is late to pay everything,0,False,False,False,False,True
+24,the taste of the food is very bad i have vomited the fries in my mouth,0,False,True,False,False,False
+25,their kitchen room is hideous everyone will forget the taste of food,0,True,False,False,False,False
+25,their kitchen room is hideous everyone will forget the taste of food,0,False,True,False,False,False
+26,at these prices these royal items are hard to come by,1,False,False,False,True,False
+26,at these prices these royal items are hard to come by,1,False,True,False,False,False
+27,the taste of the food is not that great but the decoration of the restaurant is very beautiful,1,True,False,False,False,False
+28,salt and salt in japanese food is a little less but a new ignorance,1,False,False,True,False,False
+29,the price is right but the test is not the same as before,1,False,False,False,True,False
+29,the price is right but the test is not the same as before,0,False,True,False,False,False
+30,the biryani rice was fluffy and fluffy but the meat was tough,0,False,True,False,False,False
+31,as for the beef the test was very good but the name kalabuna was not right,1,False,True,False,False,False
+31,as for the beef the test was very good but the name kalabuna was not right,0,False,True,False,False,False
+32,there is a feeling of home cooking and i like the meat of rajhas,1,True,False,False,False,False
+32,there is a feeling of home cooking and i like the meat of rajhas,1,False,True,False,False,False
+33,every chicken item was very tasty they served the food very quickly,1,False,True,False,False,False
+33,every chicken item was very tasty they served the food very quickly,1,False,False,False,False,True
+34,that test of schizlingter served hot and fresh,1,False,True,False,False,False
+34,that test of schizlingter served hot and fresh,1,False,False,False,False,True
+35,the price is still high but the street burgers are better,0,False,False,False,True,False
+35,the price is still high but the street burgers are better,1,False,True,False,False,False
+36,the food was cold waited 1 hour on it,0,False,True,False,False,False
+36,the food was cold waited 1 hour on it,0,False,False,False,False,True
+37,an item was missing the food test is also simple,0,False,True,False,False,False
+38,i have been eating bad food with the bill the smell of ginger in chicken fry,0,False,False,False,True,False
+38,i have been eating bad food with the bill the smell of ginger in chicken fry,0,False,True,False,False,False
+39,took so much time to bring food but also fed stale food,0,False,False,False,False,True
+39,took so much time to bring food but also fed stale food,0,False,True,False,False,False
+40,there was not even a speck of flesh again the price is so much,0,False,True,False,False,False
+40,there was not even a speck of flesh again the price is so much,0,False,False,False,True,False
+41,the sub sandwich was also very good as a prize alhamdulillah the environment is very good,1,False,False,False,True,False
+41,the sub sandwich was also very good as a prize alhamdulillah the environment is very good,1,True,False,False,False,False
+42,all of the burgers were very tasty and the prices were reasonable,1,False,True,False,False,False
+42,all of the burgers were very tasty and the prices were reasonable,1,False,False,False,True,False
+43,the bbq momo was very juicy and the price was reasonable,1,False,True,False,False,False
+43,the bbq momo was very juicy and the price was reasonable,1,False,False,False,True,False
+44,average in taste and their serving was awesome too,1,False,False,False,False,True
+45,the quality of the food was quite good and the price was low,1,False,True,False,False,False
+45,the quality of the food was quite good and the price was low,1,False,False,False,True,False
+46,the whole biryani was cold again the price is so much,0,False,True,False,False,False
+46,the whole biryani was cold again the price is so much,0,False,False,False,True,False
+47,the food was very tasty but the price was high,1,False,True,False,False,False
+47,the food was very tasty but the price was high,0,False,False,True,False,False
+48,experience was fairly good but very disappointed with the food,1,False,False,False,False,True
+48,experience was fairly good but very disappointed with the food,0,False,True,False,False,False
+49,the meat slices were also quite thin but the price was sky high,1,False,True,False,False,False
+49,the meat slices were also quite thin but the price was sky high,0,False,False,True,False,False
+50,disgusting halim and the environment is dirty,0,False,True,False,False,False
+50,disgusting halim and the environment is dirty,0,True,False,False,False,False
+51,i enjoyed eating this soup the amount of chicken and mushroom was very good,1,False,True,False,False,False
+52,the pizza was like that the shop was also very clean,1,False,True,False,False,False
+52,the pizza was like that the shop was also very clean,0,False,False,False,False,True
+53,halim was in one word amazing i became a fan,1,False,True,False,False,False
+53,halim was in one word amazing i became a fan,1,False,False,True,False,False
+54,the buffet food quality is very good and the interior is also very beautiful,1,False,True,False,False,False
+54,the buffet food quality is very good and the interior is also very beautiful,1,False,False,True,False,False
+55,all the dishes were very reasonably priced and the interior is also very beautiful,1,False,False,False,True,False
+55,all the dishes were very reasonably priced and the interior is also very beautiful,1,True,False,False,False,False
+56,the taste of cow pressure is really mouthwatering and their service was also very fast,1,False,True,False,False,False
+56,the taste of cow pressure is really mouthwatering and their service was also very fast,1,False,False,False,False,True
+57,the food was good and i am satisfied with the service,1,False,True,False,False,False
+57,the food was good and i am satisfied with the service,1,False,False,False,False,True
+58,the service was good but they are bad,1,False,False,False,False,True
+58,the service was good but they are bad,0,False,True,False,False,False
+59,nehari is very interesting but the environment is not good,1,False,True,False,False,False
+59,nehari is very interesting but the environment is not good,0,True,False,False,False,False
+60,their service was excellent but they need to pay more attention to the taste,1,False,False,False,False,True
+60,their service was excellent but they need to pay more attention to the taste,0,False,True,False,False,False
+61,the rice is very flavorful but their service was not good either,1,False,True,False,False,False
+61,the rice is very flavorful but their service was not good either,0,False,False,False,False,True
+62,the food was very tasty and the staff were very nice,1,False,True,False,False,False
+62,the food was very tasty and the staff were very nice,0,False,False,False,False,True
+63,the taste of the food is excellent the service is very good,1,False,True,False,False,False
+63,the taste of the food is excellent the service is very good,1,False,False,False,False,True
+64,the side dishes are not very good but the service is good,1,False,True,False,False,False
+64,the side dishes are not very good but the service is good,1,False,False,False,False,True
+65,the test was fair but their service was not good,0,False,True,False,False,False
+65,the test was fair but their service was not good,0,False,False,False,False,True
+66,their service is great and food quality is good,1,False,False,False,False,True
+66,their service is great and food quality is good,1,False,True,False,False,False
+67,best chicken pressure the price of 120 rupees seemed right to me,1,False,True,False,False,False
+67,best chicken pressure the price of 120 rupees seemed right to me,1,False,False,False,True,False
+68,food taste great interior is good,1,False,True,False,False,False
+68,food taste great interior is good,1,True,False,False,False,False
+69,the barbecue was quite fun the price was a bit high,1,False,True,False,False,False
+69,the barbecue was quite fun the price was a bit high,0,False,False,False,True,False
+70,the price of food was high but the quality was not good,0,False,False,False,True,False
+70,the price of food was high but the quality was not good,0,False,True,False,False,False
+71,the food was bad and the service even worse,0,False,True,False,False,False
+71,the food was bad and the service even worse,0,False,False,False,False,True
+72,food is good but environment is not liked,1,False,True,False,False,False
+72,food is good but environment is not liked,0,True,False,False,False,False
+73,very good prices and good environment too,1,False,False,False,True,False
+73,very good prices and good environment too,1,True,False,False,False,False
+74,impressed with their use and also impressed with the quality of the food,1,False,False,False,False,True
+74,impressed with their use and also impressed with the quality of the food,1,False,True,False,False,False
+75,food quality is good but not a family friendly place,1,False,True,False,False,False
+75,food quality is good but not a family friendly place,0,True,False,False,False,False
+76,i have never eaten such good kachchi in my life even though the price is high,1,False,True,False,False,False
+76,i have never eaten such good kachchi in my life even though the price is high,0,False,False,False,True,False
+77,the restaurant is small but expensive,0,True,False,False,False,False
+77,the restaurant is small but expensive,0,False,False,False,True,False
+78,the environment is bad and the food is also bad,0,True,False,False,False,False
+78,the environment is bad and the food is also bad,0,False,True,False,False,False
+79,amrit taste but the price is a bit high,1,False,True,False,False,False
+79,amrit taste but the price is a bit high,0,False,False,False,True,False
+80,the quantity of meat was not high but the price was also low,0,False,True,False,False,False
+80,the quantity of meat was not high but the price was also low,0,False,False,False,True,False
+81,quiet place and good service,1,True,False,False,False,False
+81,quiet place and good service,1,False,False,False,False,True
+82,ilhasvajata is the same and the price is affordable,1,False,True,False,False,False
+82,ilhasvajata is the same and the price is affordable,1,False,False,False,True,False
+83,the fried rice was good but the price was more than necessary,1,False,True,False,False,False
+83,the fried rice was good but the price was more than necessary,0,False,False,False,True,False
+84,the price has gone up and so has the taste,0,False,False,False,True,False
+84,the price has gone up and so has the taste,1,False,True,False,False,False
+85,crimsoncups atmosphere is also joss and coffee is joss,1,True,False,False,False,False
+85,crimsoncups atmosphere is also joss and coffee is joss,1,False,True,False,False,False
+86,the coffee was too strong which i didnt like and the price was high,0,False,True,False,False,False
+86,the coffee was too strong which i didnt like and the price was high,0,False,False,False,True,False
+87,there are many items in the same price range that are good and the environment is also fair,1,False,False,True,False,False
+88,the pancake was better and they served very quickly,1,False,True,False,False,False
+88,the pancake was better and they served very quickly,1,False,False,False,False,True
+89,i had a budget of 300 rupees but did not get the best tasting food here,0,False,False,False,True,False
+89,i had a budget of 300 rupees but did not get the best tasting food here,0,False,True,False,False,False
+90,the prices are high and the atmosphere is very hifi,0,False,False,False,True,False
+90,the prices are high and the atmosphere is very hifi,1,True,False,False,False,False
+91,the quality of the food is bad and the price is also bad,0,False,True,False,False,False
+91,the quality of the food is bad and the price is also bad,0,False,False,False,True,False
+92,there is a place for kids to play and good food for them too,1,True,False,False,False,False
+92,there is a place for kids to play and good food for them too,1,False,True,False,False,False
+93,the taste of lacchita is not good but the atmosphere of the restaurant is not good,1,False,True,False,False,False
+93,the taste of lacchita is not good but the atmosphere of the restaurant is not good,0,True,False,False,False,False
+94,the price has increased but the taste remains the same,0,False,False,False,True,False
+95,i didnt like the taste but the service was good,0,False,True,False,False,False
+95,i didnt like the taste but the service was good,1,False,False,False,False,True
+96,i saw today that good food is available at low prices and the environment is also good,1,False,False,False,True,False
+96,i saw today that good food is available at low prices and the environment is also good,1,True,False,False,False,False
+97,the food is cheap but i have no doubt that the food is stale,1,False,False,False,True,False
+97,the food is cheap but i have no doubt that the food is stale,0,False,True,False,False,False
+98,i havent eaten bharta with so much flavor before and the price is also low,1,False,True,False,False,False
+98,i havent eaten bharta with so much flavor before and the price is also low,1,False,False,False,True,False
+99,the seafood taste was good but i didnt like the presentation style in the plate,1,False,True,False,False,False
+99,the seafood taste was good but i didnt like the presentation style in the plate,0,False,False,True,False,False
+100,the price of lasagna is high but it tasted like a piece of bread,0,False,False,False,True,False
+100,the price of lasagna is high but it tasted like a piece of bread,0,False,True,False,False,False
+101,food prices are relatively low and relatively higher than other places,1,False,False,False,True,False
+101,food prices are relatively low and relatively higher than other places,1,False,False,True,False,False
+102,chicken corn soup is just chicken and corn and the price is not that high,1,False,True,False,False,False
+102,chicken corn soup is just chicken and corn and the price is not that high,1,False,False,False,True,False
+103,the price of the food is not reasonable but i am satisfied with the service,0,False,False,False,True,False
+103,the price of the food is not reasonable but i am satisfied with the service,1,False,False,False,False,True
+104,good atmosphere to hangout but food price is high,1,True,False,False,False,False
+104,good atmosphere to hangout but food price is high,0,False,False,False,True,False
+105,never experienced such friendly service before though food quality was not so good,1,False,False,False,False,True
+105,never experienced such friendly service before though food quality was not so good,0,False,True,False,False,False
+106,the price of chicken pizza is very high but i didnt find much chicken in it,0,False,False,False,True,False
+106,the price of chicken pizza is very high but i didnt find much chicken in it,0,False,True,False,False,False
+107,best set menu but lack of space in restaurant,1,False,False,False,True,False
+107,best set menu but lack of space in restaurant,0,True,False,False,False,False
+108,the quality of kacchi is good but they took a lot of time in delivery,1,False,True,False,False,False
+108,the quality of kacchi is good but they took a lot of time in delivery,0,False,False,False,False,True
+109,the price of the burger was high but the amount of meat was very low,0,False,False,False,True,False
+109,the price of the burger was high but the amount of meat was very low,0,False,True,False,False,False
+110,the location of the restaurant is good and the price of the food is also low,1,False,False,True,False,False
+110,the location of the restaurant is good and the price of the food is also low,1,False,False,False,True,False
+111,the service was good but i have never seen a restaurant so full of mosquitoes,1,False,False,False,False,True
+111,the service was good but i have never seen a restaurant so full of mosquitoes,0,True,False,False,False,False
+112,the food was not tasty though the prices were high,0,False,True,False,False,False
+112,the food was not tasty though the prices were high,0,False,False,False,True,False
+113,the price of the salad is very low but the quality is amazing,1,False,False,False,True,False
+113,the price of the salad is very low but the quality is amazing,1,False,True,False,False,False
+114,the cake tastes very good and the atmosphere for the party is also very nice,1,False,True,False,False,False
+114,the cake tastes very good and the atmosphere for the party is also very nice,1,True,False,False,False,False
+115,the food is not expensive and there is a good atmosphere for dining with the family,1,False,False,False,True,False
+115,the food is not expensive and there is a good atmosphere for dining with the family,1,True,False,False,False,False
+116,the price is low but not many customers for the environment which is understandable,1,False,False,False,True,False
+116,the price is low but not many customers for the environment which is understandable,0,True,False,False,False,False
+117,there is no meat in the haleem and the price is much higher than other places,0,False,True,False,False,False
+117,there is no meat in the haleem and the price is much higher than other places,0,False,False,False,True,False
+118,nanroti has a lot of butter which adds to the taste but the place where the bread is made is unclean,1,False,True,False,False,False
+118,nanroti has a lot of butter which adds to the taste but the place where the bread is made is unclean,0,True,False,False,False,False
+119,the steak was very good but the price was too high,1,False,True,False,False,False
+119,the steak was very good but the price was too high,0,False,False,False,True,False
+120,biryani was average but good value for money,1,False,False,False,True,False
+121,all items are priced normally and taste normal,1,False,False,False,True,False
+121,all items are priced normally and taste normal,1,False,True,False,False,False
+122,the price is only 70 rupees but the taste of nihari is very juicy,1,False,False,False,True,False
+122,the price is only 70 rupees but the taste of nihari is very juicy,1,False,True,False,False,False
+123,the amount of bot is more than this restaurant but the cleanliness here is good,0,False,True,False,False,False
+123,the amount of bot is more than this restaurant but the cleanliness here is good,1,True,False,False,False,False
+124,the price is high but eating crab is not fun,0,False,False,False,True,False
+124,the price is high but eating crab is not fun,0,False,True,False,False,False
+125,the quantity of eggs offered in mogalai is very high and the price is also fair,1,False,True,False,False,False
+126,the size of shrimp is very small but the price is high,0,False,True,False,False,False
+126,the size of shrimp is very small but the price is high,0,False,False,False,True,False
+127,loved eating the octopus barbeque although the price was high,1,False,True,False,False,False
+127,loved eating the octopus barbeque although the price was high,0,False,False,False,True,False
+128,if you dont eat kalavunata its really a miss and the price is also reasonable,1,False,True,False,False,False
+129,the portion of the dessert was good and the taste was amazing,1,False,True,False,False,False
+130,iftar platters are as bad to eat and expensive too,0,False,True,False,False,False
+130,iftar platters are as bad to eat and expensive too,0,False,False,False,True,False
+131,the food did not match the picture on the menu and the service was also average,0,False,True,False,False,False
+132,the fish was rotten and they reduced the price,0,False,True,False,False,False
+132,the fish was rotten and they reduced the price,1,False,False,False,True,False
+133,the prawns were not cleaned properly and there was a very bad smell around,0,False,True,False,False,False
+133,the prawns were not cleaned properly and there was a very bad smell around,0,True,False,False,False,False
+134,there was no mushroom in the mushroom rice and the service was very slow,0,False,True,False,False,False
+134,there was no mushroom in the mushroom rice and the service was very slow,0,False,False,False,False,True
+135,very indifferent staff about cleaning and food quality is also very bad,0,False,False,False,False,True
+135,very indifferent staff about cleaning and food quality is also very bad,0,False,True,False,False,False
+136,very poor service and not a kid friendly restaurant,0,False,False,False,False,True
+136,very poor service and not a kid friendly restaurant,0,True,False,False,False,False
+137,at alupuri the quantity of potatoes was high but the price was normal like other shops,1,False,True,False,False,False
+138,the price is low and the taste is good,0,False,False,False,True,False
+138,the price is low and the taste is good,1,False,True,False,False,False
+139,the chaomin chicken sizes were good and tasted good too,1,False,True,False,False,False
+140,the price is so low and the taste is just right,1,False,False,False,True,False
+141,the price of the cake per kg is less but the taste is not bad,1,False,False,False,True,False
+142,chicken rolta tastes good but the price is a bit high,1,False,True,False,False,False
+142,chicken rolta tastes good but the price is a bit high,0,False,False,False,True,False
+143,the price of pakora is only 15 rupees but the taste is much better,1,False,False,False,True,False
+143,the price of pakora is only 15 rupees but the taste is much better,1,False,True,False,False,False
+144,i was satisfied with polao and the price was not too high,1,False,True,False,False,False
+145,the stalks are tasteless though large in size,0,False,True,False,False,False
+145,the stalks are tasteless though large in size,1,False,False,True,False,False
+146,singarat has a good quantity of cholera and the price is not too high,1,False,True,False,False,False
+146,singarat has a good quantity of cholera and the price is not too high,1,False,False,False,True,False
+147,6 back beef for 150 taka and the taste is also very good,1,False,False,False,True,False
+147,6 back beef for 150 taka and the taste is also very good,1,False,True,False,False,False
+148,sujan mamas tornado chips cost 20 rupees but the taste is much better,1,False,False,False,True,False
+148,sujan mamas tornado chips cost 20 rupees but the taste is much better,1,False,True,False,False,False
+149,the prices here are reasonable and the quality of the set menu is also good,1,False,True,False,False,False
+150,the idea of chicken fries with a burger is not very good and the price is high,0,False,True,False,False,False
+150,the idea of chicken fries with a burger is not very good and the price is high,0,False,False,False,True,False
+151,the mutton pressure meat was very dry and the price was higher than other restaurants,0,False,True,False,False,False
+151,the mutton pressure meat was very dry and the price was higher than other restaurants,0,False,False,False,True,False
+152,there are no childrens meals on the menu but the ones that are available are reasonably priced,0,False,False,True,False,False
+152,there are no childrens meals on the menu but the ones that are available are reasonably priced,1,False,False,False,True,False
+153,the quality of the food is bad and so is the behavior of the waiters,0,False,True,False,False,False
+153,the quality of the food is bad and so is the behavior of the waiters,0,False,False,False,False,True
+154,oil was high on bull pressure but prices were lower than elsewhere,0,False,True,False,False,False
+154,oil was high on bull pressure but prices were lower than elsewhere,1,False,False,False,True,False
+155,that and the full amount has been recovered for the fire,1,False,True,False,False,False
+155,that and the full amount has been recovered for the fire,1,False,False,False,True,False
+156,i did not have peace of mind after having tea in a 5 star hotel and only had to pay 2000 tk,0,False,True,False,False,False
+156,i did not have peace of mind after having tea in a 5 star hotel and only had to pay 2000 tk,0,False,False,False,True,False
+157,the american burger is simply gorgeous and reasonably priced,1,False,True,False,False,False
+157,the american burger is simply gorgeous and reasonably priced,1,False,False,False,True,False
+158,the burger buns are so thin and the price is too high for the taste,0,False,True,False,False,False
+158,the burger buns are so thin and the price is too high for the taste,0,False,False,False,True,False
+159,the combination of ingredients is good but the taste is not that good,1,False,False,True,False,False
+159,the combination of ingredients is good but the taste is not that good,0,False,True,False,False,False
+160,the chicken fillet is very juicy but the price is too high,1,False,True,False,False,False
+160,the chicken fillet is very juicy but the price is too high,0,False,False,False,True,False
+161,the patty of the burger is a bit thicker and the size feels larger because of that,1,False,True,False,False,False
+161,the patty of the burger is a bit thicker and the size feels larger because of that,1,False,False,True,False,False
+162,the taste of jhalmuri in the restaurant is similar to that of the shops in akala but the price is higher,0,False,False,False,True,False
+163,the meats were raw and their servings were not that good,0,False,True,False,False,False
+163,the meats were raw and their servings were not that good,0,False,False,False,False,True
+164,i have never seen such good service and food quality is also good,1,False,False,False,False,True
+164,i have never seen such good service and food quality is also good,1,False,True,False,False,False
+165,there are many options in the smoothies here and the atmosphere here is also very charming,1,False,False,True,False,False
+165,there are many options in the smoothies here and the atmosphere here is also very charming,1,True,False,False,False,False
+166,the lemon sorbet of this restaurant is very refreshing and the price is also very low,1,False,True,False,False,False
+166,the lemon sorbet of this restaurant is very refreshing and the price is also very low,1,False,False,False,True,False
+167,the kacchi meat was very tender and juicy but the price seemed too low compared to the taste,1,False,True,False,False,False
+167,the kacchi meat was very tender and juicy but the price seemed too low compared to the taste,1,False,False,False,True,False
+168,the mint leaf chutney was not there and the funny thing is that it is free no matter how much you take,1,False,True,False,False,False
+168,the mint leaf chutney was not there and the funny thing is that it is free no matter how much you take,1,False,False,False,True,False
+169,the reshmi kebab melts in your mouth and the price is also very good,1,False,True,False,False,False
+169,the reshmi kebab melts in your mouth and the price is also very good,1,False,False,False,True,False
+170,there arent many vegetarian options and the ones that are are very expensive,0,False,False,True,False,False
+170,there arent many vegetarian options and the ones that are are very expensive,0,False,False,False,True,False
+171,had to wait a long time for shik kebab but the taste is much better,0,False,False,False,False,True
+171,had to wait a long time for shik kebab but the taste is much better,1,False,True,False,False,False
+172,the amount of meat inside the chicken cutlet roll is good and the price is not too high,1,False,True,False,False,False
+172,the amount of meat inside the chicken cutlet roll is good and the price is not too high,1,False,False,False,True,False
+173,it was good to eat at shalpata and somehow the food tasted a little different,1,False,False,True,False,False
+173,it was good to eat at shalpata and somehow the food tasted a little different,1,False,True,False,False,False
+174,the meat curry is very salty but all things considered the price is good,1,False,True,False,False,False
+174,the meat curry is very salty but all things considered the price is good,1,False,False,False,True,False
+175,fuchka is expensive but fun to eat,0,False,False,False,True,False
+175,fuchka is expensive but fun to eat,1,False,True,False,False,False
+176,bad food and bad service,0,False,True,False,False,False
+176,bad food and bad service,0,False,False,False,False,True
+177,bad food and lazy staff all,0,False,True,False,False,False
+177,bad food and lazy staff all,0,False,False,False,False,True
+178,the number of food in the buffet was very high but the price was less than that,1,False,False,True,False,False
+178,the number of food in the buffet was very high but the price was less than that,1,False,False,False,True,False
+179,i dont know why the basmati rice looked bad but everything else was good,0,False,True,False,False,False
+179,i dont know why the basmati rice looked bad but everything else was good,1,False,False,True,False,False
+180,food tastes much better and food environment is much better than before,1,False,True,False,False,False
+180,food tastes much better and food environment is much better than before,1,False,False,False,False,True
+181,very authentic tasting food but reasonably priced,1,False,True,False,False,False
+182,the price of the cake is unmatched but also more expensive than other places,1,False,True,False,False,False
+182,the price of the cake is unmatched but also more expensive than other places,0,False,False,False,True,False
+183,the kalavuna seems to have been watered down for over cooking and they also took too long to serve,0,False,True,False,False,False
+183,the kalavuna seems to have been watered down for over cooking and they also took too long to serve,0,False,False,False,False,True
+184,the environment of the shop is normal but the service is very good,1,False,False,False,False,True
+185,the food in the buffet was good but the time limit was a bit too short to eat,1,False,True,False,False,False
+185,the food in the buffet was good but the time limit was a bit too short to eat,0,False,False,True,False,False
+186,the mutton chapata was mouthwatering and the price was reasonable,1,False,True,False,False,False
+186,the mutton chapata was mouthwatering and the price was reasonable,1,False,False,False,True,False
+187,the decoration of the restaurant is better than before but the price of all the food has increased a bit,1,True,False,False,False,False
+187,the decoration of the restaurant is better than before but the price of all the food has increased a bit,0,False,False,False,True,False
+188,the taste of the food was good but it would have been better if the price was a little more reasonable,1,False,True,False,False,False
+188,the taste of the food was good but it would have been better if the price was a little more reasonable,0,False,False,False,True,False
+189,the food quality of the restaurant is average but they know how to provide very good service,1,False,False,False,False,True
+190,the taste is similar to street food but the price is higher,0,False,False,False,True,False
+191,they took a long time to serve but we had no complaints about the taste,0,False,False,False,False,True
+191,they took a long time to serve but we had no complaints about the taste,1,False,True,False,False,False
+192,i waited so long but i didnt get good quality food in this restaurant,0,False,False,False,False,True
+192,i waited so long but i didnt get good quality food in this restaurant,0,False,True,False,False,False
+193,the price was high but everyone enjoyed the pizza,0,False,False,False,True,False
+193,the price was high but everyone enjoyed the pizza,1,False,True,False,False,False
+194,the use was good but the food meant they had to pay more attention,1,False,False,False,False,True
+194,the use was good but the food meant they had to pay more attention,0,False,True,False,False,False
+195,food quality is good but price is high,1,False,True,False,False,False
+195,food quality is good but price is high,0,False,False,False,True,False
+196,digital system is being used for all functions including order and payment in this restaurant but the service is getting worse,1,False,False,True,False,False
+196,digital system is being used for all functions including order and payment in this restaurant but the service is getting worse,0,False,False,False,False,True
+197,food was tasty but had to wait a long time though,1,False,True,False,False,False
+197,food was tasty but had to wait a long time though,0,False,False,False,False,True
+198,the ice creams are decent but overpriced,0,False,False,False,True,False
+199,the curd puffs here are good and the price is quite within the range,1,False,True,False,False,False
+200,yogurt is bad to eat and the price is so high,0,False,True,False,False,False
+200,yogurt is bad to eat and the price is so high,0,False,False,False,True,False
+201,the food is all good and the price is reasonable,1,False,True,False,False,False
+201,the food is all good and the price is reasonable,1,False,False,False,True,False
+202,i dont understand how the restaurant runs with such slow service but the atmosphere here is not that bad,0,False,False,False,False,True
+203,the service was a little better and the atmosphere was simple,1,False,False,False,False,True
+203,the service was a little better and the atmosphere was simple,1,True,False,False,False,False
+204,because the taste is good and the service is good there,1,False,True,False,False,False
+204,because the taste is good and the service is good there,1,False,False,False,False,True
+205,the taste of kachchi is really unforgettable but the price is very high,1,False,True,False,False,False
+205,the taste of kachchi is really unforgettable but the price is very high,0,False,False,False,True,False
+206,khasir rezala is only in name but i didnt get anything in taste and so it seems the price is low here,0,False,True,False,False,False
+206,khasir rezala is only in name but i didnt get anything in taste and so it seems the price is low here,1,False,False,False,True,False
+207,the burgers were very tasty and not too expensive,1,False,True,False,False,False
+208,cleanliness is very much taken care of in this restaurant and the ambience is also very charming,1,True,False,False,False,False
+209,today i found a reasonable restaurant and food quality is good,1,False,False,False,True,False
+209,today i found a reasonable restaurant and food quality is good,1,False,True,False,False,False
+210,comillas rasmalai is different and the price is reasonable,1,False,True,False,False,False
+211,the menu is well balanced but the price seems a bit high,1,False,False,True,False,False
+211,the menu is well balanced but the price seems a bit high,0,False,False,False,True,False
+212,the taste is bad and the service is even worse,0,False,True,False,False,False
+212,the taste is bad and the service is even worse,0,False,False,False,False,True
+213,i was not satisfied with the pan pizza but the price was not too much,0,False,True,False,False,False
+214,sure the price of burgers has gone up but the quality of the food has gone down,0,False,False,False,True,False
+214,sure the price of burgers has gone up but the quality of the food has gone down,0,False,True,False,False,False
+215,the environment around the restaurant is very bad and the quality of the food is not that good,0,True,False,False,False,False
+215,the environment around the restaurant is very bad and the quality of the food is not that good,0,False,True,False,False,False
+216,the food here was the best and the price was reasonable,1,False,True,False,False,False
+217,the use of basmati rice in biryani has enhanced the taste and increased the price,1,False,True,False,False,False
+217,the use of basmati rice in biryani has enhanced the taste and increased the price,0,False,False,False,True,False
+218,there were many combinations on the menu and the prices were reasonable,1,False,False,True,False,False
+219,customers are happy with the food quality and also happy with the price,1,False,True,False,False,False
+219,customers are happy with the food quality and also happy with the price,1,False,False,False,True,False
+220,customers are not happy with the food quality and also not happy with the price,0,False,True,False,False,False
+220,customers are not happy with the food quality and also not happy with the price,0,False,False,False,True,False
+221,cant believe how you can get a set menu for 150 taka and the test is not bad either,1,False,False,False,True,False
+222,the atmosphere is better and the service is much better than before,1,True,False,False,False,False
+222,the atmosphere is better and the service is much better than before,1,False,False,False,False,True
+223,only money can be spent on food but eating it does not fill the mind or stomach,0,False,False,False,True,False
+223,only money can be spent on food but eating it does not fill the mind or stomach,0,False,False,True,False,False
+224,wasnt disappointed by the price of the food here and happy with the taste too,1,False,False,False,True,False
+224,wasnt disappointed by the price of the food here and happy with the taste too,1,False,True,False,False,False
+225,meat items are just fat and fat but the price is just too high,0,False,True,False,False,False
+225,meat items are just fat and fat but the price is just too high,0,False,False,False,True,False
+226,god knows how they run the restaurant with stale food and bad environment,0,False,True,False,False,False
+226,god knows how they run the restaurant with stale food and bad environment,0,True,False,False,False,False
+227,the quality of food is good but the restaurant suffers from lack of skilled employees,1,False,True,False,False,False
+227,the quality of food is good but the restaurant suffers from lack of skilled employees,0,False,False,True,False,False
+228,i have never seen such friendly waiters in my life and the quality of their food is not bad,1,False,False,False,False,True
+229,whats the point of hiring more employees if the food doesnt taste good,0,False,False,True,False,False
+229,whats the point of hiring more employees if the food doesnt taste good,0,False,True,False,False,False
+230,what is the benefit of hiring more employees if the eating environment is not good,0,False,False,True,False,False
+230,what is the benefit of hiring more employees if the eating environment is not good,0,True,False,False,False,False
+231,their service is so bad and the food is even worse,0,False,False,False,False,True
+231,their service is so bad and the food is even worse,0,False,True,False,False,False
+232,the price of each item is high but i didnt like the taste of each item,0,False,False,False,True,False
+232,the price of each item is high but i didnt like the taste of each item,0,False,True,False,False,False
+233,i recommend this restaurant to everyone for a nice environment and good quality food,1,True,False,False,False,False
+233,i recommend this restaurant to everyone for a nice environment and good quality food,1,False,True,False,False,False
+234,servicing is slow and items are also bad,0,False,False,False,False,True
+234,servicing is slow and items are also bad,0,False,True,False,False,False
+235,the environment is ok but the location is very inside the market,1,True,False,False,False,False
+235,the environment is ok but the location is very inside the market,0,False,False,True,False,False
+236,the waiters were giving very fast refills and the food tasted a little different,1,False,False,False,False,True
+236,the waiters were giving very fast refills and the food tasted a little different,1,False,True,False,False,False
+237,the prices are reasonable and the food is good,1,False,False,False,True,False
+237,the prices are reasonable and the food is good,1,False,True,False,False,False
+238,the items are not nice to look at and the behavior of the staff is also bad,0,False,True,False,False,False
+238,the items are not nice to look at and the behavior of the staff is also bad,0,False,False,False,False,True
+239,the employees are more serious about their work and the environment is good here,1,False,False,False,False,True
+239,the employees are more serious about their work and the environment is good here,1,True,False,False,False,False
+240,i never imagined the quality of street food to be so good and the price is so low,1,False,True,False,False,False
+240,i never imagined the quality of street food to be so good and the price is so low,1,False,False,False,True,False
+241,the noodles seemed too oily but everything else was fine,0,False,True,False,False,False
+241,the noodles seemed too oily but everything else was fine,1,False,False,True,False,False
+242,the price is right but i like the chaomin of street uncles better than this,0,False,False,False,True,False
+242,the price is right but i like the chaomin of street uncles better than this,0,False,True,False,False,False
+243,the price was high for this but the taste was not good at all,0,False,False,False,True,False
+243,the price was high for this but the taste was not good at all,0,False,True,False,False,False
+244,the joy of baisakh increased by eating panta at such a reasonable price and good taste,1,False,False,False,True,False
+244,the joy of baisakh increased by eating panta at such a reasonable price and good taste,1,False,True,False,False,False
+245,it was understood that the less expensive food can be good but eating the food of this restaurant,1,False,False,False,True,False
+245,it was understood that the less expensive food can be good but eating the food of this restaurant,1,False,True,False,False,False
+246,the quantity of meat in tehari was very high and the price was not so high in comparison,1,False,True,False,False,False
+246,the quantity of meat in tehari was very high and the price was not so high in comparison,1,False,False,False,True,False
+247,very professional work done by staff all around and food quality is also very good,1,False,False,False,False,True
+247,very professional work done by staff all around and food quality is also very good,1,False,True,False,False,False
+248,the quality of the kebab meat was poor and the waiters were very slow,0,False,True,False,False,False
+248,the quality of the kebab meat was poor and the waiters were very slow,0,False,False,False,False,True
+249,so cheap and the taste is amazing,1,False,False,False,True,False
+249,so cheap and the taste is amazing,1,False,True,False,False,False
+250,the shik kebabs are fun to eat but the environment in which they are being prepared is not very clean,1,False,True,False,False,False
+250,the shik kebabs are fun to eat but the environment in which they are being prepared is not very clean,0,True,False,False,False,False
+251,the restaurant has quickly earned a name for its good quality food and good ambience,1,False,True,False,False,False
+251,the restaurant has quickly earned a name for its good quality food and good ambience,1,True,False,False,False,False
+252,the employees have laziness in their service and the atmosphere is also fair,0,False,False,False,False,True
+253,lack of professionalism among the staff and food prices are too high,0,False,False,False,False,True
+253,lack of professionalism among the staff and food prices are too high,0,False,False,False,True,False
+254,although the taste is good the price should have been lower,1,False,True,False,False,False
+254,although the taste is good the price should have been lower,0,False,False,False,True,False
+255,the decoration was very different and the atmosphere was very lively,1,True,False,False,False,False
+256,the ambience of the restaurant is good and thats why the food prices seem so high,1,True,False,False,False,False
+256,the ambience of the restaurant is good and thats why the food prices seem so high,0,False,False,False,True,False
+257,didnt see any good items and the employees were not responding well,0,False,True,False,False,False
+257,didnt see any good items and the employees were not responding well,0,False,False,False,False,True
+258,you can eat here for a small amount of money and the service is also very good,1,False,False,False,True,False
+258,you can eat here for a small amount of money and the service is also very good,1,False,False,False,False,True
+259,i never thought that the price of bharta could be so high but the taste was good,0,False,False,False,True,False
+259,i never thought that the price of bharta could be so high but the taste was good,1,False,True,False,False,False
+260,there is no bengali food item in the menu but the price seems very low,0,False,False,True,False,False
+260,there is no bengali food item in the menu but the price seems very low,1,False,False,False,True,False
+261,a restaurant and location is also very good to eat a full stomach with less money,1,False,False,False,True,False
+261,a restaurant and location is also very good to eat a full stomach with less money,1,False,False,True,False,False
+262,the prices here are low but the quality of the food is good,1,False,False,False,True,False
+262,the prices here are low but the quality of the food is good,1,False,True,False,False,False
+263,mini chinese sets have more options and lower prices,1,False,False,True,False,False
+263,mini chinese sets have more options and lower prices,1,False,False,False,True,False
+264,the quality of the dessert is fair and the price is a bit high compared to that,0,False,False,False,True,False
+265,the taste of thai food items is volatile and the ambience is much more volatile,1,False,True,False,False,False
+265,the taste of thai food items is volatile and the ambience is much more volatile,1,False,False,True,False,False
+266,the price of the restaurant food was high but at the same time the quality of the food was good,0,False,False,False,True,False
+266,the price of the restaurant food was high but at the same time the quality of the food was good,1,False,True,False,False,False
+267,hilsa from mawa ghat has a different taste but the price is a bit higher,1,False,True,False,False,False
+267,hilsa from mawa ghat has a different taste but the price is a bit higher,0,False,False,False,True,False
+268,best borhani in my life and not too expensive,1,False,True,False,False,False
+268,best borhani in my life and not too expensive,1,False,False,False,True,False
+269,the price of food is low but the quality of food needs to be looked at,1,False,False,False,True,False
+269,the price of food is low but the quality of food needs to be looked at,0,False,True,False,False,False
+270,kalavuna had too many spices and the prices were too high,0,False,True,False,False,False
+270,kalavuna had too many spices and the prices were too high,0,False,False,False,True,False
+271,while the quality of the food was good the ambience of the restaurant was also quite good,1,False,True,False,False,False
+271,while the quality of the food was good the ambience of the restaurant was also quite good,1,True,False,False,False,False
+272,very good food and very low price,1,False,True,False,False,False
+272,very good food and very low price,1,False,False,False,True,False
+273,the service is also bad the condition of the food is even worse,0,False,False,False,False,True
+273,the service is also bad the condition of the food is even worse,0,False,False,False,True,False
+274,mamara serves very fast and food quality is good,1,False,False,False,False,True
+274,mamara serves very fast and food quality is good,1,False,True,False,False,False
+275,its a good place and the environment is decent,1,True,False,False,False,False
+276,this is the best place and the food is very reasonably priced,1,True,False,False,False,False
+276,this is the best place and the food is very reasonably priced,1,False,False,False,True,False
+277,delivery was very good but food quality was average,1,False,False,False,False,True
+278,the quality of the food is good but the price is a little more reasonable,1,False,True,False,False,False
+278,the quality of the food is good but the price is a little more reasonable,0,False,False,False,True,False
+279,the management of the restaurant is not good but the food quality is very good,0,False,False,True,False,False
+279,the management of the restaurant is not good but the food quality is very good,1,False,True,False,False,False
+280,the food tasted good but the atmosphere was stuffy in the restaurant,1,False,True,False,False,False
+280,the food tasted good but the atmosphere was stuffy in the restaurant,0,True,False,False,False,False
+281,the kids options in the menu were good but the ambience was not good,1,False,False,True,False,False
+281,the kids options in the menu were good but the ambience was not good,0,True,False,False,False,False
+282,the taste was slightly different and the staff were very attentive,1,False,True,False,False,False
+282,the taste was slightly different and the staff were very attentive,1,False,False,False,False,True
+283,food quality is good and music is also good here,1,False,True,False,False,False
+283,food quality is good and music is also good here,1,False,False,True,False,False
+284,the best restaurant and the service was the same,1,False,False,True,False,False
+284,the best restaurant and the service was the same,1,False,False,False,False,True
+285,the food was very bad and the condition of the restaurant was also bad,0,False,True,False,False,False
+285,the food was very bad and the condition of the restaurant was also bad,0,True,False,False,False,False
+287,rajkachuri here is very cheap and tastes amazing,1,False,False,False,True,False
+287,rajkachuri here is very cheap and tastes amazing,1,False,True,False,False,False
+288,the curd in rajkachuri was not good and the price was very high,0,False,True,False,False,False
+288,the curd in rajkachuri was not good and the price was very high,0,False,False,False,True,False
+289,the quality of pies in pithagars has gone down but the prices remain the same,0,False,True,False,False,False
+290,their food quality is bad and service is not as good as before,0,False,True,False,False,False
+290,their food quality is bad and service is not as good as before,0,False,False,False,False,True
+291,the offers here are very good and the environment is also very nice,1,False,False,True,False,False
+291,the offers here are very good and the environment is also very nice,1,True,False,False,False,False
+292,delicious taste and price within budget too,1,False,True,False,False,False
+292,delicious taste and price within budget too,1,False,False,False,True,False
+293,breads are thicker than before and prices have not increased,1,False,True,False,False,False
+294,became a fan of the crispness of the nachos and the good price,1,False,True,False,False,False
+294,became a fan of the crispness of the nachos and the good price,1,False,False,False,True,False
+295,i have never found their french fries to be good but the prices are not cheap,0,False,True,False,False,False
+295,i have never found their french fries to be good but the prices are not cheap,0,False,False,False,True,False
+296,the price is the same as before but the taste has increased surprisingly,1,False,True,False,False,False
+297,the price was very low and i was able to eat amazing egg khichuri,1,False,False,False,True,False
+297,the price was very low and i was able to eat amazing egg khichuri,1,False,True,False,False,False
+298,the onion filling was salty and not worth paying separately,1,False,True,False,False,False
+298,the onion filling was salty and not worth paying separately,1,False,False,False,True,False
+299,the food is good but the atmosphere of the restaurant is unbearable,1,False,True,False,False,False
+299,the food is good but the atmosphere of the restaurant is unbearable,0,True,False,False,False,False
+300,each dish is very expensive and because i think there is a candle light dinner,0,False,False,False,True,False
+300,each dish is very expensive and because i think there is a candle light dinner,1,False,False,True,False,False
+301,the burger was awkward and the delivery took too long,0,False,True,False,False,False
+301,the burger was awkward and the delivery took too long,0,False,False,False,False,True
+302,the menu is full of bengali food which i like very much and the prices are reasonable,1,False,False,True,False,False
+303,the price of octopus is very high but i did not find any taste,0,False,False,False,True,False
+303,the price of octopus is very high but i did not find any taste,0,False,True,False,False,False
+304,the shik kababs were very clean and the taste was crispy,1,False,False,True,False,False
+304,the shik kababs were very clean and the taste was crispy,1,False,True,False,False,False
+305,the environment is good but the food is expensive,1,True,False,False,False,False
+305,the environment is good but the food is expensive,0,False,False,False,True,False
+306,because the taste is mouthwatering and the price is low,1,False,True,False,False,False
+306,because the taste is mouthwatering and the price is low,1,False,False,False,True,False
+307,the beef was so soft and juicy that i cant explain it but the price was high,1,False,True,False,False,False
+307,the beef was so soft and juicy that i cant explain it but the price was high,0,False,False,False,True,False
+308,steakhouses add other items besides steak and the prices are reasonable,1,False,False,True,False,False
+308,steakhouses add other items besides steak and the prices are reasonable,1,False,False,False,True,False
+309,i cant believe that i can see bot items in the restaurant but the price is a bit high though,1,False,False,True,False,False
+309,i cant believe that i can see bot items in the restaurant but the price is a bit high though,0,False,False,False,True,False
+310,thats why the taste is slightly different and the price is same as normal khichuriegg,1,False,True,False,False,False
+311,the price of the food is so high and then the amount of vat seems more than other restaurants to me,0,False,False,False,True,False
+311,the price of the food is so high and then the amount of vat seems more than other restaurants to me,0,False,False,True,False,False
+312,gave fair service but the taste of their food was very good,1,False,True,False,False,False
+313,its taste was decent but the price was 1000 rupees which was a bit high,0,False,False,False,True,False
+314,the price of taki fish bharta is 10 tk but the taste is very strong,1,False,False,False,True,False
+314,the price of taki fish bharta is 10 tk but the taste is very strong,1,False,True,False,False,False
+315,the price of hilsa fish tail filling was also low and the taste was decent,1,False,False,False,True,False
+316,restaurant food quality is good but seating is bad,1,False,True,False,False,False
+316,restaurant food quality is good but seating is bad,0,True,False,False,False,False
+317,the quality of the food was very bad but the restaurant was very expensive,0,False,True,False,False,False
+317,the quality of the food was very bad but the restaurant was very expensive,0,False,False,False,True,False
+318,the prices were too high to say the least and the quality of the food was not bad,0,False,False,False,True,False
+318,the prices were too high to say the least and the quality of the food was not bad,0,False,True,False,False,False
+319,chuijhal spice seems not well used and the atmosphere is not very good,0,False,True,False,False,False
+319,chuijhal spice seems not well used and the atmosphere is not very good,0,True,False,False,False,False
+320,the best finny you will ever eat and the price is very low too,1,False,True,False,False,False
+320,the best finny you will ever eat and the price is very low too,1,False,False,False,True,False
+321,the hawaiian sweets were much sweeter and the customers were served very quickly,1,False,True,False,False,False
+321,the hawaiian sweets were much sweeter and the customers were served very quickly,1,False,False,False,False,True
+322,everything is more modern but still the atmosphere is not liked by many,1,False,False,True,False,False
+322,everything is more modern but still the atmosphere is not liked by many,0,True,False,False,False,False
+323,the luchis were not well made and the cost of cow stress was high,0,False,True,False,False,False
+323,the luchis were not well made and the cost of cow stress was high,0,False,False,False,True,False
+324,the food prices in the restaurants in the trade fair are high and the quality is very bad,0,False,False,False,True,False
+324,the food prices in the restaurants in the trade fair are high and the quality is very bad,0,False,True,False,False,False
+325,they have improved the service but the quality of the food has not changed much,1,False,False,False,False,True
+326,they have paid attention to the quality of the food but they seem to have forgotten about the service,1,False,True,False,False,False
+326,they have paid attention to the quality of the food but they seem to have forgotten about the service,0,False,False,False,False,True
+327,the jhal fry portion was very juicy and the price was within the common mans budget,1,False,True,False,False,False
+327,the jhal fry portion was very juicy and the price was within the common mans budget,1,False,False,False,True,False
+328,the head of boal fish was very big and the price was only 150 taka,1,False,True,False,False,False
+328,the head of boal fish was very big and the price was only 150 taka,1,False,False,False,True,False
+329,adding jaggery to vapa pitha has increased the taste and the price is only 7 rupees,1,False,True,False,False,False
+329,adding jaggery to vapa pitha has increased the taste and the price is only 7 rupees,1,False,False,False,True,False
+330,doesnt take long to wait and tastes great too,1,False,False,False,False,True
+330,doesnt take long to wait and tastes great too,1,False,True,False,False,False
+331,they provided good service and their ice creams were also tasty,1,True,False,False,False,False
+331,they provided good service and their ice creams were also tasty,1,False,True,False,False,False
+332,there was a lot and the quality wasnt bad,1,False,False,True,False,False
+333,the quality of the food is fair but there is too much traffic for the waiters to use,1,False,False,False,False,True
+334,the restaurant is very hifi but i dont understand how the price of everything is so low,1,True,False,False,False,False
+334,the restaurant is very hifi but i dont understand how the price of everything is so low,1,False,False,False,True,False
+335,the quality of the food here is good and the price is a bit high,1,False,True,False,False,False
+335,the quality of the food here is good and the price is a bit high,0,False,False,False,True,False
+336,the reviews of the restaurant online were bad but i found the quality of the food to be good,0,False,False,True,False,False
+336,the reviews of the restaurant online were bad but i found the quality of the food to be good,1,False,True,False,False,False
+337,the caramel tastes completely different in the coffee and the flavor seems to be better for the surroundings,1,False,True,False,False,False
+337,the caramel tastes completely different in the coffee and the flavor seems to be better for the surroundings,1,True,False,False,False,False
+338,the food ideas here are very unique and not too expensive,1,False,False,True,False,False
+338,the food ideas here are very unique and not too expensive,1,False,False,False,True,False
+339,the taste of the food is bad but the price is sky high,0,False,True,False,False,False
+339,the taste of the food is bad but the price is sky high,0,False,False,False,True,False
+340,food prices here are very low and hence very good restaurant for bachelors,1,False,False,False,True,False
+340,food prices here are very low and hence very good restaurant for bachelors,1,False,False,True,False,False
+341,chhola baturas chickpeas are just that and their serving was very fast,1,False,True,False,False,False
+341,chhola baturas chickpeas are just that and their serving was very fast,1,False,False,False,False,True
+342,terrible food and restaurant environment is very bad,0,False,True,False,False,False
+342,terrible food and restaurant environment is very bad,0,True,False,False,False,False
+343,earlier only the quality of food was bad and now the service is also bad,0,False,True,False,False,False
+343,earlier only the quality of food was bad and now the service is also bad,0,False,False,False,False,True
+344,orders take slow and the atmosphere feels a bit stuffy,0,False,False,False,False,True
+344,orders take slow and the atmosphere feels a bit stuffy,0,True,False,False,False,False
+345,all the staff looked very professional but their service was not that good,1,False,False,True,False,False
+345,all the staff looked very professional but their service was not that good,0,False,False,False,False,True
+346,the food here is delicious and the price is cheap,1,False,True,False,False,False
+346,the food here is delicious and the price is cheap,1,False,False,False,True,False
+347,such hard meat has never been eaten before and the condition of the restaurant is also bad,0,False,True,False,False,False
+347,such hard meat has never been eaten before and the condition of the restaurant is also bad,0,True,False,False,False,False
+348,i have never experienced such harassment in any restaurant before and the quality of the food was not very good,0,False,False,False,False,True
+348,i have never experienced such harassment in any restaurant before and the quality of the food was not very good,0,False,True,False,False,False
+349,i couldnt find any trace of butter in the butter naan but everything else was good,0,False,True,False,False,False
+349,i couldnt find any trace of butter in the butter naan but everything else was good,1,False,False,True,False,False
+350,i came to this restaurant today and saw what is called good service but the price of everything was very high,1,False,False,False,False,True
+350,i came to this restaurant today and saw what is called good service but the price of everything was very high,0,False,False,False,True,False
+351,they dont pay any attention to the quality of the food but they set the price too high,0,False,True,False,False,False
+351,they dont pay any attention to the quality of the food but they set the price too high,0,False,False,False,True,False
+352,the decoration of the restaurant is very unique and i think it has the best atmosphere,1,True,False,False,False,False
+352,the decoration of the restaurant is very unique and i think it has the best atmosphere,1,False,False,True,False,False
+353,although there are few employees they are giving very good service to everyone,1,False,False,True,False,False
+353,although there are few employees they are giving very good service to everyone,1,False,False,False,False,True
+354,the rules of the restaurant were not very good and the behavior of the employees was also bad,0,False,False,True,False,False
+354,the rules of the restaurant were not very good and the behavior of the employees was also bad,0,False,False,False,False,True
+355,restaurant filled with all useless employees and good atmosphere is also sorely lacking,0,False,False,False,False,True
+355,restaurant filled with all useless employees and good atmosphere is also sorely lacking,0,True,False,False,False,False
+356,the taste of the food is unmatched and the surroundings are also very beautiful,1,False,True,False,False,False
+356,the taste of the food is unmatched and the surroundings are also very beautiful,1,True,False,False,False,False
+357,the price of the food is high but the quality of the food is not so good,0,False,False,False,True,False
+357,the price of the food is high but the quality of the food is not so good,0,False,True,False,False,False
+358,the atmosphere of the restaurant is a little old fashioned but the taste of the food sticks to the tongue,1,False,True,False,False,False
+359,the quantity of food should be less and the focus should be more on service,0,False,True,False,False,False
+359,the quantity of food should be less and the focus should be more on service,0,False,False,False,False,True
+360,i accept that the price of coffee is low but if i eat badly then it is a problem,1,False,False,False,True,False
+360,i accept that the price of coffee is low but if i eat badly then it is a problem,0,False,True,False,False,False
+361,some fake restaurants and food prices are higher than the original places,0,False,False,True,False,False
+361,some fake restaurants and food prices are higher than the original places,0,False,False,False,True,False
+362,the chicken corn soup was so salty but the atmosphere of the restaurant was very good,0,False,True,False,False,False
+362,the chicken corn soup was so salty but the atmosphere of the restaurant was very good,1,True,False,False,False,False
+363,the behavior of the staff was very unprofessional and the quality of the food was exceptional,1,False,False,False,False,True
+363,the behavior of the staff was very unprofessional and the quality of the food was exceptional,1,False,True,False,False,False
+364,today the quality of food is acceptable but the price is very bad experience in this restaurant,0,False,True,False,False,False
+364,today the quality of food is acceptable but the price is very bad experience in this restaurant,0,False,False,False,True,False
+365,we were all very impressed but the food was very expensive,1,False,False,True,False,False
+365,we were all very impressed but the food was very expensive,0,False,False,False,True,False
+366,food prices are lower than other nearby places but the food is very expensive,1,False,False,False,True,False
+366,food prices are lower than other nearby places but the food is very expensive,0,False,True,False,False,False
+367,the chicken was completely burnt and the service was pretty bad,0,False,True,False,False,False
+367,the chicken was completely burnt and the service was pretty bad,0,False,False,False,False,True
+368,the taste of the sushi was not that great but the atmosphere of the restaurant was so good that i would go there again,1,True,False,False,False,False
+369,within 100 taka you can only get half tehari and no meat in tehari,0,False,False,True,False,False
+369,within 100 taka you can only get half tehari and no meat in tehari,0,False,True,False,False,False
+370,i dont like sushi that much but i am satisfied with their service,0,False,True,False,False,False
+370,i dont like sushi that much but i am satisfied with their service,1,False,False,False,False,True
+371,the french fries taste average but the whole item is overpriced i think,0,False,False,False,True,False
+372,the quality is good but the quantity is very low compared to the price,1,False,True,False,False,False
+372,the quality is good but the quantity is very low compared to the price,0,False,False,False,True,False
+373,we all really liked the food and the price was within the range,1,False,True,False,False,False
+373,we all really liked the food and the price was within the range,1,False,False,False,True,False
+374,the amount of food is fair but the bill brought tears to my eyes,0,False,False,False,True,False
+375,a very good mustard is available from teharita and the price is only 100 rupees,1,False,True,False,False,False
+375,a very good mustard is available from teharita and the price is only 100 rupees,1,False,False,False,True,False
+376,the atmosphere of the restaurant is very refreshing and the price of the food here is also very good,1,True,False,False,False,False
+376,the atmosphere of the restaurant is very refreshing and the price of the food here is also very good,1,False,False,False,True,False
+377,the broth of the chicken polao was absolutely delicious and the atmosphere was very calm in the restaurant,1,False,True,False,False,False
+377,the broth of the chicken polao was absolutely delicious and the atmosphere was very calm in the restaurant,1,True,False,False,False,False
+378,the place is very classy but there is only 1 item inside 100 taka,1,True,False,False,False,False
+378,the place is very classy but there is only 1 item inside 100 taka,0,False,False,False,True,False
+379,the brownie was very soft and tasty and the price was only 100 taka,1,False,True,False,False,False
+379,the brownie was very soft and tasty and the price was only 100 taka,1,False,False,False,True,False
+380,the juicy jillapis were full of juice but the price was higher than the hotels outside,1,False,True,False,False,False
+380,the juicy jillapis were full of juice but the price was higher than the hotels outside,0,False,False,False,True,False
+381,the prices are really high and the taste is not much better than the street hotels,0,False,False,False,True,False
+382,the amount of chicken in the chicken was incredibly high and the price seemed fair to me,1,False,True,False,False,False
+383,the dalpuris were not too oily but the price was high,1,False,True,False,False,False
+383,the dalpuris were not too oily but the price was high,0,False,False,False,True,False
+384,the pizza was huge and cost only 5 rupees,1,False,True,False,False,False
+384,the pizza was huge and cost only 5 rupees,1,False,False,False,True,False
+385,i have never seen a cleaner restaurant and the food environment was different,1,True,False,False,False,False
+385,i have never seen a cleaner restaurant and the food environment was different,1,False,False,False,False,True
+386,the chicken moghlaita was good but by no means a 150 rupee meal,1,False,True,False,False,False
+386,the chicken moghlaita was good but by no means a 150 rupee meal,0,False,False,False,True,False
+387,kebab and luchita together tasted normal but the combo was very good for 50 taka,1,False,False,False,True,False
+388,everything is very expensive here and the service is very slow,0,False,False,False,True,False
+388,everything is very expensive here and the service is very slow,0,False,False,False,False,True
+389,everyone will come here if they want to try jilapi with rabri and the price is very low,1,False,True,False,False,False
+389,everyone will come here if they want to try jilapi with rabri and the price is very low,1,False,False,False,True,False
+390,the density of the soup was high and the price was only 90 taka,1,False,True,False,False,False
+390,the density of the soup was high and the price was only 90 taka,1,False,False,False,True,False
+391,there were more or less good ingredients in the soup but the quantity was very less compared to the price,1,False,True,False,False,False
+391,there were more or less good ingredients in the soup but the quantity was very less compared to the price,0,False,False,False,True,False
+392,i liked both the main and side dishes and was also very happy with their service,1,False,True,False,False,False
+392,i liked both the main and side dishes and was also very happy with their service,1,False,False,False,False,True
+393,80 taka per plate of soup but 2 people can eat it if they order any other side dish,1,False,False,False,True,False
+393,80 taka per plate of soup but 2 people can eat it if they order any other side dish,1,False,True,False,False,False
+394,the price is a bit high but compared to that the ambience and quantity looks very good,0,False,False,False,True,False
+394,the price is a bit high but compared to that the ambience and quantity looks very good,1,False,True,False,False,False
+395,i feel like their tacos have improved a lot and the prices havent gone up that much,1,False,True,False,False,False
+396,the pizza had too many toppings which kept the taste but we were all disappointed with their service,1,False,True,False,False,False
+396,the pizza had too many toppings which kept the taste but we were all disappointed with their service,0,False,False,False,False,True
+397,they tried hard to provide good service but could not succeed due to bad environment,1,False,False,True,False,False
+397,they tried hard to provide good service but could not succeed due to bad environment,0,True,False,False,False,False
+398,i like everything very much but i will deduct a number because the seat is not very comfortable,1,False,False,True,False,False
+398,i like everything very much but i will deduct a number because the seat is not very comfortable,0,True,False,False,False,False
+399,the price of the tacos is higher than the previous restaurant but they ate it because they paid less,0,False,False,False,True,False
+399,the price of the tacos is higher than the previous restaurant but they ate it because they paid less,0,False,True,False,False,False
+400,the chicken in the tacos was not overcooked and the fillings were not that good either,0,False,True,False,False,False
+400,the chicken in the tacos was not overcooked and the fillings were not that good either,0,False,False,True,False,False
+401,the price has skyrocketed but the taste has gone down to earth,0,False,False,False,True,False
+401,the price has skyrocketed but the taste has gone down to earth,0,False,True,False,False,False
+402,all things considered it was good and the taste was very authentic,1,False,False,True,False,False
+402,all things considered it was good and the taste was very authentic,1,False,True,False,False,False
+403,i liked the idea of them and the taste was good,1,False,False,True,False,False
+403,i liked the idea of them and the taste was good,1,False,True,False,False,False
+404,the taste is so good here but the price is a bit high,1,False,True,False,False,False
+404,the taste is so good here but the price is a bit high,0,False,False,False,True,False
+405,if i talk about the taste only i like it and with it i got a touch of homely atmosphere in the restaurant,1,False,True,False,False,False
+405,if i talk about the taste only i like it and with it i got a touch of homely atmosphere in the restaurant,1,True,False,False,False,False
+406,the side dishes were very good and the price was much less than i expected,1,False,True,False,False,False
+406,the side dishes were very good and the price was much less than i expected,1,False,False,False,True,False
+407,the food is cheap but the taste seemed authentic to me i know why,1,False,False,False,True,False
+407,the food is cheap but the taste seemed authentic to me i know why,1,False,True,False,False,False
+408,the side dishes are better than the main course but the price is reasonable,1,False,True,False,False,False
+409,the environment of madhuban hotel is not as noisy as the previous hotels and the food prices are also in the middle range,1,True,False,False,False,False
+410,madhubans jhalfry is not comparable to other hotels but the price is a bit higher,1,False,True,False,False,False
+410,madhubans jhalfry is not comparable to other hotels but the price is a bit higher,0,False,False,False,True,False
+411,the environment was very chaotic and the employees did not pay much attention to cleanliness,0,True,False,False,False,False
+411,the environment was very chaotic and the employees did not pay much attention to cleanliness,0,False,False,True,False,False
+412,there are many options here for cheap prices and light snacks,1,False,False,False,True,False
+412,there are many options here for cheap prices and light snacks,1,False,False,True,False,False
+413,its hard to find eggs in eggchop and everything is rotten,0,False,True,False,False,False
+413,its hard to find eggs in eggchop and everything is rotten,0,False,False,True,False,False
+414,seeing the prices go up and the quantity of food go down makes my head spin,0,False,False,False,True,False
+414,seeing the prices go up and the quantity of food go down makes my head spin,0,False,True,False,False,False
+415,although the price here is lower than the neighboring shops but the taste of the food is not so good so people gather in the neighboring shops,1,False,False,False,True,False
+415,although the price here is lower than the neighboring shops but the taste of the food is not so good so people gather in the neighboring shops,0,False,True,False,False,False
+416,although i had to spend a little more money this money is nothing in front of the good quality service i got,0,False,False,False,True,False
+416,although i had to spend a little more money this money is nothing in front of the good quality service i got,1,False,False,False,False,True
+417,the food was mouthwatering and the prices were not too high,1,False,True,False,False,False
+418,the timing of the meal was just right and the total cost was very less per person,1,False,False,True,False,False
+418,the timing of the meal was just right and the total cost was very less per person,1,False,False,False,True,False
+419,hearing about the price of prawns and the atmosphere of the fat uncles hotel made me want to go there,0,False,False,False,True,False
+419,hearing about the price of prawns and the atmosphere of the fat uncles hotel made me want to go there,0,True,False,False,False,False
+420,although the amount of money spent was reasonable the condition of the restaurants food was quite good,1,False,True,False,False,False
+421,if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,1,False,False,True,False,False
+421,if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,1,False,False,False,True,False
+422,the service was relatively poor but the quality of the food made up for it,0,False,False,False,False,True
+422,the service was relatively poor but the quality of the food made up for it,1,False,True,False,False,False
+424,the extra jos atmosphere and food quality is also unstable,1,True,False,False,False,False
+424,the extra jos atmosphere and food quality is also unstable,1,False,True,False,False,False
+425,the food here tastes a little better but nothing else is quite customerfriendly,1,False,True,False,False,False
+425,the food here tastes a little better but nothing else is quite customerfriendly,0,False,False,True,False,False
+427,the restaurant is well decorated beyond words and the quality of the food was much better than i expected,1,True,False,False,False,False
+427,the restaurant is well decorated beyond words and the quality of the food was much better than i expected,1,False,True,False,False,False
+428,foreign customers also said that the food tasted very authentic to them and they were also very happy with the behavior of the waiters,1,False,True,False,False,False
+428,foreign customers also said that the food tasted very authentic to them and they were also very happy with the behavior of the waiters,1,False,False,False,False,True
+429,i dont understand how the staff of the restaurant handled so many customers and the atmosphere of the restaurant was very quiet even though there were many people,1,False,False,False,False,True
+429,i dont understand how the staff of the restaurant handled so many customers and the atmosphere of the restaurant was very quiet even though there were many people,1,True,False,False,False,False
+430,people should learn from this restaurant how to cheat people on food taste and price,0,False,True,False,False,False
+430,people should learn from this restaurant how to cheat people on food taste and price,0,False,False,False,True,False
+431,waiters were nowhere to be found and we were served cold food,0,False,False,False,False,True
+431,waiters were nowhere to be found and we were served cold food,0,False,True,False,False,False
+432,the taste of the food was not good and the price was also not good,0,False,True,False,False,False
+432,the taste of the food was not good and the price was also not good,0,False,False,False,True,False
+433,i spent very little money but it seems like i am eating nectar,1,False,False,False,True,False
+433,i spent very little money but it seems like i am eating nectar,1,False,True,False,False,False
+434,finally what i can say is that like kakali furniture the food in this restaurant is also low in price and good in quality,1,False,False,False,True,False
+434,finally what i can say is that like kakali furniture the food in this restaurant is also low in price and good in quality,1,False,True,False,False,False
+435,there was nothing sweet about lachchi and the price was too expensive,0,False,True,False,False,False
+435,there was nothing sweet about lachchi and the price was too expensive,0,False,False,False,True,False
+436,waiting in line for nachos made me cringe but when i finally got to eat the frustration was gone,0,False,False,False,False,True
+436,waiting in line for nachos made me cringe but when i finally got to eat the frustration was gone,1,False,True,False,False,False
+437,the taste of the food is very bad and the service is full of twelve bells in the restaurant,0,False,True,False,False,False
+437,the taste of the food is very bad and the service is full of twelve bells in the restaurant,0,False,False,False,False,True
+438,the food was not as good as i thought it was high quality food in a word the taste was normal but the price was not cheap at all,0,False,False,False,True,False
+439,no environment and no service,0,True,False,False,False,False
+439,no environment and no service,0,False,False,False,False,True
+440,home cooked food is better than this restaurant and you dont have to wait so long at home,0,False,True,False,False,False
+440,home cooked food is better than this restaurant and you dont have to wait so long at home,0,False,False,False,False,True
+441,although the restaurant is very old it has managed to keep its atmosphere as good as before,1,False,False,True,False,False
+441,although the restaurant is very old it has managed to keep its atmosphere as good as before,0,True,False,False,False,False
+442,although the restaurant is very old it has managed to maintain the quality of the food,1,False,True,False,False,False
+442,although the restaurant is very old it has managed to maintain the quality of the food,1,True,False,False,False,False
+443,karim mamas khichuri is a little thinner so the taste is a little different and the price is not that high at just 25,1,False,True,False,False,False
+443,karim mamas khichuri is a little thinner so the taste is a little different and the price is not that high at just 25,1,False,False,False,True,False
+444,this restaurant seems to put all the nearby restaurants out of business with its food taste and service,1,False,True,False,False,False
+444,this restaurant seems to put all the nearby restaurants out of business with its food taste and service,1,False,False,False,False,True
+445,because the taste of nectar is the same as before but the price has increased a lot,1,False,True,False,False,False
+445,because the taste of nectar is the same as before but the price has increased a lot,0,False,False,False,True,False
+446,the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,1,True,False,False,False,False
+446,the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,0,False,False,False,True,False
+447,the ghost play that is performed every now and then in bhoot adda attracts more customers and the quality of food is also good there,1,False,False,True,False,False
+447,the ghost play that is performed every now and then in bhoot adda attracts more customers and the quality of food is also good there,1,False,True,False,False,False
+448,in short the best place for any type of meeting and the experience with customers is also very good,1,False,False,True,False,False
+448,in short the best place for any type of meeting and the experience with customers is also very good,1,False,False,False,False,True
+449,couldnt be more happy with the waiters service but the taste of the food satisfied me,0,False,False,False,False,True
+449,couldnt be more happy with the waiters service but the taste of the food satisfied me,1,False,True,False,False,False
+450,very good food but the location of the restaurant should have been chosen better,1,False,True,False,False,False
+450,very good food but the location of the restaurant should have been chosen better,0,False,False,True,False,False
+451,entering the restaurant i got a different atmosphere and also got good quality food,1,True,False,False,False,False
+451,entering the restaurant i got a different atmosphere and also got good quality food,1,False,True,False,False,False
+452,this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,1,False,False,True,False,False
+452,this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,0,False,False,False,True,False
+453,there is a separate staff to play with the kids in this restaurant and despite all the facilities the food here is reasonably priced,1,False,False,False,False,True
+454,the restaurant is always full of customers because it is so conscious about food quality and customer satisfaction,1,False,True,False,False,False
+454,the restaurant is always full of customers because it is so conscious about food quality and customer satisfaction,1,False,False,False,False,True
+455,the quality of food and their service has changed so much that i cant help but be happy,1,False,True,False,False,False
+455,the quality of food and their service has changed so much that i cant help but be happy,1,False,False,False,False,True
+456,the decoration of the restaurant is very simple but i know why this thing has made the atmosphere here beautiful,1,True,False,False,False,False
+457,the ac in the restaurant is not working and all the customers are in a bad mood as they wait for a long time for the food,0,True,False,False,False,False
+457,the ac in the restaurant is not working and all the customers are in a bad mood as they wait for a long time for the food,0,False,False,False,False,True
+458,service was good but i found the waiters to be overfriendly,1,False,False,False,False,True
+458,service was good but i found the waiters to be overfriendly,0,False,False,True,False,False
+459,the food and ambiance of other restaurants are not even close to this one,1,False,True,False,False,False
+459,the food and ambiance of other restaurants are not even close to this one,1,True,False,False,False,False
+460,the food of this restaurant created a love for fish in my mind but the price is too high,1,False,True,False,False,False
+460,the food of this restaurant created a love for fish in my mind but the price is too high,0,False,False,False,True,False
+461,food prices have gone up a lot and because of this the popularity of restaurants is not what it used to be,0,False,False,False,True,False
+461,food prices have gone up a lot and because of this the popularity of restaurants is not what it used to be,0,False,False,True,False,False
+462,the mind was full before the stomach by eating the food but it cost a lot of money,1,False,True,False,False,False
+462,the mind was full before the stomach by eating the food but it cost a lot of money,0,False,False,False,True,False
+463,the outer layer of the dumpling was very thick and tasty to eat and did not have to wait too long for the food,1,False,True,False,False,False
+463,the outer layer of the dumpling was very thick and tasty to eat and did not have to wait too long for the food,1,False,False,False,False,True
+464,there arent many options on the menu which is what most customers dislike about this restaurant but the food they do have is very tasty,0,False,False,True,False,False
+464,there arent many options on the menu which is what most customers dislike about this restaurant but the food they do have is very tasty,1,False,True,False,False,False
+465,as a businessman i can say that i liked the restaurants business policy and food quality,1,False,False,True,False,False
+465,as a businessman i can say that i liked the restaurants business policy and food quality,1,False,True,False,False,False
+466,they have kept the price low but they have mixed a lot of fruits in faluda,1,False,False,False,True,False
+466,they have kept the price low but they have mixed a lot of fruits in faluda,1,False,True,False,False,False
+467,the taste shows the original mothers stock rasmalai and the price is very reasonable,1,False,True,False,False,False
+467,the taste shows the original mothers stock rasmalai and the price is very reasonable,1,False,False,False,True,False
+468,if i am ashamed i will not come to this restaurant to experience such bad food and service again,0,False,True,False,False,False
+468,if i am ashamed i will not come to this restaurant to experience such bad food and service again,0,False,False,False,False,True
+469,the price of food at boomers cafe is so high but the quantity of food is disappointing,0,False,False,False,True,False
+469,the price of food at boomers cafe is so high but the quantity of food is disappointing,0,False,True,False,False,False
+470,no matter how good the service is this restaurant has stolen a lot of food,1,False,False,False,False,True
+470,no matter how good the service is this restaurant has stolen a lot of food,0,False,True,False,False,False
+471,they are providing slow service but still taking care of customer needs,0,False,False,False,False,True
+471,they are providing slow service but still taking care of customer needs,1,False,False,True,False,False
+472,first i was upset by the price of the food and then after eating the food i was even more upset,0,False,False,False,True,False
+472,first i was upset by the price of the food and then after eating the food i was even more upset,0,False,True,False,False,False
+473,there is no room to complain about the food quality and service of this restaurant,1,False,True,False,False,False
+473,there is no room to complain about the food quality and service of this restaurant,1,False,False,False,False,True
+474,every item tasted amazing and their workmanship was better than other places,1,False,True,False,False,False
+474,every item tasted amazing and their workmanship was better than other places,1,False,False,False,False,True
+475,i spent a lot of money but i got bad food,0,False,False,False,True,False
+475,i spent a lot of money but i got bad food,0,False,True,False,False,False
+476,i could not cut any numbers in the environment and service of the restaurant,1,True,False,False,False,False
+476,i could not cut any numbers in the environment and service of the restaurant,1,False,False,False,False,True
+477,all restaurants need to learn how to cook steak from them and have a very charming atmosphere,1,False,True,False,False,False
+477,all restaurants need to learn how to cook steak from them and have a very charming atmosphere,1,True,False,False,False,False
+478,all the waiters know very well what is on the menu and the restaurant has managed to offer a very good atmosphere to the customers,1,False,False,False,False,True
+478,all the waiters know very well what is on the menu and the restaurant has managed to offer a very good atmosphere to the customers,1,True,False,False,False,False
+479,they gave us welcome drinks as soon as we sat in the restaurant which i like very much and the rest of their service was also very good,1,False,False,True,False,False
+479,they gave us welcome drinks as soon as we sat in the restaurant which i like very much and the rest of their service was also very good,1,False,False,False,False,True
+480,ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,0,False,False,False,False,True
+480,ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,0,False,False,False,True,False
+481,the inside of the steak was very pink and the servers were very polite,1,False,True,False,False,False
+481,the inside of the steak was very pink and the servers were very polite,1,False,False,False,False,True
+482,we were all crushed by the taste and quantity of mejbanihaleem and the price was also low,1,False,True,False,False,False
+482,we were all crushed by the taste and quantity of mejbanihaleem and the price was also low,1,False,False,False,True,False
+483,the price may be high but believe me you all play it and you wont like anything else,0,False,False,False,True,False
+483,the price may be high but believe me you all play it and you wont like anything else,1,False,True,False,False,False
+484,i didnt like it and the food was too expensive including vat,0,False,False,True,False,False
+484,i didnt like it and the food was too expensive including vat,0,False,False,False,True,False
+485,the fried chicken is a bit different and the price is much lower than other restaurants,1,False,True,False,False,False
+485,the fried chicken is a bit different and the price is much lower than other restaurants,1,False,False,False,True,False
+486,their specialty is mushroom soup i can tell by eating it and the price of the item was very reasonable,1,False,True,False,False,False
+486,their specialty is mushroom soup i can tell by eating it and the price of the item was very reasonable,1,False,False,False,True,False
+487,none of us liked the fried rice khelam ki vishiri and everything else,0,False,True,False,False,False
+487,none of us liked the fried rice khelam ki vishiri and everything else,0,False,False,True,False,False
+488,the first experience of tea with malai almonds was very good and the price of tea is very low,1,False,True,False,False,False
+488,the first experience of tea with malai almonds was very good and the price of tea is very low,1,False,False,False,True,False
+489,maina mamas special halim had enough meat and the price was under 100 rupees,1,False,True,False,False,False
+489,maina mamas special halim had enough meat and the price was under 100 rupees,1,False,False,False,True,False
+490,the idea of making haleem is unique but i dont like the taste much,1,False,False,True,False,False
+490,the idea of making haleem is unique but i dont like the taste much,0,False,True,False,False,False
+491,halim is very strict but i disliked the cleanliness aspect,1,False,True,False,False,False
+491,halim is very strict but i disliked the cleanliness aspect,0,True,False,False,False,False
+492,today is the first time i saw this restaurant that the environment can be so good and the price is quite within the range,1,False,True,False,False,False
+493,they are selling upma at the price of water but i didnt find any sign of nuts in it,1,False,False,False,True,False
+493,they are selling upma at the price of water but i didnt find any sign of nuts in it,0,False,True,False,False,False
+494,uncles paan shop looks very colorful and we are all impressed by the speed of his paan making,1,False,False,True,False,False
+494,uncles paan shop looks very colorful and we are all impressed by the speed of his paan making,1,False,False,False,False,True
+495,the smell of the food is tasteless and if i could i would take back the bill that i paid so much,0,False,True,False,False,False
+495,the smell of the food is tasteless and if i could i would take back the bill that i paid so much,0,False,False,False,True,False
+496,the size of the bag is small and hence the price is right for me,0,False,True,False,False,False
+496,the size of the bag is small and hence the price is right for me,1,False,False,False,True,False
+497,the kebab looks very tasty and the price is similar to other restaurants,1,False,True,False,False,False
+498,the beef kebab of this restaurant is a must try item and their service quality and speed is very good,1,False,True,False,False,False
+498,the beef kebab of this restaurant is a must try item and their service quality and speed is very good,1,False,False,False,False,True
+499,the chickenballs had a good texture but the taste was not that good,1,False,False,False,False,True
+499,the chickenballs had a good texture but the taste was not that good,0,False,True,False,False,False
+500,and i dont like the meat of rajhas so much but this is good,0,False,True,False,False,False
+500,and i dont like the meat of rajhas so much but this is good,1,False,True,False,False,False
+501,the price of the pizza was high but the taste was good though,0,False,False,False,True,False
+501,the price of the pizza was high but the taste was good though,1,False,True,False,False,False
+502,everything is reasonably priced and the ambiance of the restaurant is also good,1,False,False,False,True,False
+502,everything is reasonably priced and the ambiance of the restaurant is also good,1,True,False,False,False,False
+503,the amount of salt in the food was too bad and the environment was not good for children,0,False,True,False,False,False
+503,the amount of salt in the food was too bad and the environment was not good for children,0,True,False,False,False,False
+504,the food was good but still we felt overcharged,0,False,True,False,False,False
+504,the food was good but still we felt overcharged,0,False,False,False,True,False
+505,the food is plentiful and the prices are affordable,1,False,True,False,False,False
+505,the food is plentiful and the prices are affordable,1,False,False,False,True,False
+506,there is a lot of variety in the taste of the food and the behavior of the staff was also very good,1,False,True,False,False,False
+506,there is a lot of variety in the taste of the food and the behavior of the staff was also very good,1,False,False,False,False,True
+507,i could eat such good tasting food with my friends after a long time and their service was also amazing,1,False,True,False,False,False
+507,i could eat such good tasting food with my friends after a long time and their service was also amazing,1,False,False,False,False,True
+508,food service is very good and their atmosphere is bad,1,False,False,False,False,True
+508,food service is very good and their atmosphere is bad,0,True,False,False,False,False
+509,i dont understand how the food is so bad and the price is too high,0,False,True,False,False,False
+509,i dont understand how the food is so bad and the price is too high,0,False,False,False,True,False
+510,food prices are a little lower than other places and cleanliness is also very good,1,False,False,False,True,False
+510,food prices are a little lower than other places and cleanliness is also very good,1,False,False,False,False,True
+511,biryani is cheap but at the same time the quantity of meat is also less,1,False,False,False,True,False
+511,biryani is cheap but at the same time the quantity of meat is also less,0,False,True,False,False,False
+512,the quality of the food was average but the prices were high,0,False,False,False,True,False
+513,the sweets were disgusting and i hated their use,0,False,True,False,False,False
+513,the sweets were disgusting and i hated their use,0,False,False,False,False,True
+514,the food tasted so good that i was happy and i was giving them gratuity for good use,1,False,True,False,False,False
+514,the food tasted so good that i was happy and i was giving them gratuity for good use,1,False,False,False,False,True
+515,the staff were rude and the food prices were sky high,0,False,False,False,False,True
+515,the staff were rude and the food prices were sky high,0,False,False,False,True,False
+516,the price is steep but the taste is good,0,False,False,False,True,False
+516,the price is steep but the taste is good,1,False,True,False,False,False
+517,hard to find a good quality restaurant and the price is fair,1,True,False,False,False,False
+518,in todays time you cant believe the low price of the food and the atmosphere of the restaurant is also good,1,False,False,False,True,False
+518,in todays time you cant believe the low price of the food and the atmosphere of the restaurant is also good,1,True,False,False,False,False
+519,just wasted my time because the quality of food was not good and i didnt like the environment,0,False,True,False,False,False
+519,just wasted my time because the quality of food was not good and i didnt like the environment,0,True,False,False,False,False
+520,there are many items of food and the prices are also within the range which is good,1,False,True,False,False,False
+520,there are many items of food and the prices are also within the range which is good,1,False,False,False,True,False
+521,it was good to get the service in a very short time but the restaurant felt bad for the high price,1,False,False,False,False,True
+521,it was good to get the service in a very short time but the restaurant felt bad for the high price,0,False,False,False,True,False
+522,there was unrest among the employees which was bad and the atmosphere was bad for me,0,False,False,False,False,True
+522,there was unrest among the employees which was bad and the atmosphere was bad for me,0,True,False,False,False,False
+523,personally i like the atmosphere of the restaurant but the taste of the food is bad,1,True,False,False,False,False
+523,personally i like the atmosphere of the restaurant but the taste of the food is bad,0,False,True,False,False,False
+524,their service quality will not be fair but food quality was good,0,False,False,False,False,True
+524,their service quality will not be fair but food quality was good,1,False,True,False,False,False
+525,my kids love the atmosphere of the restaurant and the food here is very healthy for kids,1,True,False,False,False,False
+525,my kids love the atmosphere of the restaurant and the food here is very healthy for kids,1,False,True,False,False,False
+526,shahi khichuri did not have shahibhav so bad but their service is so good that i am impressed,0,False,True,False,False,False
+526,shahi khichuri did not have shahibhav so bad but their service is so good that i am impressed,1,False,False,False,False,True
+527,they were very bad in terms of service but good in terms of food quality,0,False,False,False,False,True
+527,they were very bad in terms of service but good in terms of food quality,1,False,True,False,False,False
+528,the cleanliness was very poor and the food prices were high,0,False,False,False,False,True
+528,the cleanliness was very poor and the food prices were high,1,False,False,False,True,False
+529,great serving of food but did not like the taste of my food,1,False,False,False,False,True
+529,great serving of food but did not like the taste of my food,0,False,True,False,False,False
+530,my home food is more fun than this restaurant and the prices are too expensive for me,0,False,True,False,False,False
+530,my home food is more fun than this restaurant and the prices are too expensive for me,0,False,False,False,True,False
+531,in the name of polao they are feeding rice to the customers but they are charging high prices,0,False,True,False,False,False
+531,in the name of polao they are feeding rice to the customers but they are charging high prices,0,False,False,False,True,False
+532,the time was good because of the atmosphere of the restaurant and their service was also amazing,1,True,False,False,False,False
+532,the time was good because of the atmosphere of the restaurant and their service was also amazing,1,False,False,False,False,True
+533,from today it is my favorite restaurant because the service here is very bad and the price of everything is very high,0,False,False,False,False,True
+533,from today it is my favorite restaurant because the service here is very bad and the price of everything is very high,0,False,False,False,True,False
+534,the taste of ice cream is still on my tongue i was so excited but the environment of their shop was very bad,1,False,True,False,False,False
+534,the taste of ice cream is still on my tongue i was so excited but the environment of their shop was very bad,0,True,False,False,False,False
+535,the food is not as good as before and their service is also bad today,0,False,True,False,False,False
+535,the food is not as good as before and their service is also bad today,0,False,False,False,False,True
+536,i never thought i would get such good quality food near home and the price is not so high,1,False,True,False,False,False
+537,i dont think that such bad quality food can be in the restaurant and the place is also very strange,0,False,True,False,False,False
+537,i dont think that such bad quality food can be in the restaurant and the place is also very strange,0,True,False,False,False,False
+538,the restaurant is my favorite because it has a good atmosphere to hang out and their service is very good,1,True,False,False,False,False
+538,the restaurant is my favorite because it has a good atmosphere to hang out and their service is very good,1,False,False,False,False,True
+539,the service condition was very jose and the location of their restaurant was also very good,1,False,False,False,False,True
+539,the service condition was very jose and the location of their restaurant was also very good,1,True,False,False,False,False
+540,drinks were expensive but tasted good though,0,False,False,False,True,False
+540,drinks were expensive but tasted good though,1,False,True,False,False,False
+541,by looking at the crowd it is clear that there is a lot of good quality food available here and the price is also very low,1,False,True,False,False,False
+541,by looking at the crowd it is clear that there is a lot of good quality food available here and the price is also very low,1,False,False,False,True,False
+542,the menu of chinese food here is very good and the atmosphere is also charming,1,False,True,False,False,False
+542,the menu of chinese food here is very good and the atmosphere is also charming,1,True,False,False,False,False
+543,the staff behaved very badly with everyone and the environment of their restaurant was also very disgusting,0,False,False,False,False,True
+543,the staff behaved very badly with everyone and the environment of their restaurant was also very disgusting,0,True,False,False,False,False
+544,i liked the fruit juice very much but was not completely happy because their service quality was so bad,1,False,True,False,False,False
+544,i liked the fruit juice very much but was not completely happy because their service quality was so bad,0,False,False,False,False,True
+545,the taste quality of the restaurant food has increased and at the same time the ambiance of their restaurant has also improved a lot,1,False,True,False,False,False
+545,the taste quality of the restaurant food has increased and at the same time the ambiance of their restaurant has also improved a lot,1,True,False,False,False,False
+546,they are selling rotten food in the name of japanese food the taste is so weird and the service is even worse,0,False,True,False,False,False
+546,they are selling rotten food in the name of japanese food the taste is so weird and the service is even worse,0,False,False,False,False,True
+547,sharma had a lot of meat and was served very quickly by the staff,1,False,True,False,False,False
+547,sharma had a lot of meat and was served very quickly by the staff,1,False,False,False,False,True
+548,the quality of food is not as good as it used to be and they are lagging behind in terms of cleanliness,0,False,True,False,False,False
+548,the quality of food is not as good as it used to be and they are lagging behind in terms of cleanliness,0,False,False,False,False,True
+549,there is no sweetness in the laddu bro and the price is so high that i am disappointed,0,False,True,False,False,False
+549,there is no sweetness in the laddu bro and the price is so high that i am disappointed,0,False,False,False,True,False
+550,i didnt understand why my friends told me to come to such a bad place but the staff were very quick,0,True,False,False,False,False
+550,i didnt understand why my friends told me to come to such a bad place but the staff were very quick,1,False,False,False,False,True
+551,the restaurant is a perfect place to have food but there is a lot of lack of space here,1,False,True,False,False,False
+551,the restaurant is a perfect place to have food but there is a lot of lack of space here,0,True,False,False,False,False
+552,the food here is worse than jail food and the service is horrible,0,False,True,False,False,False
+552,the food here is worse than jail food and the service is horrible,0,False,False,False,False,True
+553,the condition of cleanliness is worse in barota bazar and the condition of the environment is worse,0,False,False,False,False,True
+553,the condition of cleanliness is worse in barota bazar and the condition of the environment is worse,0,True,False,False,False,False
+554,the amount of food was so much that it is beyond explanation but i dont understand how the price is so low,1,False,True,False,False,False
+555,it has all the qualities of a 5 star hotel because i have never found such good food and good environment anywhere before,1,False,True,False,False,False
+555,it has all the qualities of a 5 star hotel because i have never found such good food and good environment anywhere before,1,True,False,False,False,False
+556,the staff served us the food in a short time but the food had no taste at all,1,False,False,False,False,True
+556,the staff served us the food in a short time but the food had no taste at all,0,False,True,False,False,False
+557,today i ate here and realized that the lack of salt in the food spoils the taste of the food and there were many mistakes in their serving,0,False,True,False,False,False
+557,today i ate here and realized that the lack of salt in the food spoils the taste of the food and there were many mistakes in their serving,0,False,False,False,False,True
+558,skilled staff have improved the restaurant in terms of ambience but the quality of the food remains poor,1,False,False,False,False,True
+558,skilled staff have improved the restaurant in terms of ambience but the quality of the food remains poor,0,False,True,False,False,False
+559,the taste of their food has improved a lot from before but i dont understand why they are not making the restaurant area bigger,1,False,True,False,False,False
+559,the taste of their food has improved a lot from before but i dont understand why they are not making the restaurant area bigger,0,True,False,False,False,False
+560,i dont want to come here for the bad atmosphere but the food tastes good,0,True,False,False,False,False
+560,i dont want to come here for the bad atmosphere but the food tastes good,1,False,True,False,False,False
+561,the environment of the restaurant smells like cowshed and the food tastes like bomb,0,True,False,False,False,False
+561,the environment of the restaurant smells like cowshed and the food tastes like bomb,0,False,True,False,False,False
+562,even animals will not eat such disgusting food and at the same time they are keeping the price too high,0,False,True,False,False,False
+562,even animals will not eat such disgusting food and at the same time they are keeping the price too high,0,False,False,False,True,False
+563,i was disappointed that the restaurant had so many rules but i enjoyed the food a lot,0,False,False,True,False,False
+563,i was disappointed that the restaurant had so many rules but i enjoyed the food a lot,1,False,True,False,False,False
+564,the old things in the restaurant were spoiling the atmosphere and the service of the staff was not very good,0,True,False,False,False,False
+564,the old things in the restaurant were spoiling the atmosphere and the service of the staff was not very good,0,False,False,False,False,True
+565,if the khichuri here is not available in the rain i dont like the taste of their khichuri but it takes a lot of time to deliver,1,False,True,False,False,False
+565,if the khichuri here is not available in the rain i dont like the taste of their khichuri but it takes a lot of time to deliver,0,False,False,False,False,True
+566,in summer the situation is very bad all the customers had such a hot environment and the work of the employees is very slow,0,True,False,False,False,False
+566,in summer the situation is very bad all the customers had such a hot environment and the work of the employees is very slow,0,False,False,False,False,True
+567,the space of the restaurant has increased but the taste has not increased,1,True,False,False,False,False
+567,the space of the restaurant has increased but the taste has not increased,0,False,True,False,False,False
+568,this umbrella grill doesnt like to eat so badly and the price is as high as the price of gold,0,False,True,False,False,False
+568,this umbrella grill doesnt like to eat so badly and the price is as high as the price of gold,0,False,False,False,True,False
+569,it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,0,False,False,False,True,False
+569,it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,1,True,False,False,False,False
+570,they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,1,False,False,True,False,False
+570,they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,0,False,False,False,True,False
+571,free wifi is newly added here for which feels good and also enjoying the environment well,1,False,False,True,False,False
+571,free wifi is newly added here for which feels good and also enjoying the environment well,1,True,False,False,False,False
+572,it is so bad that they show food in the menu one way and give us another way and their behavior is also disliked by everyone,0,False,True,False,False,False
+572,it is so bad that they show food in the menu one way and give us another way and their behavior is also disliked by everyone,0,False,False,False,False,True
+573,wanting to abuse the food their taste is so bad and the prices are set abominably,0,False,True,False,False,False
+573,wanting to abuse the food their taste is so bad and the prices are set abominably,0,False,False,False,True,False
+574,toxic environment and poor service,0,True,False,False,False,False
+574,toxic environment and poor service,0,False,False,False,False,True
+575,the place is decent but there was no good environment to take pictures,0,True,False,False,False,False
+576,the new item at rs 450 has caught everyones attention because it tastes so good and the price is right in comparison,1,False,True,False,False,False
+576,the new item at rs 450 has caught everyones attention because it tastes so good and the price is right in comparison,1,False,False,False,True,False
+577,the price of the food was not that bad but the quality was very bad,0,False,True,False,False,False
+578,i would recommend this restaurant for quick delivery and not too expensive,1,False,False,False,False,True
+579,i liked the words and work of the staff but the food was not so good,1,False,False,False,False,True
+579,i liked the words and work of the staff but the food was not so good,0,False,True,False,False,False
+580,it was bad habit to have insects in the food and the price was high,0,False,True,False,False,False
+580,it was bad habit to have insects in the food and the price was high,0,False,False,False,True,False
+581,great atmosphere but the food is average,1,True,False,False,False,False
+582,the nimkis were very crunchy which everyone liked but it took a long time to wait,1,False,True,False,False,False
+582,the nimkis were very crunchy which everyone liked but it took a long time to wait,0,False,False,False,False,True
+583,the quality of the masala chicken is as good as its name and the price was reasonable,1,False,True,False,False,False
+584,the food was supreme in taste and the price was also supreme,1,False,False,False,True,False
+585,the staff took a long time to serve the food and the food was not cooked well,1,False,False,False,False,True
+585,the staff took a long time to serve the food and the food was not cooked well,0,False,True,False,False,False
+586,the menu and the place are suffocating full of junk food,0,False,True,False,False,False
+586,the menu and the place are suffocating full of junk food,0,True,False,False,False,False
+587,the sizes of their chapatis were very large and the prices were also very large in size,1,False,True,False,False,False
+587,the sizes of their chapatis were very large and the prices were also very large in size,0,False,False,False,True,False
+588,the taste of the food was so shockingly good that i cant explain but it took a lot of waiting to get the service,1,False,True,False,False,False
+588,the taste of the food was so shockingly good that i cant explain but it took a lot of waiting to get the service,0,False,False,False,False,True
+589,it was very juicy and we were very happy with their delivery speed,1,False,True,False,False,False
+589,it was very juicy and we were very happy with their delivery speed,1,False,False,False,False,True
+590,i have never seen a restaurant with such lax staff but everything else was good,0,False,False,False,False,True
+590,i have never seen a restaurant with such lax staff but everything else was good,1,False,False,True,False,False
+591,eating fish in this restaurant made me hate fish even more and i felt like paying such a high price,0,False,True,False,False,False
+591,eating fish in this restaurant made me hate fish even more and i felt like paying such a high price,0,False,False,False,True,False
+592,i got everything here as people said and that is unsurpassed quality food and huge discount in price,1,False,True,False,False,False
+592,i got everything here as people said and that is unsurpassed quality food and huge discount in price,1,False,False,False,True,False
+593,they are giving a lot of discount on the price which is very popular and everyone likes their food,1,False,False,False,True,False
+593,they are giving a lot of discount on the price which is very popular and everyone likes their food,1,False,True,False,False,False
+594,food of normal price is very scarce here and they are not treating all the customers well,0,False,False,True,False,False
+594,food of normal price is very scarce here and they are not treating all the customers well,0,False,False,False,False,True
+595,i ate dumba meat for the first time in my life and i liked the taste but it cost me a lot of money,1,False,True,False,False,False
+595,i ate dumba meat for the first time in my life and i liked the taste but it cost me a lot of money,0,False,False,False,True,False
+596,from now on this restaurant is my favorite place because the staff are very friendly and their service is also fast,1,False,False,False,False,True
+597,they seem to have improved the taste of the food cooked in the clay pot and it was heartening to hear such a low price,1,False,True,False,False,False
+597,they seem to have improved the taste of the food cooked in the clay pot and it was heartening to hear such a low price,1,False,False,False,True,False
+598,their cooking is different but the employees have to pay more attention to cleanliness,1,False,True,False,False,False
+598,their cooking is different but the employees have to pay more attention to cleanliness,0,False,False,False,False,True
+599,it was a good experience eating here but the service needs to be a little faster,1,False,True,False,False,False
+599,it was a good experience eating here but the service needs to be a little faster,0,False,False,False,False,True
+600,the pizza was delicious but the experience was horrible,1,False,True,False,False,False
+600,the pizza was delicious but the experience was horrible,1,False,False,False,True,False
+601,the food was very good but the price was high,1,False,True,False,False,False
+601,the food was very good but the price was high,0,False,False,False,True,False
+602,the food was good but the atmosphere was not so good,1,False,True,False,False,False
+602,the food was good but the atmosphere was not so good,0,True,False,False,False,False
+603,food is always good and served promptly,1,False,True,False,False,False
+603,food is always good and served promptly,1,False,False,False,False,True
+604,the prices are very good and the service is excellent,1,False,False,False,True,False
+604,the prices are very good and the service is excellent,1,False,False,False,False,True
+605,the restaurant is doing a great job with the food now so its a more relaxed place,1,False,True,False,False,False
+605,the restaurant is doing a great job with the food now so its a more relaxed place,1,True,False,False,False,False
+606,although the price was not high the meat portions were huge,1,False,False,False,True,False
+606,although the price was not high the meat portions were huge,1,False,True,False,False,False
+607,service was not good food was not good either,0,False,False,False,False,True
+607,service was not good food was not good either,0,False,True,False,False,False
+608,small shop but sells food that is really good,0,False,False,True,False,False
+608,small shop but sells food that is really good,1,False,True,False,False,False
+609,the restaurant didnt have much atmosphere and the service was slow,0,True,False,False,False,False
+609,the restaurant didnt have much atmosphere and the service was slow,0,False,False,False,False,True
+610,the restaurant had no air and the food was not very good,0,True,False,False,False,False
+610,the restaurant had no air and the food was not very good,0,False,True,False,False,False
+611,when we want to celebrate something quietly,1,False,False,True,False,False
+612,ive been eating well for twenty years and this feast was the best ive ever had,1,False,True,False,False,False
+613,the food was delicious but the price was a bit high,1,False,True,False,False,False
+613,the food was delicious but the price was a bit high,0,False,False,False,True,False
+614,if you want to enjoy a clean bathroom you need to provide a cleaning service,1,True,False,False,False,False
+614,if you want to enjoy a clean bathroom you need to provide a cleaning service,0,False,False,False,False,True
+615,we have great food and great service,1,False,True,False,False,False
+615,we have great food and great service,1,False,False,False,False,True
+616,the food here is really good but the service is really bad,1,False,True,False,False,False
+616,the food here is really good but the service is really bad,0,False,False,False,False,True
+617,have a safe clean place to eat,1,False,True,False,False,False
+617,have a safe clean place to eat,1,True,False,False,False,False
+618,some people like nachos with lots of cheese i dont like desi nachos,1,False,True,False,False,False
+618,some people like nachos with lots of cheese i dont like desi nachos,0,False,True,False,False,False
+619,food was tasteless but you have to pay more,0,False,True,False,False,False
+619,food was tasteless but you have to pay more,0,False,False,False,True,False
+620,the store has a lot of delicious items and they are also reasonably priced,1,False,True,False,False,False
+620,the store has a lot of delicious items and they are also reasonably priced,1,False,False,False,True,False
+621,if you want good coffee you need a quiet environment,1,False,True,False,False,False
+621,if you want good coffee you need a quiet environment,1,True,False,False,False,False
+622,the steak was delicious and it was a great deal,1,False,True,False,False,False
+622,the steak was delicious and it was a great deal,1,False,False,False,True,False
+623,good to eat so the price is high,1,False,True,False,False,False
+623,good to eat so the price is high,0,False,False,False,True,False
+624,dumplings are not very good its too late to pay everything,0,False,True,False,False,False
+624,dumplings are not very good its too late to pay everything,0,False,False,False,False,True
+625,the food looks good but tastes bad,1,False,True,False,False,False
+625,the food looks good but tastes bad,0,False,True,False,False,False
+626,their kitchen is not very nice so people cant enjoy the taste of the food as much,0,True,False,False,False,False
+626,their kitchen is not very nice so people cant enjoy the taste of the food as much,0,False,True,False,False,False
+627,at these low prices these items are hard to find,1,False,False,False,True,False
+627,at these low prices these items are hard to find,1,False,True,False,False,False
+628,the taste of the food is not very good but the decoration of the restaurant is really nice,1,True,False,False,False,False
+629,it is usually a little less salty than other dishes the taste is unmatched,1,False,True,False,False,False
+630,the price is right but this test is different,1,False,False,False,True,False
+630,the price is right but this test is different,0,False,False,True,False,False
+631,the biryani rice was fluffy but the meat was tough,1,False,True,False,False,False
+631,the biryani rice was fluffy but the meat was tough,0,False,True,False,False,False
+632,the beef was very good but the name kalabuna was not right,1,False,True,False,False,False
+632,the beef was very good but the name kalabuna was not right,0,False,True,False,False,False
+633,i love the taste of rajhas meat but the rajahas from this shop did not taste good,1,False,True,False,False,False
+633,i love the taste of rajhas meat but the rajahas from this shop did not taste good,0,False,True,False,False,False
+634,the chicken items were very tasty and the service was very quick,1,False,True,False,False,False
+634,the chicken items were very tasty and the service was very quick,1,False,False,False,False,True
+635,schizlingter is a type of food that is served hot and fresh,1,False,True,False,False,False
+635,schizlingter is a type of food that is served hot and fresh,1,False,False,False,False,True
+636,food is more expensive but burgers are more available on the street,0,False,False,False,True,False
+636,food is more expensive but burgers are more available on the street,1,False,True,False,False,False
+637,the food was cold and we waited a long time for it to arrive,0,False,True,False,False,False
+637,the food was cold and we waited a long time for it to arrive,0,False,False,False,False,True
+638,there is no shortage of shops but i cant find good food,1,False,False,True,False,False
+638,there is no shortage of shops but i cant find good food,0,False,True,False,False,False
+639,this restaurant has a lot of reputation but the food doesnt say it,1,False,False,True,False,False
+639,this restaurant has a lot of reputation but the food doesnt say it,0,False,True,False,False,False
+640,there was not a single piece of meat after all the price is high,0,False,True,False,False,False
+640,there was not a single piece of meat after all the price is high,0,False,False,False,True,False
+641,the sub sandwich was also very good as a reward thank god the atmosphere is very good,1,False,False,False,True,False
+641,the sub sandwich was also very good as a reward thank god the atmosphere is very good,1,True,False,False,False,False
+642,all the burgers were very tasty and the prices were very reasonable,1,False,True,False,False,False
+642,all the burgers were very tasty and the prices were very reasonable,1,False,False,False,True,False
+643,the momos were very juicy and the price was reasonable,1,False,True,False,False,False
+643,the momos were very juicy and the price was reasonable,1,False,False,False,True,False
+644,the taste of their food was average but their serving was absolutely fantastic,1,False,False,False,False,True
+645,the food here was of high quality and at a great price,1,False,True,False,False,False
+645,the food here was of high quality and at a great price,1,False,False,False,True,False
+646,biryani was cold price too high,0,False,True,False,False,False
+646,biryani was cold price too high,0,False,False,False,True,False
+647,the pizza was good but the experience was terrible,1,False,True,False,False,False
+647,the pizza was good but the experience was terrible,0,False,False,False,False,True
+648,our experience with the food was good but we were very disappointed with the quality,1,False,False,False,False,True
+648,our experience with the food was good but we were very disappointed with the quality,0,False,True,False,False,False
+649,the cuts of meat were both thin and expensive,1,False,True,False,False,False
+649,the cuts of meat were both thin and expensive,0,False,False,False,True,False
+650,awful halim the environment is also bad,0,False,True,False,False,False
+650,awful halim the environment is also bad,0,True,False,False,False,False
+651,this soup was very good with lots of chicken and mushrooms,1,False,True,False,False,False
+652,i really enjoyed the pizza and the service was pretty good,1,False,True,False,False,False
+652,i really enjoyed the pizza and the service was pretty good,1,False,False,False,False,True
+653,haleem was amazing in one word i became a fan,1,False,True,False,False,False
+653,haleem was amazing in one word i became a fan,1,False,False,True,False,False
+654,the quality of the buffet food is excellent and the interior is also very nice,1,False,True,False,False,False
+654,the quality of the buffet food is excellent and the interior is also very nice,1,False,False,True,False,False
+655,also the food is very affordable its a great atmosphere overall,1,False,False,False,True,False
+655,also the food is very affordable its a great atmosphere overall,1,True,False,False,False,False
+656,the beef pressure taste is really delicious and their service was very fast,1,False,True,False,False,False
+656,the beef pressure taste is really delicious and their service was very fast,1,False,False,False,False,True
+657,the service was very satisfying the beef pressure taste really delicious,1,False,False,False,False,True
+657,the service was very satisfying the beef pressure taste really delicious,1,False,True,False,False,False
+658,the service was good but there are some things i dont like about them,1,False,False,False,False,True
+658,the service was good but there are some things i dont like about them,0,False,False,True,False,False
+659,nehari is very attractive but the environment is not very nice,1,False,True,False,False,False
+659,nehari is very attractive but the environment is not very nice,0,True,False,False,False,False
+660,their service was great but they could improve their focus on the taste of their food,1,False,False,False,False,True
+660,their service was great but they could improve their focus on the taste of their food,0,False,True,False,False,False
+661,the rice was very good but the service was not very good,1,False,True,False,False,False
+661,the rice was very good but the service was not very good,0,False,False,False,False,True
+662,the food was very good but the location of the shop is not good,1,False,True,False,False,False
+662,the food was very good but the location of the shop is not good,0,False,False,True,False,False
+663,the food tastes great and the service is great,1,False,True,False,False,False
+663,the food tastes great and the service is great,1,False,False,False,False,True
+664,the side dishes are not very good but the service is good,0,False,True,False,False,False
+664,the side dishes are not very good but the service is good,1,False,False,False,False,True
+665,the food was the best but the service was not very good,1,False,True,False,False,False
+665,the food was the best but the service was not very good,0,False,False,False,False,True
+666,the service is excellent and the quality of the food is good,1,False,False,False,False,True
+666,the service is excellent and the quality of the food is good,1,False,True,False,False,False
+667,chicken pressure is best when the price of chicken seems right to you,1,False,False,False,True,False
+667,chicken pressure is best when the price of chicken seems right to you,1,False,True,False,False,False
+668,the food tastes great and the inside is good too,1,False,True,False,False,False
+668,the food tastes great and the inside is good too,1,True,False,False,False,False
+669,the barbecue was great the price was a bit high,1,False,True,False,False,False
+669,the barbecue was great the price was a bit high,0,False,False,False,True,False
+670,the food was expensive but the quality was not good,0,False,False,False,True,False
+670,the food was expensive but the quality was not good,0,False,True,False,False,False
+671,the food was not good and the service was terrible,0,False,True,False,False,False
+671,the food was not good and the service was terrible,0,False,False,False,False,True
+672,food is good but environment is not very good,1,False,True,False,False,False
+672,food is good but environment is not very good,0,True,False,False,False,False
+673,there are great prices and a great atmosphere,1,False,False,False,True,False
+673,there are great prices and a great atmosphere,1,True,False,False,False,False
+674,the children were very impressed with how well the food was cooked and how beautiful the restaurant looked,1,False,True,False,False,False
+674,the children were very impressed with how well the food was cooked and how beautiful the restaurant looked,1,False,False,False,False,True
+675,the food here is good but its not a place we would feel comfortable taking our family to,1,False,True,False,False,False
+675,the food here is good but its not a place we would feel comfortable taking our family to,0,True,False,False,False,False
+676,this kacchi is really good although the price is high,1,False,True,False,False,False
+676,this kacchi is really good although the price is high,0,False,False,False,True,False
+677,the restaurant is small but has a lot of expensive items on the menu,0,True,False,False,False,False
+677,the restaurant is small but has a lot of expensive items on the menu,0,False,False,False,True,False
+678,the environment is not good the food is not good either,0,True,False,False,False,False
+678,the environment is not good the food is not good either,0,False,True,False,False,False
+679,some people think that nectar is delicious but it is a bit expensive,1,False,True,False,False,False
+679,some people think that nectar is delicious but it is a bit expensive,0,False,False,False,True,False
+680,the quantity of meat was not much but the price was relatively low,0,False,True,False,False,False
+680,the quantity of meat was not much but the price was relatively low,1,False,False,False,True,False
+681,a quiet place will make you feel relaxed and the staff will be friendly and helpful,1,True,False,False,False,False
+681,a quiet place will make you feel relaxed and the staff will be friendly and helpful,1,False,False,False,False,True
+682,delicious food and affordable too,1,False,True,False,False,False
+682,delicious food and affordable too,1,False,False,False,True,False
+683,the food was good but the prices were too high,1,False,True,False,False,False
+683,the food was good but the prices were too high,0,False,False,False,True,False
+684,as the price of this product has increased so has the quality,0,False,False,False,True,False
+684,as the price of this product has increased so has the quality,1,False,True,False,False,False
+685,crimsoncups environment is full of blessings and coffee is a blessing,1,True,False,False,False,False
+685,crimsoncups environment is full of blessings and coffee is a blessing,1,False,True,False,False,False
+686,i didnt like strong coffee and the price was high,0,False,True,False,False,False
+686,i didnt like strong coffee and the price was high,0,False,False,False,True,False
+687,there are many items that are good and the company cares for the environment,1,False,False,True,False,False
+687,there are many items that are good and the company cares for the environment,1,True,False,False,False,False
+688,the pancake was very good and the waitstaff served it quickly,1,False,True,False,False,False
+688,the pancake was very good and the waitstaff served it quickly,1,False,False,False,False,True
+689,heard many names on everyones lips but i didnt like the food here,1,False,False,True,False,False
+689,heard many names on everyones lips but i didnt like the food here,0,False,True,False,False,False
+690,prices are above average but taste is below average,0,False,False,False,True,False
+690,prices are above average but taste is below average,0,False,True,False,False,False
+691,the food here is not very good and also the price,0,False,True,False,False,False
+691,the food here is not very good and also the price,0,False,False,False,True,False
+692,there is also a play area for kids and good food for them,1,True,False,False,False,False
+692,there is also a play area for kids and good food for them,1,False,True,False,False,False
+693,the taste of the lachita is not good but the atmosphere of the restaurant is not good,0,False,True,False,False,False
+693,the taste of the lachita is not good but the atmosphere of the restaurant is not good,0,True,False,False,False,False
+694,although the price of the product has increased the quality and taste have not changed,0,False,False,False,True,False
+695,i didnt like the taste of the food but the service was good,0,False,True,False,False,False
+695,i didnt like the taste of the food but the service was good,1,False,False,False,False,True
+696,i saw that good food is available at a low price and the environment is also good,1,False,False,False,True,False
+696,i saw that good food is available at a low price and the environment is also good,1,True,False,False,False,False
+697,the food is cheap but i dont think its kept very fresh,1,False,False,False,True,False
+697,the food is cheap but i dont think its kept very fresh,0,False,True,False,False,False
+698,i have never had such delicious bharta before and the price is also low,1,False,True,False,False,False
+698,i have never had such delicious bharta before and the price is also low,1,False,False,False,True,False
+699,i liked the taste of the seafood but i didnt like the way it was presented on the plate,1,False,True,False,False,False
+699,i liked the taste of the seafood but i didnt like the way it was presented on the plate,0,False,False,True,False,False
+700,lasagna is expensive but tastes like bread,0,False,False,False,True,False
+700,lasagna is expensive but tastes like bread,1,False,True,False,False,False
+701,the food is cheap compared to other places but the taste is top notch,1,False,False,False,True,False
+701,the food is cheap compared to other places but the taste is top notch,1,False,True,False,False,False
+702,chicken and corn soup is just chicken and corn but it is still affordable,1,False,True,False,False,False
+702,chicken and corn soup is just chicken and corn but it is still affordable,1,False,False,False,True,False
+703,the price of the food is not what i would like but the service is good,0,False,False,False,True,False
+703,the price of the food is not what i would like but the service is good,1,False,False,False,False,True
+704,the ambiance here is great but the food is a bit expensive,1,True,False,False,False,False
+704,the ambiance here is great but the food is a bit expensive,0,False,False,False,True,False
+705,the food was not so good but the service was the best i have ever experienced,0,False,True,False,False,False
+705,the food was not so good but the service was the best i have ever experienced,1,False,False,False,False,True
+706,the chicken pizza is overpriced but i didnt think there was much chicken on it,0,False,False,False,True,False
+706,the chicken pizza is overpriced but i didnt think there was much chicken on it,0,False,True,False,False,False
+707,the restaurant has a great menu but they dont have enough space to serve it all,1,False,False,True,False,False
+707,the restaurant has a great menu but they dont have enough space to serve it all,0,True,False,False,False,False
+708,the cuties were good but they took a long time to get here,1,False,True,False,False,False
+708,the cuties were good but they took a long time to get here,0,False,False,False,False,True
+709,the burgers were expensive but the amount of meat wasnt too high,0,False,False,False,True,False
+709,the burgers were expensive but the amount of meat wasnt too high,0,False,True,False,False,False
+710,the restaurant is located in a good area and the food is affordable,1,False,False,True,False,False
+710,the restaurant is located in a good area and the food is affordable,1,False,False,False,True,False
+711,the food was not very good but the prices were really high,0,False,True,False,False,False
+711,the food was not very good but the prices were really high,0,False,False,False,True,False
+712,salads are very affordable but not always available,1,False,False,False,True,False
+712,salads are very affordable but not always available,0,False,False,True,False,False
+713,the cake tastes great and the party atmosphere is great,1,False,True,False,False,False
+713,the cake tastes great and the party atmosphere is great,1,True,False,False,False,False
+714,the food is not expensive and has a comfortable atmosphere where you can eat with the family,1,False,False,False,True,False
+714,the food is not expensive and has a comfortable atmosphere where you can eat with the family,1,True,False,False,False,False
+715,the price is low but the use of this product is not very popular due to environmental concerns,1,False,False,False,True,False
+715,the price is low but the use of this product is not very popular due to environmental concerns,0,True,False,False,False,False
+716,this restaurant has no meat in the haleem and the price is higher than other restaurants,0,False,True,False,False,False
+716,this restaurant has no meat in the haleem and the price is higher than other restaurants,0,False,False,False,True,False
+717,nanroti contains a lot of butter which makes the bread taste better but the place where the bread is made is not clean,1,False,True,False,False,False
+717,nanroti contains a lot of butter which makes the bread taste better but the place where the bread is made is not clean,0,True,False,False,False,False
+718,the steak was very good but the price was too high,1,False,True,False,False,False
+718,the steak was very good but the price was too high,0,False,False,False,True,False
+719,biryani was ok but underpriced,1,False,False,False,True,False
+720,everything here costs the same and tastes just like normal,1,False,False,False,True,False
+720,everything here costs the same and tastes just like normal,1,False,True,False,False,False
+721,although the price is only 70 rupees the nihari is very juicy and delicious,1,False,False,False,True,False
+721,although the price is only 70 rupees the nihari is very juicy and delicious,1,False,True,False,False,False
+722,the restaurant has more bots than any other restaurant but the cleanliness in this restaurant is very good,1,False,True,False,False,False
+722,the restaurant has more bots than any other restaurant but the cleanliness in this restaurant is very good,1,True,False,False,False,False
+723,crab is expensive but its not fun to eat,0,False,False,False,True,False
+723,crab is expensive but its not fun to eat,0,False,True,False,False,False
+724,there are plenty of eggs in mogalai and they are not very expensive,1,False,True,False,False,False
+724,there are plenty of eggs in mogalai and they are not very expensive,1,False,False,False,True,False
+725,shrimp are small but they cost a lot of money,0,False,True,False,False,False
+725,shrimp are small but they cost a lot of money,0,False,False,False,True,False
+726,i really liked the octopus barbecue but the price was a bit high,1,False,True,False,False,False
+726,i really liked the octopus barbecue but the price was a bit high,0,False,False,False,True,False
+727,if you dont eat kalavuna it means you didnt like it and its a shame because the price is very reasonable,0,False,True,False,False,False
+727,if you dont eat kalavuna it means you didnt like it and its a shame because the price is very reasonable,1,False,False,False,True,False
+728,the dessert was good and the taste was really yummy,1,False,True,False,False,False
+729,iftar dishes are not very good or expensive to eat,0,False,True,False,False,False
+729,iftar dishes are not very good or expensive to eat,1,False,False,False,True,False
+730,the food didnt seem to match the menu pictures and the service wasnt very good either,0,False,True,False,False,False
+730,the food didnt seem to match the menu pictures and the service wasnt very good either,0,False,False,False,False,True
+731,as the fish went bad the price also went down,0,False,True,False,False,False
+731,as the fish went bad the price also went down,1,False,False,False,True,False
+732,the prawns were not cleaned properly and there was a foul smell around them,0,False,True,False,False,False
+732,the prawns were not cleaned properly and there was a foul smell around them,0,True,False,False,False,False
+733,food was below average and service was very slow,0,False,True,False,False,False
+733,food was below average and service was very slow,0,False,False,False,False,True
+734,not very keen to ensure cleanliness and this has resulted in poor quality of food,0,True,False,False,False,False
+734,not very keen to ensure cleanliness and this has resulted in poor quality of food,0,False,True,False,False,False
+735,this restaurant does not provide good service or make it easy for children to have fun,0,False,False,False,False,True
+735,this restaurant does not provide good service or make it easy for children to have fun,0,True,False,False,False,False
+736,the quantity of potatoes in alupuri was high but the prices were normal in other shops,1,False,True,False,False,False
+736,the quantity of potatoes in alupuri was high but the prices were normal in other shops,1,False,False,False,True,False
+737,the price is good and the taste is great,1,False,False,False,True,False
+737,the price is good and the taste is great,1,False,True,False,False,False
+738,the mix of ingredients is good but the taste is not as good as we wanted,1,False,False,True,False,False
+738,the mix of ingredients is good but the taste is not as good as we wanted,0,False,True,False,False,False
+739,the chicken fillet is very juicy and tasty but it is a bit more expensive than we like,1,False,True,False,False,False
+739,the chicken fillet is very juicy and tasty but it is a bit more expensive than we like,0,False,False,False,True,False
+740,the burger patty is thicker than a regular burger and because of that its bigger,1,False,True,False,False,False
+740,the burger patty is thicker than a regular burger and because of that its bigger,1,False,False,True,False,False
+741,the jhalmuri in the restaurant tastes the same as in the akal shop but the price is higher,0,False,False,False,True,False
+742,the meats were not well cooked and they were not very big servings,0,False,True,False,False,False
+742,the meats were not well cooked and they were not very big servings,0,False,False,False,False,True
+743,i have never had such good service and the food here is also very good,1,False,False,False,False,True
+743,i have never had such good service and the food here is also very good,1,False,True,False,False,False
+744,the food is just as tasty and the ambiance is also very charming,1,False,True,False,False,False
+744,the food is just as tasty and the ambiance is also very charming,1,True,False,False,False,False
+745,the lemonade at this restaurant is very fresh and very cheap,1,False,True,False,False,False
+745,the lemonade at this restaurant is very fresh and very cheap,1,False,False,False,True,False
+746,the meat was very tender and juicy but the price was much cheaper than it should have been,1,False,True,False,False,False
+746,the meat was very tender and juicy but the price was much cheaper than it should have been,1,False,False,False,True,False
+747,there wasnt the chutney it was supposed to be but that didnt matter because it was free anyway,0,False,True,False,False,False
+747,there wasnt the chutney it was supposed to be but that didnt matter because it was free anyway,1,False,False,False,True,False
+748,silky kebabs are soft and melt in your mouth it is really affordable,1,False,True,False,False,False
+748,silky kebabs are soft and melt in your mouth it is really affordable,1,False,False,False,True,False
+749,the shish kebabs took a long time to arrive but finally tasted great,0,False,False,False,False,True
+749,the shish kebabs took a long time to arrive but finally tasted great,1,False,True,False,False,False
+750,chicken cutlet rolls have a lot of meat inside and are not too expensive,1,False,True,False,False,False
+750,chicken cutlet rolls have a lot of meat inside and are not too expensive,1,False,False,False,True,False
+751,the meat curry is spicy but its a good deal compared to some other dishes,1,False,True,False,False,False
+751,the meat curry is spicy but its a good deal compared to some other dishes,1,False,False,False,True,False
+752,fuchka is expensive but very fun to eat,0,False,False,False,True,False
+752,fuchka is expensive but very fun to eat,1,False,True,False,False,False
+753,the food here is not very good and the workers are lazy,0,False,True,False,False,False
+753,the food here is not very good and the workers are lazy,0,False,False,False,False,True
+754,the number of dishes in the buffet was very high but the price was less than what you would pay in a regular restaurant,1,False,False,True,False,False
+754,the number of dishes in the buffet was very high but the price was less than what you would pay in a regular restaurant,1,False,False,False,True,False
+755,the basmati rice didnt look as good as the other dishes but everything else tasted good,0,False,True,False,False,False
+755,the basmati rice didnt look as good as the other dishes but everything else tasted good,1,False,False,True,False,False
+756,the food tastes better and the atmosphere is better than before,1,False,True,False,False,False
+756,the food tastes better and the atmosphere is better than before,1,True,False,False,False,False
+757,our food is really tasty but it is affordable,1,False,True,False,False,False
+757,our food is really tasty but it is affordable,1,False,False,False,True,False
+758,the cake is very expensive but it is more expensive than other cakes,1,False,True,False,False,False
+758,the cake is very expensive but it is more expensive than other cakes,0,False,False,False,True,False
+759,the decoration of the restaurant is the best and it takes a long time to serve,1,True,False,False,False,False
+759,the decoration of the restaurant is the best and it takes a long time to serve,0,False,False,False,False,True
+760,the atmosphere of the store is run but the service is really good,1,False,False,False,False,True
+761,the food at the buffet was good but the time limit was a little short to eat everything,1,False,True,False,False,False
+761,the food at the buffet was good but the time limit was a little short to eat everything,0,False,False,True,False,False
+762,the mutton chapata was delicious and the price was right,1,False,True,False,False,False
+762,the mutton chapata was delicious and the price was right,1,False,False,False,True,False
+763,although the decor of the restaurant has improved the prices of all the dishes have increased slightly,1,True,False,False,False,False
+763,although the decor of the restaurant has improved the prices of all the dishes have increased slightly,0,False,False,False,True,False
+764,the food tastes good but the price would have been better if it was a little lower,1,False,True,False,False,False
+764,the food tastes good but the price would have been better if it was a little lower,0,False,False,False,True,False
+765,the food in this restaurant is average but the staff is very good at providing great service,1,False,False,False,False,True
+766,the food here tastes like street food but costs a bit more,0,False,False,False,True,False
+767,the food took a long time to be served but we had no complaints about the taste,0,False,False,False,False,True
+767,the food took a long time to be served but we had no complaints about the taste,1,False,True,False,False,False
+768,i waited a long time for food at this restaurant but it was not as good as i expected,0,False,False,False,False,True
+768,i waited a long time for food at this restaurant but it was not as good as i expected,0,False,True,False,False,False
+769,the price was high but everyone agreed that the pizza was delicious,0,False,False,False,True,False
+769,the price was high but everyone agreed that the pizza was delicious,1,False,True,False,False,False
+770,the use was good but the extra attention the kids had to pay made it worth it,1,False,False,False,False,True
+771,food is good but price is high,1,False,True,False,False,False
+771,food is good but price is high,0,False,False,False,True,False
+772,the food was delicious but it took a long time to get it,1,False,True,False,False,False
+772,the food was delicious but it took a long time to get it,0,False,False,False,False,True
+773,the ice creams are good but they are a bit expensive,0,False,False,False,True,False
+774,the curd here is delicious and the price is reasonable,1,False,True,False,False,False
+774,the curd here is delicious and the price is reasonable,1,False,False,False,True,False
+775,the food is of good quality and reasonably priced,1,False,True,False,False,False
+775,the food is of good quality and reasonably priced,1,False,False,False,True,False
+776,the restaurant is running slowly the environment is fine,0,False,False,False,False,True
+776,the restaurant is running slowly the environment is fine,1,True,False,False,False,False
+777,the service was better and the atmosphere more relaxed,1,False,False,False,False,True
+777,the service was better and the atmosphere more relaxed,1,True,False,False,False,False
+778,good food and good service are both reasons,1,False,True,False,False,False
+778,good food and good service are both reasons,1,False,False,False,False,True
+779,people really like the taste of kachchi but the price is a bit high,1,False,True,False,False,False
+779,people really like the taste of kachchi but the price is a bit high,0,False,False,False,True,False
+780,khasir rezala is just a name i havent tasted anything and so the price seems low,0,False,True,False,False,False
+780,khasir rezala is just a name i havent tasted anything and so the price seems low,0,False,False,False,True,False
+781,the burgers were very good and not too expensive,1,False,True,False,False,False
+781,the burgers were very good and not too expensive,1,False,False,False,True,False
+782,the restaurant is very clean and the ambience is very nice,1,True,False,False,False,False
+783,food is good and service is also good,1,False,True,False,False,False
+783,food is good and service is also good,1,False,False,False,False,True
+784,rasmalai in comilla is different from other rasmalais in the area the prices are also reasonable,1,False,True,False,False,False
+784,rasmalai in comilla is different from other rasmalais in the area the prices are also reasonable,1,False,False,False,True,False
+785,the menu has a good mix of items but the prices seem a bit high,1,False,False,True,False,False
+785,the menu has a good mix of items but the prices seem a bit high,0,False,False,False,True,False
+786,the food tastes bad and the service is terrible,0,False,True,False,False,False
+786,the food tastes bad and the service is terrible,0,False,False,False,False,True
+787,i didnt like the pizza that much but the price was reasonable,0,False,True,False,False,False
+787,i didnt like the pizza that much but the price was reasonable,1,False,False,False,True,False
+788,while the price of the burger has gone up the quality of the food has gone down,0,False,False,False,True,False
+788,while the price of the burger has gone up the quality of the food has gone down,0,False,True,False,False,False
+789,some people say that the environment of the restaurant is not very nice and the taste of the food is not very good,0,True,False,False,False,False
+789,some people say that the environment of the restaurant is not very nice and the taste of the food is not very good,0,False,True,False,False,False
+790,the food here was really good and the price was fair,1,False,True,False,False,False
+790,the food here was really good and the price was fair,1,False,False,False,True,False
+791,which makes the food tastier and more expensive,1,False,True,False,False,False
+791,which makes the food tastier and more expensive,0,False,False,False,True,False
+792,the menu had many choices and the prices were great,1,False,False,True,False,False
+793,customers are happy with the food quality and also happy with the price,1,False,True,False,False,False
+793,customers are happy with the food quality and also happy with the price,1,False,False,False,True,False
+794,customers are not happy with the quality of the food and find the prices too high,0,False,True,False,False,False
+794,customers are not happy with the quality of the food and find the prices too high,0,False,False,False,True,False
+795,i was not disappointed with the price of the food here and was happy with the taste as well,1,False,False,False,True,False
+795,i was not disappointed with the price of the food here and was happy with the taste as well,1,False,True,False,False,False
+796,meat items are just fat and fat but the price is a bit high,0,False,True,False,False,False
+796,meat items are just fat and fat but the price is a bit high,0,False,False,False,True,False
+797,the management of the restaurant knows how to run it well the food comes as soon as the order is placed,1,False,False,True,False,False
+797,the management of the restaurant knows how to run it well the food comes as soon as the order is placed,1,False,False,False,False,True
+798,the food in this restaurant is good but the staff is not very efficient,1,False,True,False,False,False
+798,the food in this restaurant is good but the staff is not very efficient,0,False,False,True,False,False
+799,i have never had such great service from waiters before and their food quality is not bad either,1,False,False,False,False,True
+799,i have never had such great service from waiters before and their food quality is not bad either,1,False,True,False,False,False
+800,the quality is good but the quantity is very low compared to the price,1,False,True,False,False,False
+800,the quality is good but the quantity is very low compared to the price,0,False,False,False,True,False
