@@ -1,10 +1,8 @@
 pandas
 numpy
 matplotlib
-seaborn
 beautifulsoup4
 nltk
 scikit-learn
 openpyxl
-deep-translator
 wordcloud
