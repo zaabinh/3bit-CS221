@@ -6,3 +6,4 @@ nltk
 scikit-learn
 openpyxl
 wordcloud
+sentence-transformers
