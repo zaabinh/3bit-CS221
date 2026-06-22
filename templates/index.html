@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Demo · Đánh giá</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <!-- ══ HEADER ══ -->
+    <header class="site-header">
+      <div class="header-inner">
+        <div class="restaurant-info">
+          <div class="restaurant-avatar">🍜</div>
+          <div>
+            <h1 class="restaurant-name">3bit Restaurant</h1>
+            <p class="restaurant-meta">Nhà hàng Việt Nam</p>
+          </div>
+        </div>
+        <div class="header-stats">
+          <span id="total-count">0 đánh giá</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="page-body">
+      <!-- ══ WRITE REVIEW PANEL ══ -->
+      <section class="write-panel">
+        <h2 class="panel-title">Viết đánh giá của bạn</h2>
+
+        <div class="input-group">
+          <input
+            id="author-input"
+            type="text"
+            placeholder="Tên của bạn (tùy chọn)"
+            maxlength="50"
+          />
+        </div>
+
+        <div class="input-group">
+          <textarea
+            id="review-input"
+            placeholder='Chia sẻ trải nghiệm của bạn bằng tiếng Anh... &#10;e.g. "The broth was rich and flavorful, but the staff was a bit slow."'
+            rows="4"
+            maxlength="600"
+          ></textarea>
+          <span class="char-hint"><span id="char-num">0</span>/600</span>
+        </div>
+
+        <!-- AI tag preview -->
+        <div id="tag-preview" class="tag-preview hidden">
+          <span class="tag-preview-label">
+            <svg
+              width="13"
+              height="13"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2.5"
+            >
+              <path d="M12 2L2 7l10 5 10-5-10-5z" />
+              <path d="M2 17l10 5 10-5" />
+              <path d="M2 12l10 5 10-5" />
+            </svg>
+            AI gợi ý tag
+          </span>
+          <div id="suggested-tags" class="suggested-tags"></div>
+        </div>
+
+        <div class="panel-footer">
+          <div class="footer-left">
+            <span id="analyze-status" class="analyze-status"></span>
+          </div>
+          <button
+            id="post-btn"
+            class="post-btn"
+            onclick="postReview()"
+            disabled
+          >
+            Đăng đánh giá
+          </button>
+        </div>
+      </section>
+
+      <!-- ══ REVIEW FEED ══ -->
+      <section class="feed-section">
+        <h2 class="panel-title">Đánh giá từ khách hàng</h2>
+        <div id="review-feed" class="review-feed">
+          <div class="feed-empty" id="feed-empty">
+            <span>🍽</span>
+            <p>Chưa có đánh giá nào. Hãy là người đầu tiên!</p>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ══ TOAST ══ -->
+    <div id="toast" class="toast hidden">✓ Đánh giá đã được đăng!</div>
+
+    <script src="/static/script.js"></script>
+  </body>
+</html>
