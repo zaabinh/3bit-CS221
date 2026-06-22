@@ -1,0 +1,3 @@
+encoder,C,class_weight,solver,validation_macro_f1,validation_micro_f1
+retrained,1.0,balanced,lbfgs,0.8488998900551066,0.9295774647887324
+unretrained,10.0,balanced,liblinear,0.8260763850723709,0.9085173501577287

@@ -1,0 +1,35 @@
+{
+  "encoder_name": "unretrained",
+  "encoder_path": "models\\sbert\\unretrained_encoder",
+  "normalize_embeddings": true,
+  "batch_size": 32,
+  "aspect_cols": [
+    "food",
+    "price",
+    "service",
+    "ambiance",
+    "miscellaneous"
+  ],
+  "text_col": "review_en",
+  "parameters": {
+    "C": 10.0,
+    "class_weight": "balanced",
+    "solver": "liblinear"
+  },
+  "thresholds": {
+    "food": 0.37,
+    "price": 0.48,
+    "service": 0.55,
+    "ambiance": 0.69,
+    "miscellaneous": 0.21
+  },
+  "validation_threshold_f1": {
+    "food": 0.9578544061302682,
+    "price": 0.9939393939393939,
+    "service": 0.9032258064516129,
+    "ambiance": 0.8405797101449275,
+    "miscellaneous": 0.43478260869565216
+  },
+  "validation_macro_f1": 0.8260763850723709,
+  "validation_micro_f1": 0.9085173501577287
+}

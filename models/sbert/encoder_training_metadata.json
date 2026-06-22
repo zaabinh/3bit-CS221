@@ -1,0 +1,16 @@
+{
+  "base_model": "all-mpnet-base-v2",
+  "epochs": 3,
+  "batch_size": 16,
+  "warmup_ratio": 0.1,
+  "training_pairs": 2880,
+  "aspect_cols": [
+    "food",
+    "price",
+    "service",
+    "ambiance",
+    "miscellaneous"
+  ],
+  "text_col": "review_en",
+  "seed": 42
+}

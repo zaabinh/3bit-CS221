@@ -1,0 +1,35 @@
+{
+  "encoder_name": "retrained",
+  "encoder_path": "models\\sbert\\retrained_encoder",
+  "normalize_embeddings": true,
+  "batch_size": 32,
+  "aspect_cols": [
+    "food",
+    "price",
+    "service",
+    "ambiance",
+    "miscellaneous"
+  ],
+  "text_col": "review_en",
+  "parameters": {
+    "C": 1.0,
+    "class_weight": "balanced",
+    "solver": "lbfgs"
+  },
+  "thresholds": {
+    "food": 0.22,
+    "price": 0.16,
+    "service": 0.44,
+    "ambiance": 0.72,
+    "miscellaneous": 0.32
+  },
+  "validation_threshold_f1": {
+    "food": 0.9737827715355806,
+    "price": 0.9879518072289156,
+    "service": 0.9183673469387755,
+    "ambiance": 0.9253731343283582,
+    "miscellaneous": 0.43902439024390244
+  },
+  "validation_macro_f1": 0.8488998900551066,
+  "validation_micro_f1": 0.9295774647887324
+}
