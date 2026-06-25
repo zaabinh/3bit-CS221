@@ -4,15 +4,15 @@
         "estimator__class_weight": "balanced"
     },
     "thresholds": {
-        "food": 0.45,
-        "service": 0.5,
+        "food": 0.4,
+        "service": 0.45,
         "price": 0.5,
         "ambiance": 0.5,
         "miscellaneous": 0.35
     },
     "validation_f1_scores": {
-        "food": 0.9403,
-        "service": 0.8387,
+        "food": 0.9416,
+        "service": 0.8491,
         "price": 0.9565,
         "ambiance": 0.8219,
         "miscellaneous": 0.4138
