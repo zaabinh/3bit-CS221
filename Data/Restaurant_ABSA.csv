@@ -46,7 +46,7 @@ Id,Comment,"{Aspect category,   Sentiment Polarity}",review_en
 45,স্বাদে অ্যাভারেজ এবং তাদের পরিবেশন টাও ছিলো অসাধারণ।,"{food,   neutral},   {service,   positive}",Average in taste and their serving was awesome too.
 46,খাবারের মান যথেষ্ট ভালো ছিল এবং দাম কম।,"{food,   positive},   {price,   positive}",The quality of the food was quite good and the price was low.
 47,পুরা বিরিয়ানি ই ঠান্ডা ছিল। আবার দাম নাকি এত্তো!,"{food,   negative},   {price,   negative}",The whole biryani was cold. Again the price is so much!
-48,খাবারটি অত্যন্ত সুস্বাদু ছিল  কিন্তু  দাম বেশি ছিল |,"{food,   positive},   {miscellaneous,   negative}",The food was very tasty but the price was high
+48,খাবারটি অত্যন্ত সুস্বাদু ছিল  কিন্তু  দাম বেশি ছিল |,"{food,   positive},   {price,   negative}",The food was very tasty but the price was high
 49,ব্যবহার মোটামুটি ভাল ছিল কিন্তু খাবার  নিয়ে খুবই হতাশ হয়েছি।,"{service,   positive},  {food,   negative}",Experience was fairly good but very disappointed with the food.
 50,মাংসের স্লাইসও ছিল বেশ পাতলা কিন্তু দাম আকাশচুৃম্বী,"{food,   positive},   {miscellaneous,   negative}",The meat slices were also quite thin but the price was sky high
 51,জঘন্য হালিম এবং পরিবেশ নোংরা ।,"{food,   negative},   {ambiance,   negative}",Disgusting Halim and the environment is dirty.

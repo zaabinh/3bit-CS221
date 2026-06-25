@@ -1,0 +1,16 @@
+aspect_combo,review_count
+"food, price",332
+"food, service",155
+"food, ambiance",105
+"service, ambiance",41
+food,36
+"price, ambiance",33
+"food, miscellaneous",24
+"price, service",18
+"price, miscellaneous",13
+ambiance,12
+service,7
+"ambiance, miscellaneous",6
+"service, miscellaneous",6
+"food, price, ambiance",4
+price,4

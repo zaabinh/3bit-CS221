@@ -1,0 +1,6 @@
+aspect,review_count,mean_review_words,median_review_words,mean_cleaned_words,median_cleaned_words
+food,656,14.04,14.0,6.41,6.0
+price,404,14.23,14.0,6.46,6.0
+service,227,14.22,14.0,6.53,6.0
+ambiance,201,14.64,14.0,6.66,6.0
+miscellaneous,49,14.9,14.0,6.78,7.0
