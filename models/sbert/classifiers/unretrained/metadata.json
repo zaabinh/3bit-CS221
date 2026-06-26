@@ -10,26 +10,26 @@
     "ambiance",
     "miscellaneous"
   ],
-  "text_col": "review_en",
+  "text_col": "review_cleaned",
   "parameters": {
     "C": 10.0,
     "class_weight": "balanced",
     "solver": "liblinear"
   },
   "thresholds": {
-    "food": 0.37,
-    "price": 0.48,
-    "service": 0.55,
-    "ambiance": 0.69,
-    "miscellaneous": 0.21
+    "food": 0.25,
+    "price": 0.49,
+    "service": 0.5,
+    "ambiance": 0.66,
+    "miscellaneous": 0.18
   },
   "validation_threshold_f1": {
-    "food": 0.9578544061302682,
-    "price": 0.9939393939393939,
-    "service": 0.9032258064516129,
-    "ambiance": 0.8405797101449275,
-    "miscellaneous": 0.43478260869565216
+    "food": 0.9454545454545454,
+    "price": 0.9934640522875817,
+    "service": 0.9545454545454546,
+    "ambiance": 0.9285714285714286,
+    "miscellaneous": 0.3050847457627119
   },
-  "validation_macro_f1": 0.8260763850723709,
-  "validation_micro_f1": 0.9085173501577287
+  "validation_macro_f1": 0.8254240453243444,
+  "validation_micro_f1": 0.8983308042488619
 }

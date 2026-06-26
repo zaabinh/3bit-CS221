@@ -3,7 +3,7 @@
   "epochs": 3,
   "batch_size": 16,
   "warmup_ratio": 0.1,
-  "training_pairs": 2880,
+  "training_pairs": 2862,
   "aspect_cols": [
     "food",
     "price",

@@ -4,44 +4,46 @@ tags:
 - sentence-similarity
 - feature-extraction
 - generated_from_trainer
-- dataset_size:2880
+- dataset_size:2862
 - loss:CosineSimilarityLoss
 base_model: sentence-transformers/all-mpnet-base-v2
 widget:
-- source_sentence: The quality of pies in pithagars has gone down but the prices remain
-    the same.
+- source_sentence: the staff behaved very badly with everyone and the environment
+    of their restaurant was also very disgusting
   sentences:
-  - I never thought that the price of bharta could be so high but the taste was good.
-  - Digital system is being used for all functions including order and payment in
-    this restaurant but the service is getting worse.
-  - The service was good but I have never seen a restaurant so full of mosquitoes.
-- source_sentence: The prawns were not cleaned properly and there was a very bad smell
-    around.
+  - the atmosphere of the restaurant is very refreshing and the price of the food
+    here is also very good
+  - there are not many vegetarian options and the ones that are are very expensive
+  - from now on this restaurant is my favorite place because the staff are very friendly
+    and their service is also fast
+- source_sentence: the food is not expensive and has a comfortable atmosphere where
+    you can eat with the family
   sentences:
-  - The side dishes were very good and the price was much less than I expected.
-  - The first experience of tea with malai, almonds was very good and the price of
-    tea is very low.
-  - The price of the food is not what I would like, but the service is good.
-- source_sentence: Uncle's paan shop looks very colorful and we are all impressed
-    by the speed of his paan making.
+  - the food here is really good but the service is really bad
+  - the price of food at boomers cafe is so high but the quantity of food is disappointing
+  - the quantity of potatoes in alupuri was high but the prices were normal in other
+    shops
+- source_sentence: the american burger is simply gorgeous and reasonably priced
   sentences:
-  - Gave fair service but the taste of their food was very good.
-  - The old things in the restaurant were spoiling the atmosphere and the service
-    of the staff was not very good.
-  - Earlier only the quality of food was bad and now the service is also bad.
-- source_sentence: I was not disappointed with the price of the food here and was
-    happy with the taste as well.
+  - that test of schizlingter served hot and fresh
+  - the cake is very expensive but it is more expensive than other cakes
+  - the old things in the restaurant were spoiling the atmosphere and the service
+    of the staff was not very good
+- source_sentence: the ac in the restaurant is not working and all the customers are
+    in a bad mood as they wait for a long time for the food
   sentences:
-  - The amount of salt in the food was too bad and the environment was not good for
-    children.
-  - The price of octopus is very high but I did not find any taste.
-  - Uncle's paan shop looks very colorful and we are all impressed by the speed of
-    his paan making.
-- source_sentence: The food was not tasty though the prices were high.
+  - the decoration of the restaurant is the best and it takes a long time to serve
+  - it is a good place and the environment is decent
+  - today is the first time i saw this restaurant that the environment can be so good
+    and the price is quite within the range
+- source_sentence: the number of food in the buffet was very high but the price was
+    less than that
   sentences:
-  - The price of the salad is very low but the quality is amazing.
-  - I have never had such good service and the food here is also very good.
-  - The service was good but I have never seen a restaurant so full of mosquitoes.
+  - i found this block of banquets to be the best they have had i have been eating
+    well for twenty years
+  - 80 taka per plate of soup but 2 people can eat it if they order any other side
+    dish
+  - the place is decent but there was no good environment to take pictures
 pipeline_tag: sentence-similarity
 library_name: sentence-transformers
 ---
@@ -96,9 +98,9 @@ from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("sentence_transformers_model_id")
 # Run inference
 sentences = [
-    'The food was not tasty though the prices were high.',
-    'The service was good but I have never seen a restaurant so full of mosquitoes.',
-    'The price of the salad is very low but the quality is amazing.',
+    'the number of food in the buffet was very high but the price was less than that',
+    'i found this block of banquets to be the best they have had i have been eating well for twenty years',
+    '80 taka per plate of soup but 2 people can eat it if they order any other side dish',
 ]
 embeddings = model.encode(sentences)
 print(embeddings.shape)
@@ -107,9 +109,9 @@ print(embeddings.shape)
 # Get the similarity scores for the embeddings
 similarities = model.similarity(embeddings, embeddings)
 print(similarities)
-# tensor([[ 1.0000, -0.0130,  0.9869],
-#         [-0.0130,  1.0000, -0.0079],
-#         [ 0.9869, -0.0079,  1.0000]])
+# tensor([[ 1.0000, -0.0389,  0.9603],
+#         [-0.0389,  1.0000, -0.0491],
+#         [ 0.9603, -0.0491,  1.0000]])
 ```
 <!--
 ### Direct Usage (Transformers)
@@ -153,20 +155,20 @@ You can finetune this model on your own dataset.
 
 #### Unnamed Dataset
 
-* Size: 2,880 training samples
+* Size: 2,862 training samples
 * Columns: <code>sentence_0</code>, <code>sentence_1</code>, and <code>label</code>
 * Approximate statistics based on the first 100 samples:
-  |          | sentence_0                                                                        | sentence_1                                                                        | label                                                          |
-  |:---------|:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:---------------------------------------------------------------|
-  | type     | string                                                                            | string                                                                            | float                                                          |
-  | modality | text                                                                              | text                                                                              |                                                                |
-  | details  | <ul><li>min: 9 tokens</li><li>mean: 18.47 tokens</li><li>max: 32 tokens</li></ul> | <ul><li>min: 8 tokens</li><li>mean: 18.49 tokens</li><li>max: 32 tokens</li></ul> | <ul><li>min: 0.0</li><li>mean: 0.25</li><li>max: 1.0</li></ul> |
+  |          | sentence_0                                                                       | sentence_1                                                                        | label                                                          |
+  |:---------|:---------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:---------------------------------------------------------------|
+  | type     | string                                                                           | string                                                                            | float                                                          |
+  | modality | text                                                                             | text                                                                              |                                                                |
+  | details  | <ul><li>min: 7 tokens</li><li>mean: 16.8 tokens</li><li>max: 27 tokens</li></ul> | <ul><li>min: 7 tokens</li><li>mean: 17.72 tokens</li><li>max: 31 tokens</li></ul> | <ul><li>min: 0.0</li><li>mean: 0.22</li><li>max: 1.0</li></ul> |
 * Samples:
-  | sentence_0                                                                        | sentence_1                                                                            | label                           |
-  |:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:--------------------------------|
-  | <code>It was bad habit to have insects in the food and the price was high.</code> | <code>The food here is worse than jail food and the service is horrible.</code>       | <code>0.3333333333333333</code> |
-  | <code>Orders take slow and the atmosphere feels a bit stuffy.</code>              | <code>I didn't like it and the food was too expensive including VAT.</code>           | <code>0.0</code>                |
-  | <code>So cheap and the taste is amazing.</code>                                   | <code>They are providing slow service but still taking care of customer needs.</code> | <code>0.0</code>                |
+  | sentence_0                                                                                          | sentence_1                                                                                   | label            |
+  |:----------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:-----------------|
+  | <code>have a safe clean place to eat</code>                                                         | <code>food was tasteless but you have to pay more</code>                                     | <code>0.0</code> |
+  | <code>the chicken in the tacos was not overcooked and the fillings were not that good either</code> | <code>was not disappointed by the price of the food here and happy with the taste too</code> | <code>0.5</code> |
+  | <code>chicken and corn soup is just chicken and corn but it is still affordable</code>              | <code>the price of the salad is very low but the quality is amazing</code>                   | <code>1.0</code> |
 * Loss: [<code>CosineSimilarityLoss</code>](https://sbert.net/docs/package_reference/sentence_transformer/losses.html#cosinesimilarityloss) with these parameters:
   ```json
   {
@@ -290,11 +292,11 @@ You can finetune this model on your own dataset.
 ### Training Logs
 | Epoch  | Step | Training Loss |
 |:------:|:----:|:-------------:|
-| 2.7778 | 500  | 0.0150        |
+| 2.7933 | 500  | 0.0161        |
 
 
 ### Training Time
-- **Training**: 47.4 minutes
+- **Training**: 49.6 minutes
 
 ### Framework Versions
 - Python: 3.13.14

@@ -1,26 +1,18 @@
 dataset_index,review,true_miscellaneous,predicted_miscellaneous,probability,error_type,true_aspects
-101,Food prices are relatively low and relatively higher than other places.,0,1,0.7873183747360587,false_positive,['price']
-596,From now on this restaurant is my favorite place because the staff are very friendly and their service is also fast.,0,1,0.6976515466602278,false_positive,['service']
-490,The idea of ​​making haleem is unique but I don't like the taste much.,0,1,0.5052762215936583,false_positive,['food']
-513,The sweets were disgusting and I hated their use.,0,1,0.4951777337088682,false_positive,"['food', 'service']"
-456,The decoration of the restaurant is very simple but I know why this thing has made the atmosphere here beautiful.,0,1,0.46647594121942837,false_positive,['ambiance']
-31,"As for the beef, the test was very good but the name Kalabuna was not right.",0,1,0.4598508435891273,false_positive,['food']
-352,The decoration of the restaurant is very unique and I think it has the best atmosphere.,0,1,0.44512064434329035,false_positive,['ambiance']
-275,It's a good place and the environment is decent.,0,1,0.44000026778727425,false_positive,['ambiance']
-464,There aren't many options on the menu which is what most customers dislike about this restaurant but the food they do have is very tasty.,0,1,0.43550111793274116,false_positive,['food']
-738,"The mix of ingredients is good, but the taste is not as good as we wanted.",0,1,0.4339876809397588,false_positive,['food']
-208,Cleanliness is very much taken care of in this restaurant and the ambience is also very charming.,0,1,0.426382102321655,false_positive,['ambiance']
-65,The test was fair but their service was not good.,0,1,0.4123301591980296,false_positive,"['food', 'service']"
-139,The chaomin chicken sizes were good and tasted good too.,0,1,0.3897303941995227,false_positive,['food']
-209,Today I found a reasonable restaurant and food quality is good.,0,1,0.36967600620155816,false_positive,"['food', 'price']"
-30,The biryani rice was fluffy and fluffy but the meat was tough.,0,1,0.3651915331110783,false_positive,['food']
-776,The restaurant is running slowly. The environment is fine.,0,1,0.2777209532659207,false_positive,"['service', 'ambiance']"
-796,"The management of the restaurant knows how to run it well, the food comes as soon as the order is placed.",0,1,0.24400746008367077,false_positive,['service']
-533,From today it is my favorite restaurant because the service here is very bad and the price of everything is very high.,0,1,0.24380387112526955,false_positive,"['price', 'service']"
-608,"Small shop, but sells food that is really good.",0,1,0.23729115343888738,false_positive,"['food', 'ambiance']"
-388,Everything is very expensive here and the service is very slow.,0,1,0.22477213787024433,false_positive,"['price', 'service']"
-635,Schizlingter is a type of food that is served hot and fresh.,0,1,0.2205895609085407,false_positive,"['food', 'service']"
-570,"They are giving free toys to children, which is good for marketing, but the price of food is high and the price of toys is being collected.",1,0,0.06596201656397797,false_negative,"['price', 'miscellaneous']"
-425,The food here tastes a little better but nothing else is quite customer-friendly.,1,0,0.055326892319038264,false_negative,"['food', 'miscellaneous']"
-398,I like everything very much but I will deduct a number because the seat is not very comfortable.,1,0,0.035537055757309824,false_negative,"['ambiance', 'miscellaneous']"
-218,There were many combinations on the menu and the prices were reasonable.,1,0,0.013289006102049167,false_negative,"['price', 'miscellaneous']"
+365,food prices are lower than other nearby places but the food is very expensive,0,1,0.29962067969540135,false_positive,['price']
+30,the biryani rice was fluffy and fluffy but the meat was tough,0,1,0.26039134048712287,false_positive,['food']
+630,the biryani rice was fluffy but the meat was tough,0,1,0.25790977056215453,false_positive,['food']
+254,the decoration was very different and the atmosphere was very lively,0,1,0.23271158129702377,false_positive,['ambiance']
+351,the decoration of the restaurant is very unique and i think it has the best atmosphere,0,1,0.20658315108516534,false_positive,['ambiance']
+31,as for the beef the test was very good but the name kalabuna was not right,0,1,0.19757246672974724,false_positive,['food']
+779,the restaurant is very clean and the ambience is very nice,0,1,0.1837498245257904,false_positive,['ambiance']
+737,the burger patty is thicker than a regular burger and because of that it is bigger,0,1,0.17990368796406717,false_positive,['food']
+208,today i found a reasonable restaurant and food quality is good,0,1,0.17847001588811376,false_positive,"['food', 'price']"
+360,some fake restaurants and food prices are higher than the original places,1,0,0.12797220183678532,false_negative,"['price', 'miscellaneous']"
+687,heard many names on everyone is lips but i did not like the food here,1,0,0.10117700932247572,false_negative,"['food', 'miscellaneous']"
+260,a restaurant and location is also very good to eat a full stomach with less money,1,0,0.08790826382635125,false_negative,"['price', 'miscellaneous']"
+637,there is no shortage of shops but i cannot find good food,1,0,0.08484643140736368,false_negative,"['food', 'miscellaneous']"
+451,this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,1,0,0.019683803621750217,false_negative,"['price', 'miscellaneous']"
+569,they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,1,0,0.018881837610888807,false_negative,"['price', 'miscellaneous']"
+599,the pizza was delicious but the experience was horrible,1,0,0.017338029191561313,false_negative,"['food', 'miscellaneous']"
+424,the food here tastes a little better but nothing else is quite customerfriendly,1,0,0.006989759704662596,false_negative,"['food', 'miscellaneous']"
