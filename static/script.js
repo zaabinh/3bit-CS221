@@ -3,30 +3,30 @@
  * Luồng: nhập review → debounce gọi /analyze → hiện tag gợi ý → bấm Đăng → card xuất hiện
  */
 
-const reviewInput  = document.getElementById("review-input");
-const authorInput  = document.getElementById("author-input");
-const charNum      = document.getElementById("char-num");
-const tagPreview   = document.getElementById("tag-preview");
-const suggestedTags= document.getElementById("suggested-tags");
-const postBtn      = document.getElementById("post-btn");
-const analyzeStatus= document.getElementById("analyze-status");
-const reviewFeed   = document.getElementById("review-feed");
-const feedEmpty    = document.getElementById("feed-empty");
-const totalCount   = document.getElementById("total-count");
-const toast        = document.getElementById("toast");
+const reviewInput = document.getElementById("review-input");
+const authorInput = document.getElementById("author-input");
+const charNum = document.getElementById("char-num");
+const tagPreview = document.getElementById("tag-preview");
+const suggestedTags = document.getElementById("suggested-tags");
+const postBtn = document.getElementById("post-btn");
+const analyzeStatus = document.getElementById("analyze-status");
+const reviewFeed = document.getElementById("review-feed");
+const feedEmpty = document.getElementById("feed-empty");
+const totalCount = document.getElementById("total-count");
+const toast = document.getElementById("toast");
 
 const ASPECT_META = {
-  food:          { emoji: "🍜", label: "Ẩm thực" },
-  service:       { emoji: "🧑‍🍳", label: "Dịch vụ" },
-  price:         { emoji: "💰", label: "Giá cả" },
-  ambiance:      { emoji: "🌿", label: "Không gian" },
-  miscellaneous: { emoji: "📌", label: "Khác" },
+  food: { emoji: "🍜", label: "Food" },
+  service: { emoji: "🧑‍🍳", label: "Service" },
+  price: { emoji: "💰", label: "Price" },
+  ambiance: { emoji: "🌿", label: "Ambiance" },
+  miscellaneous: { emoji: "📌", label: "Miscellaneous" },
 };
 
-let currentTags  = [];   // tags từ model cho review hiện tại
-let reviewCount  = 0;
+let currentTags = []; // tags từ model cho review hiện tại
+let reviewCount = 0;
 let analyzeTimer = null;
-let isAnalyzing  = false;
+let isAnalyzing = false;
 
 // ── Char counter + debounce analyze ─────────────────────────
 reviewInput.addEventListener("input", () => {
@@ -79,7 +79,7 @@ async function analyzeText(text) {
 // ── Hiển thị tag preview ─────────────────────────────────────
 function renderTagPreview(tags) {
   suggestedTags.innerHTML = "";
-  tags.forEach(asp => {
+  tags.forEach((asp) => {
     const meta = ASPECT_META[asp] || { emoji: "🔹", label: asp };
     const span = document.createElement("span");
     span.className = "tag";
@@ -92,7 +92,7 @@ function renderTagPreview(tags) {
 
 // ── Đăng review ─────────────────────────────────────────────
 function postReview() {
-  const text   = reviewInput.value.trim();
+  const text = reviewInput.value.trim();
   const author = authorInput.value.trim() || "Khách ẩn danh";
   if (!text || currentTags.length === 0) return;
 
@@ -100,8 +100,8 @@ function postReview() {
   addReviewCard(author, text, currentTags);
 
   // Reset form
-  reviewInput.value  = "";
-  authorInput.value  = "";
+  reviewInput.value = "";
+  authorInput.value = "";
   charNum.textContent = "0";
   currentTags = [];
   postBtn.disabled = true;
@@ -120,9 +120,15 @@ function addReviewCard(author, text, tags) {
   reviewCount++;
   totalCount.textContent = `${reviewCount} đánh giá`;
 
-  const initials = author === "Khách ẩn danh"
-    ? "👤"
-    : author.split(" ").map(w => w[0]).slice(-2).join("").toUpperCase();
+  const initials =
+    author === "Khách ẩn danh"
+      ? "👤"
+      : author
+          .split(" ")
+          .map((w) => w[0])
+          .slice(-2)
+          .join("")
+          .toUpperCase();
 
   const card = document.createElement("div");
   card.className = "review-card";
@@ -136,10 +142,12 @@ function addReviewCard(author, text, tags) {
     </div>
     <p class="card-body">${escHtml(text)}</p>
     <div class="card-tags">
-      ${tags.map(asp => {
-        const m = ASPECT_META[asp] || { emoji: "🔹", label: asp };
-        return `<span class="tag" data-aspect="${asp}">${m.emoji} ${m.label}</span>`;
-      }).join("")}
+      ${tags
+        .map((asp) => {
+          const m = ASPECT_META[asp] || { emoji: "🔹", label: asp };
+          return `<span class="tag" data-aspect="${asp}">${m.emoji} ${m.label}</span>`;
+        })
+        .join("")}
     </div>
   `;
 
@@ -161,5 +169,9 @@ function showToast() {
 
 // ── Utility ─────────────────────────────────────────────────
 function escHtml(str) {
-  return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
 }
