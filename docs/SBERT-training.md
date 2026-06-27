@@ -1,4 +1,4 @@
-# Hướng dẫn pipeline huấn luyện SBERT
+# Hướng dẫn pipeline huấn luyện MPNet SentenceTransformer
 
 ## 1. Mục tiêu
 
@@ -10,7 +10,7 @@ Thư mục `notebooks/SBERT` xây dựng pipeline phân loại đa nhãn các kh
 
 Pipeline chính gồm ba giai đoạn và một giai đoạn cải thiện chuyên biệt:
 
-1. Tạo tập dữ liệu cố định và fine-tune SBERT.
+1. Tạo tập dữ liệu cố định và fine-tune MPNet.
 2. Huấn luyện, tối ưu Logistic Regression trên embedding của từng encoder.
 3. Đánh giá hai pipeline trên cùng một tập test và phân tích lỗi.
 4. Thử các chiến lược riêng để cải thiện lớp `miscellaneous`.
@@ -19,8 +19,8 @@ Hai pipeline được so sánh:
 
 ```text
 Review
-  ├── SBERT gốc ────────────> OVR Logistic Regression
-  └── SBERT đã fine-tune ───> OVR Logistic Regression
+  ├── MPNet gốc ────────────> OVR Logistic Regression
+  └── MPNet đã fine-tune ───> OVR Logistic Regression
                                   │
                                   └── Ngưỡng riêng cho từng aspect
 ```
@@ -55,7 +55,7 @@ ASPECT_COLS = [
 ]
 ```
 
-Văn bản trong `review_en` được đưa trực tiếp vào SBERT. Pipeline này không thực hiện:
+Văn bản trong `review_en` được đưa trực tiếp vào MPNet. Pipeline này không thực hiện:
 
 - Loại bỏ stopword.
 - Lemmatization.
@@ -75,7 +75,7 @@ Thiết lập này phải giống nhau trong lúc huấn luyện classifier, đ�
 
 ---
 
-## 3. Notebook 01 — Fine-tune SBERT
+## 3. Notebook 01 — Fine-tune MPNet
 
 File:
 
@@ -91,7 +91,7 @@ Notebook này:
 2. Tìm thư mục gốc của project.
 3. Đọc và kiểm tra dữ liệu.
 4. Chia dữ liệu thành train, validation và test.
-5. Tạo các cặp review để fine-tune SBERT.
+5. Tạo các cặp review để fine-tune MPNet.
 6. Lưu encoder gốc.
 7. Fine-tune và lưu encoder mới.
 8. Lưu metadata của quá trình huấn luyện.
@@ -130,7 +130,7 @@ Các đường dẫn quan trọng:
 
 ```python
 DATA_PATH = PROJECT_ROOT / "data" / "Restaurant_ABSA_processed.csv"
-OUTPUT_DIR = PROJECT_ROOT / "outputs" / "SBERT"
+OUTPUT_DIR = PROJECT_ROOT / "outputs" / "MPNet"
 MODEL_DIR = PROJECT_ROOT / "models" / "sbert"
 
 BASE_ENCODER_DIR = MODEL_DIR / "unretrained_encoder"
@@ -1108,7 +1108,7 @@ Mục tiêu chính là giảm false positive mà không làm recall giảm quá 
 
 Trong dataset hiện tại, `miscellaneous` luôn xuất hiện cùng ít nhất một aspect khác.
 
-Do đó notebook bổ sung xác suất của bốn aspect còn lại vào SBERT embedding:
+Do đó notebook bổ sung xác suất của bốn aspect còn lại vào SentenceTransformer embedding:
 
 ```python
 def stacked_features(
@@ -1126,7 +1126,7 @@ def stacked_features(
 Vector mới có dạng:
 
 ```text
-[SBERT embedding,
+[SentenceTransformer embedding,
  P(food),
  P(price),
  P(service),
@@ -1157,7 +1157,7 @@ val_features = stacked_features(
 
 Nếu stacked context thắng, deployment phải tải:
 
-1. Retrained SBERT encoder.
+1. Retrained MPNet encoder.
 2. OVR classifier gốc.
 3. Improved miscellaneous classifier.
 
@@ -1399,7 +1399,7 @@ Các package chính:
 
 ### Bước 2: Chạy notebook 01
 
-Notebook này có chi phí cao nhất vì fine-tune SBERT.
+Notebook này có chi phí cao nhất vì fine-tune MPNet.
 
 Sau khi chạy, kiểm tra:
 
@@ -1463,7 +1463,7 @@ Nên:
 
 ### 9.3. Mục tiêu fine-tune gián tiếp
 
-SBERT được fine-tune để học similarity giữa các bộ aspect, không trực tiếp tối ưu classification loss.
+MPNet được fine-tune để học similarity giữa các bộ aspect, không trực tiếp tối ưu classification loss.
 
 Đây là một dạng metric learning. Có thể thử thêm:
 
@@ -1504,7 +1504,7 @@ Việc này cần được thực hiện cẩn thận để không tối ưu l�
 
 ## 10. Kết luận
 
-Pipeline hiện tại cho thấy fine-tune SBERT bằng similarity của bộ nhãn giúp cải thiện rõ rệt:
+Pipeline hiện tại cho thấy fine-tune MPNet bằng similarity của bộ nhãn giúp cải thiện rõ rệt:
 
 - Macro F1 tăng từ `0.7837` lên `0.8296` trên test.
 - Micro F1 tăng từ `0.8785` lên `0.9231`.

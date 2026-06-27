@@ -1,6 +1,6 @@
 {
   "encoder_name": "unretrained",
-  "encoder_path": "models\\sbert\\unretrained_encoder",
+  "encoder_path": "models\\mpnet\\unretrained_encoder",
   "normalize_embeddings": true,
   "batch_size": 32,
   "aspect_cols": [

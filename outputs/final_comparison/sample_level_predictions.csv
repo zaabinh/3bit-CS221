@@ -1,0 +1,161 @@
+source_row,review_en,review_cleaned,true_aspects,mpnet_unretrained_predicted_aspects,mpnet_unretrained_exact_match,mpnet_retrained_predicted_aspects,mpnet_retrained_exact_match,tfidf_predicted_aspects,tfidf_exact_match
+692,although the price of the product has increased the quality and taste have not changed,although price product increased quality taste changed,"food, price","food, price",True,"food, price",True,"food, price",True
+779,the restaurant is very clean and the ambience is very nice,restaurant clean ambience nice,ambiance,"food, ambiance",False,ambiance,True,ambiance,True
+63,the side dishes are not very good but the service is good,side dish good service good,"food, service","food, service",True,"food, service",True,"food, service",True
+532,from today it is my favorite restaurant because the service here is very bad and the price of everything is very high,today favorite restaurant service bad price everything high,"price, service","food, service, miscellaneous",False,"price, service",True,"price, service",True
+66,best chicken pressure the price of 120 rupees seemed right to me,best chicken pressure price 120 rupee seemed right,"food, price","food, price",True,"food, price",True,"food, price",True
+750,the food here is not very good and the workers are lazy,food good worker lazy,"food, service","food, service, ambiance, miscellaneous",False,"food, service",True,food,False
+382,the dalpuris were not too oily but the price was high,dalpuris oily price high,"food, price","food, price",True,"food, price",True,"food, price",True
+684,i did not like strong coffee and the price was high,like strong coffee price high,"food, price","food, price",True,"food, price",True,"food, price",True
+640,the sub sandwich was also very good as a reward thank god the atmosphere is very good,sub sandwich also good reward thank god atmosphere good,"food, ambiance","food, ambiance",True,"food, ambiance",True,"food, ambiance",True
+625,their kitchen is not very nice so people cannot enjoy the taste of the food as much,kitchen nice people cannot enjoy taste food much,"food, ambiance","food, ambiance, miscellaneous",False,"food, ambiance",True,food,False
+65,their service is great and food quality is good,service great food quality good,"food, service","food, service",True,"food, service",True,"food, service",True
+285,there is no extra decoration and the service is decent,extra decoration service decent,"service, ambiance","food, service, ambiance",False,"service, ambiance",True,service,False
+634,schizlingter is a type of food that is served hot and fresh,schizlingter type food served hot fresh,"food, service","food, service",True,food,False,"food, service",True
+67,food taste great interior is good,food taste great interior good,"food, ambiance","food, ambiance",True,"food, ambiance",True,"food, ambiance",True
+326,the jhal fry portion was very juicy and the price was within the common mans budget,jhal fry portion juicy price within common man budget,"food, price","food, price",True,"food, price",True,"food, price",True
+394,i feel like their tacos have improved a lot and the prices have not gone up that much,feel like taco improved lot price gone much,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+244,it was understood that the less expensive food can be good but eating the food of this restaurant,understood less expensive food good eating food restaurant,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+630,the biryani rice was fluffy but the meat was tough,biryani rice fluffy meat tough,food,food,True,food,True,"food, price",False
+744,there was not the chutney it was supposed to be but that did not matter because it was free anyway,chutney supposed matter free anyway,"food, price","food, miscellaneous",False,"food, price",True,"food, price",True
+525,shahi khichuri did not have shahibhav so bad but their service is so good that i am impressed,shahi khichuri shahibhav bad service good impressed,"food, service","food, service, miscellaneous",False,"food, service",True,"food, service",True
+405,the side dishes were very good and the price was much less than i expected,side dish good price much less expected,"food, price","food, price",True,"food, price",True,"food, price",True
+533,the taste of ice cream is still on my tongue i was so excited but the environment of their shop was very bad,taste ice cream still tongue excited environment shop bad,"food, ambiance",food,False,"food, ambiance",True,"food, ambiance",True
+621,the steak was delicious and it was a great deal,steak delicious great deal,"food, price","food, price",True,"food, price",True,"food, price",True
+717,everything here costs the same and tastes just like normal,everything cost taste like normal,"food, price","food, price",True,"food, price",True,"food, price",True
+636,the food was cold and we waited a long time for it to arrive,food cold waited long time arrive,"food, service","food, service",True,"food, service",True,"food, service",True
+30,the biryani rice was fluffy and fluffy but the meat was tough,biryani rice fluffy fluffy meat tough,food,food,True,food,True,"food, price",False
+260,a restaurant and location is also very good to eat a full stomach with less money,restaurant location also good eat full stomach less money,"price, miscellaneous","food, price, miscellaneous",False,"food, price, ambiance",False,"food, price",False
+346,such hard meat has never been eaten before and the condition of the restaurant is also bad,hard meat never eaten condition restaurant also bad,"food, ambiance",food,False,"food, ambiance",True,"food, ambiance",True
+599,the pizza was delicious but the experience was horrible,pizza delicious experience horrible,"food, miscellaneous","food, service",False,"food, service",False,"food, service",False
+772,the food is of good quality and reasonably priced,food good quality reasonably priced,"food, price","food, price",True,"food, price",True,"food, price",True
+215,the food here was the best and the price was reasonable,food best price reasonable,"food, price","food, price",True,"food, price",True,"food, price",True
+78,amrit taste but the price is a bit high,amrit taste price bit high,"food, price","food, price",True,"food, price",True,"food, price",True
+543,i liked the fruit juice very much but was not completely happy because their service quality was so bad,liked fruit juice much completely happy service quality bad,"food, service","food, service",True,"food, service",True,"food, service",True
+639,there was not a single piece of meat after all the price is high,single piece meat price high,"food, price","food, price",True,"food, price",True,"food, price",True
+39,took so much time to bring food but also fed stale food,took much time bring food also fed stale food,"food, service","food, service",True,"food, service",True,"food, service",True
+23,dumplings are not very good it is late to pay everything,dumpling good late pay everything,"food, service","food, price, miscellaneous",False,"food, service",True,"food, service",True
+660,the rice was very good but the service was not very good,rice good service good,"food, service","food, service",True,"food, service",True,"food, service",True
+309,that is why the taste is slightly different and the price is same as normal khichuriegg,taste slightly different price normal khichuriegg,"food, price","food, price",True,"food, price",True,"food, price",True
+792,meat items are just fat and fat but the price is a bit high,meat item fat fat price bit high,"food, price","food, price",True,"food, price",True,"food, price",True
+302,the price of octopus is very high but i did not find any taste,price octopus high find taste,"food, price","food, price",True,"food, price",True,"food, price",True
+139,the price is so low and the taste is just right,price low taste right,"food, price","food, price",True,"food, price",True,"food, price",True
+250,the restaurant has quickly earned a name for its good quality food and good ambience,restaurant quickly earned name good quality food good ambience,"food, ambiance","food, ambiance, miscellaneous",False,"food, ambiance",True,"food, ambiance",True
+174,fuchka is expensive but fun to eat,fuchka expensive fun eat,"food, price","food, price",True,"food, price",True,"food, price",True
+685,there are many items that are good and the company cares for the environment,many item good company care environment,"food, ambiance","food, price, ambiance",False,"food, ambiance",True,ambiance,False
+594,i ate dumba meat for the first time in my life and i liked the taste but it cost me a lot of money,ate dumba meat first time life liked taste cost lot money,"food, price","food, price",True,"food, price",True,"food, price",True
+649,awful halim the environment is also bad,awful halim environment also bad,"food, ambiance","food, ambiance, miscellaneous",False,"food, ambiance",True,ambiance,False
+422,although the quality of the food was not the best and the environment was not that bad,although quality food best environment bad,"food, ambiance","food, ambiance, miscellaneous",False,"food, ambiance",True,"food, ambiance",True
+432,i spent very little money but it seems like i am eating nectar,spent little money seems like eating nectar,"food, price","food, price",True,"food, price",True,"food, price",True
+737,the burger patty is thicker than a regular burger and because of that it is bigger,burger patty thicker regular burger bigger,food,food,True,food,True,"food, price",False
+444,because the taste of nectar is the same as before but the price has increased a lot,taste nectar price increased lot,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+265,the price of the restaurant food was high but at the same time the quality of the food was good,price restaurant food high time quality food good,"food, price","food, price",True,"food, price",True,"food, price",True
+109,the location of the restaurant is good and the price of the food is also low,location restaurant good price food also low,"price, miscellaneous","food, price, ambiance, miscellaneous",False,"price, ambiance, miscellaneous",False,"price, miscellaneous",True
+662,the food tastes great and the service is great,food taste great service great,"food, service","food, service",True,"food, service",True,"food, service",True
+590,eating fish in this restaurant made me hate fish even more and i felt like paying such a high price,eating fish restaurant made hate fish even felt like paying high price,"food, price","food, price",True,"food, price",True,"food, price",True
+335,the reviews of the restaurant online were bad but i found the quality of the food to be good,review restaurant online bad found quality food good,"food, miscellaneous","food, miscellaneous",True,food,False,"food, ambiance",False
+367,the taste of the sushi was not that great but the atmosphere of the restaurant was so good that i would go there again,taste sushi great atmosphere restaurant good would go,"food, ambiance",food,False,"food, ambiance",True,ambiance,False
+314,the price of hilsa fish tail filling was also low and the taste was decent,price hilsa fish tail filling also low taste decent,"food, price","food, price",True,"food, price",True,"food, price",True
+687,heard many names on everyone is lips but i did not like the food here,heard many name everyone lip like food,"food, miscellaneous",food,False,food,False,food,False
+198,the curd puffs here are good and the price is quite within the range,curd puff good price quite within range,"food, price","food, price",True,"food, price",True,"food, price",True
+168,the reshmi kebab melts in your mouth and the price is also very good,reshmi kebab melt mouth price also good,"food, price","food, price",True,"food, price",True,"food, price",True
+490,halim is very strict but i disliked the cleanliness aspect,halim strict disliked cleanliness aspect,"food, ambiance","food, ambiance, miscellaneous",False,"food, ambiance",True,"food, ambiance",True
+473,every item tasted amazing and their workmanship was better than other places,every item tasted amazing workmanship better place,"food, service","food, service",True,"food, service",True,food,False
+652,haleem was amazing in one word i became a fan,haleem amazing one word became fan,"food, miscellaneous","food, miscellaneous",True,"food, miscellaneous",True,"food, miscellaneous",True
+465,they have kept the price low but they have mixed a lot of fruits in faluda,kept price low mixed lot fruit faluda,"food, price","food, price",True,"food, price",True,"food, price",True
+231,the price of each item is high but i did not like the taste of each item,price item high like taste item,"food, price","food, price",True,"food, price",True,"food, price",True
+548,there is no sweetness in the laddu bro and the price is so high that i am disappointed,sweetness laddu bro price high disappointed,"food, price","food, price",True,"food, price",True,"food, price",True
+49,disgusting halim and the environment is dirty,disgusting halim environment dirty,"food, ambiance","food, ambiance",True,"food, ambiance",True,ambiance,False
+568,it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,necessary sell land go eat price food high everyone go get touch good environment,"price, ambiance","food, price, miscellaneous",False,"price, ambiance",True,price,False
+356,the price of the food is high but the quality of the food is not so good,price food high quality food good,"food, price","food, price",True,"food, price",True,"food, price",True
+86,there are many items in the same price range that are good and the environment is also fair,many item price range good environment also fair,"food, price, ambiance","food, price, ambiance",True,"food, price, ambiance",True,"food, price, ambiance",True
+544,the taste quality of the restaurant food has increased and at the same time the ambiance of their restaurant has also improved a lot,taste quality restaurant food increased time ambiance restaurant also improved lot,"food, ambiance","food, ambiance, miscellaneous",False,"food, ambiance",True,"food, ambiance",True
+192,the price was high but everyone enjoyed the pizza,price high everyone enjoyed pizza,"food, price","food, price",True,"food, price",True,"food, price",True
+791,i was not disappointed with the price of the food here and was happy with the taste as well,disappointed price food happy taste well,"food, price","food, price",True,"food, price",True,"food, price",True
+33,every chicken item was very tasty they served the food very quickly,every chicken item tasty served food quickly,"food, service","food, service",True,"food, service",True,"food, service",True
+31,as for the beef the test was very good but the name kalabuna was not right,beef test good name kalabuna right,food,food,True,"food, miscellaneous",False,food,True
+199,yogurt is bad to eat and the price is so high,yogurt bad eat price high,"food, price","food, price",True,"food, price",True,"food, price",True
+579,it was bad habit to have insects in the food and the price was high,bad habit insect food price high,"food, price","food, price, miscellaneous",False,"food, price",True,price,False
+569,they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,giving free toy child good marketing price food high price toy collected,"price, miscellaneous","food, price",False,"food, price",False,"food, price",False
+593,food of normal price is very scarce here and they are not treating all the customers well,food normal price scarce treating customer well,"price, service","food, price, service",False,"food, price",False,"food, price",False
+567,this umbrella grill does not like to eat so badly and the price is as high as the price of gold,umbrella grill like eat badly price high price gold,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+732,this restaurant does not provide good service or make it easy for children to have fun,restaurant provide good service make easy child fun,"service, ambiance","food, service, ambiance, miscellaneous",False,"service, ambiance",True,service,False
+137,the price is low and the taste is good,price low taste good,"food, price","food, price",True,"food, price",True,"food, price",True
+72,very good prices and good environment too,good price good environment,"price, ambiance",price,False,"price, ambiance",True,"price, ambiance",True
+77,the environment is bad and the food is also bad,environment bad food also bad,"food, ambiance","food, ambiance",True,"food, ambiance",True,"food, ambiance",True
+645,biryani was cold price too high,biryani cold price high,"food, price","food, price",True,"food, price",True,"food, price",True
+344,all the staff looked very professional but their service was not that good,staff looked professional service good,service,service,True,"food, service",False,service,True
+782,the menu has a good mix of items but the prices seem a bit high,menu good mix item price seem bit high,"food, price","food, price",True,"food, price",True,"food, price",True
+462,the outer layer of the dumpling was very thick and tasty to eat and did not have to wait too long for the food,outer layer dumpling thick tasty eat wait long food,"food, service","food, service",True,"food, service",True,"food, service",True
+332,the quality of the food is fair but there is too much traffic for the waiters to use,quality food fair much traffic waiter use,"food, service","food, service, miscellaneous",False,"food, service",True,"food, service",True
+96,the food is cheap but i have no doubt that the food is stale,food cheap doubt food stale,"food, price",food,False,"food, price",True,"food, price",True
+338,the taste of the food is bad but the price is sky high,taste food bad price sky high,"food, price","food, price",True,"food, price",True,"food, price",True
+711,the cake tastes great and the party atmosphere is great,cake taste great party atmosphere great,"food, ambiance","food, ambiance",True,"food, ambiance",True,"food, ambiance",True
+478,they gave us welcome drinks as soon as we sat in the restaurant which i like very much and the rest of their service was also very good,gave u welcome drink soon sat restaurant like much rest service also good,"food, service","food, service, miscellaneous",False,"food, service",True,service,False
+783,the food tastes bad and the service is terrible,food taste bad service terrible,"food, service","food, service",True,"food, service",True,"food, service",True
+628,it is usually a little less salty than other dishes the taste is unmatched,usually little less salty dish taste unmatched,food,food,True,food,True,"food, price",False
+641,all the burgers were very tasty and the prices were very reasonable,burger tasty price reasonable,"food, price","food, price",True,"food, price",True,"food, price",True
+710,salads are very affordable but not always available,salad affordable always available,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+534,the food is not as good as before and their service is also bad today,food good service also bad today,"food, service","food, service",True,"food, service",True,"food, service",True
+54,all the dishes were very reasonably priced and the interior is also very beautiful,dish reasonably priced interior also beautiful,"price, ambiance","food, price",False,"price, ambiance",True,"food, price, ambiance",False
+746,the shish kebabs took a long time to arrive but finally tasted great,shish kebab took long time arrive finally tasted great,"food, service","food, service",True,"food, service",True,"food, service",True
+155,i did not have peace of mind after having tea in a 5 star hotel and only had to pay 2000 tk,peace mind tea 5 star hotel pay 2000 tk,"food, price","food, price",True,"food, price",True,"food, price",True
+439,home cooked food is better than this restaurant and you do not have to wait so long at home,home cooked food better restaurant wait long home,"food, service","food, ambiance",False,"food, service",True,"food, service, ambiance",False
+97,i have not eaten bharta with so much flavor before and the price is also low,eaten bharta much flavor price also low,"food, price","food, price",True,"food, price",True,"food, price",True
+120,all items are priced normally and taste normal,item priced normally taste normal,"food, price","food, price",True,"food, price",True,"food, price",True
+76,the restaurant is small but expensive,restaurant small expensive,"price, ambiance","price, ambiance, miscellaneous",False,"price, ambiance, miscellaneous",False,"price, ambiance",True
+204,the taste of kachchi is really unforgettable but the price is very high,taste kachchi really unforgettable price high,"food, price","food, price",True,"food, price",True,"food, price",True
+351,the decoration of the restaurant is very unique and i think it has the best atmosphere,decoration restaurant unique think best atmosphere,ambiance,"food, ambiance, miscellaneous",False,"food, ambiance",False,ambiance,True
+760,although the decor of the restaurant has improved the prices of all the dishes have increased slightly,although decor restaurant improved price dish increased slightly,"price, ambiance","price, miscellaneous",False,"price, ambiance",True,"food, price",False
+208,today i found a reasonable restaurant and food quality is good,today found reasonable restaurant food quality good,"food, price","food, miscellaneous",False,"food, price",True,"food, ambiance",False
+734,the price is good and the taste is great,price good taste great,"food, price","food, price",True,"food, price",True,"food, price",True
+424,the food here tastes a little better but nothing else is quite customerfriendly,food taste little better nothing else quite customerfriendly,"food, miscellaneous","food, service",False,"food, service",False,food,False
+451,this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,restaurant cooked foreign cook hence price food bit high,"price, miscellaneous","food, price, miscellaneous",False,"food, price",False,"food, price",False
+84,crimsoncups atmosphere is also joss and coffee is joss,crimsoncups atmosphere also joss coffee joss,"food, ambiance","food, ambiance",True,"food, ambiance",True,"food, ambiance",True
+10,love quiet restaurant and for family we go here only to celebrate an occasion,love quiet restaurant family go celebrate occasion,"ambiance, miscellaneous","food, ambiance, miscellaneous",False,"ambiance, miscellaneous",True,"food, ambiance",False
+716,biryani was ok but underpriced,biryani ok underpriced,"food, price","food, price",True,"food, price",True,"food, price",True
+110,the service was good but i have never seen a restaurant so full of mosquitoes,service good never seen restaurant full mosquito,"service, ambiance","food, service",False,"service, ambiance",True,service,False
+281,the taste was slightly different and the staff were very attentive,taste slightly different staff attentive,"food, service","food, service",True,"food, service",True,"food, service",True
+479,ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,ordering lower priced item made waiter experience worse food seemed overpriced,"price, service","price, service",True,"food, price, service",False,"food, service",False
+209,comillas rasmalai is different and the price is reasonable,comillas rasmalai different price reasonable,"food, price","food, price",True,"food, price",True,"food, price",True
+235,the waiters were giving very fast refills and the food tasted a little different,waiter giving fast refill food tasted little different,"food, service","food, service, miscellaneous",False,"food, service",True,"food, service",True
+445,the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,ambiance bhoot adda restaurant bit different place price also high,"price, ambiance","food, price, ambiance, miscellaneous",False,"price, ambiance",True,price,False
+726,iftar dishes are not very good or expensive to eat,iftar dish good expensive eat,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+118,the steak was very good but the price was too high,steak good price high,"food, price","food, price",True,"food, price",True,"food, price",True
+715,nanroti contains a lot of butter which makes the bread taste better but the place where the bread is made is not clean,nanroti contains lot butter make bread taste better place bread made clean,"food, ambiance","food, ambiance",True,"food, ambiance",True,"food, ambiance",True
+210,the menu is well balanced but the price seems a bit high,menu well balanced price seems bit high,"food, price","food, price",True,"food, price",True,"food, price",True
+254,the decoration was very different and the atmosphere was very lively,decoration different atmosphere lively,ambiance,"food, ambiance, miscellaneous",False,"food, ambiance",False,ambiance,True
+292,breads are thicker than before and prices have not increased,bread thicker price increased,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+29,the price is right but the test is not the same as before,price right test,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+266,hilsa from mawa ghat has a different taste but the price is a bit higher,hilsa mawa ghat different taste price bit higher,"food, price","food, price",True,"food, price",True,"food, price",True
+336,the caramel tastes completely different in the coffee and the flavor seems to be better for the surroundings,caramel taste completely different coffee flavor seems better surroundings,"food, ambiance","food, miscellaneous",False,"food, ambiance",True,food,False
+658,nehari is very attractive but the environment is not very nice,nehari attractive environment nice,"food, ambiance","food, ambiance, miscellaneous",False,"food, ambiance",True,ambiance,False
+709,the food was not very good but the prices were really high,food good price really high,"food, price","food, price",True,"food, price",True,"food, price",True
+81,ilhasvajata is the same and the price is affordable,ilhasvajata price affordable,"food, price","food, price",True,"food, price",True,"food, price",True
+659,their service was great but they could improve their focus on the taste of their food,service great could improve focus taste food,"food, service","food, service",True,"food, service",True,"food, service",True
+417,the timing of the meal was just right and the total cost was very less per person,timing meal right total cost less per person,"price, service","food, price, service, miscellaneous",False,"price, service",True,"food, price",False
+637,there is no shortage of shops but i cannot find good food,shortage shop cannot find good food,"food, miscellaneous","food, miscellaneous",True,"food, ambiance, miscellaneous",False,"food, ambiance",False
+682,as the price of this product has increased so has the quality,price product increased quality,"food, price","food, price",True,"food, price",True,"food, price",True
+420,if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,everything good wife favorite restaurant especially price food low else husband need,"price, miscellaneous","food, miscellaneous",False,"price, miscellaneous",True,price,False
+669,the food was not good and the service was terrible,food good service terrible,"food, service","food, service",True,"food, service",True,"food, service",True
+448,could not be more happy with the waiters service but the taste of the food satisfied me,could happy waiter service taste food satisfied,"food, service","food, service",True,"food, service",True,"food, service",True
+211,the taste is bad and the service is even worse,taste bad service even worse,"food, service","food, service",True,"food, service",True,"food, service",True
+531,the time was good because of the atmosphere of the restaurant and their service was also amazing,time good atmosphere restaurant service also amazing,"service, ambiance","food, service, miscellaneous",False,"service, ambiance",True,"service, ambiance",True
+482,the price may be high but believe me you all play it and you will not like anything else,price may high believe play like anything else,"food, price","food, price",True,"food, price",True,"food, price",True
+218,customers are happy with the food quality and also happy with the price,customer happy food quality also happy price,"food, price","food, price",True,"food, price",True,"food, price",True
+7,had authentic food and i go twice a month,authentic food go twice month,"food, miscellaneous","food, miscellaneous",True,"food, miscellaneous",True,"food, price",False
+581,the nimkis were very crunchy which everyone liked but it took a long time to wait,nimkis crunchy everyone liked took long time wait,"food, service","food, service",True,"food, service",True,"food, service",True
+101,chicken corn soup is just chicken and corn and the price is not that high,chicken corn soup chicken corn price high,"food, price","food, price",True,"food, price",True,"food, price",True
+323,the food prices in the restaurants in the trade fair are high and the quality is very bad,food price restaurant trade fair high quality bad,"food, price","food, price, miscellaneous",False,"food, price",True,"food, price",True
+523,their service quality will not be fair but food quality was good,service quality fair food quality good,"food, service","food, service",True,"food, service",True,"food, service",True
+306,the beef was so soft and juicy that i cannot explain it but the price was high,beef soft juicy cannot explain price high,"food, price","food, price",True,"food, price",True,"food, price",True
+329,does not take long to wait and tastes great too,take long wait taste great,"food, service","food, service",True,"food, service",True,"food, service, ambiance",False
+2,food always tastes fresh and served promptly,food always taste fresh served promptly,"food, service","food, service",True,"food, service",True,"food, service",True
+365,food prices are lower than other nearby places but the food is very expensive,food price lower nearby place food expensive,price,"food, price, miscellaneous",False,"price, miscellaneous",False,price,True
+412,it is hard to find eggs in eggchop and everything is rotten,hard find egg eggchop everything rotten,food,"food, ambiance",False,"food, ambiance",False,"food, price",False
+518,just wasted my time because the quality of food was not good and i did not like the environment,wasted time quality food good like environment,"food, ambiance","food, miscellaneous",False,"food, ambiance",True,"food, ambiance",True
+588,it was very juicy and we were very happy with their delivery speed,juicy happy delivery speed,"food, service","food, service",True,"food, service",True,"food, price, service",False
+434,there was nothing sweet about lachchi and the price was too expensive,nothing sweet lachchi price expensive,"food, price","food, price",True,"food, price",True,price,False
+740,i have never had such good service and the food here is also very good,never good service food also good,"food, service","food, service",True,"food, service",True,"food, service",True
+512,the sweets were disgusting and i hated their use,sweet disgusting hated use,"food, service",food,False,food,False,"food, service",True
+360,some fake restaurants and food prices are higher than the original places,fake restaurant food price higher original place,"price, miscellaneous","food, price, miscellaneous",False,"food, price, miscellaneous",False,"price, ambiance",False

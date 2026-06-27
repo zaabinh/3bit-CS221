@@ -1,0 +1,16 @@
+model,aspect,f1
+MPNet retrained,food,0.9675090252707581
+MPNet unretrained,food,0.9273356401384083
+TF-IDF,food,0.9368029739776952
+MPNet retrained,price,1.0
+MPNet unretrained,price,0.9580838323353293
+TF-IDF,price,0.9485714285714286
+MPNet retrained,service,0.9397590361445783
+MPNet unretrained,service,0.9397590361445783
+TF-IDF,service,0.9382716049382716
+MPNet retrained,ambiance,0.9459459459459459
+MPNet unretrained,ambiance,0.7619047619047619
+TF-IDF,ambiance,0.7941176470588235
+MPNet retrained,miscellaneous,0.5833333333333334
+MPNet unretrained,miscellaneous,0.3225806451612903
+TF-IDF,miscellaneous,0.25

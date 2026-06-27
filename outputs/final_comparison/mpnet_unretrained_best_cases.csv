@@ -1,0 +1,16 @@
+model,source_row,review_en,true_aspects,predicted_aspects,exact_match,label_error_count,false_positive_aspects,false_negative_aspects,mean_true_probability,min_true_probability,mean_predicted_probability,max_wrong_probability
+MPNet unretrained,628,it is usually a little less salty than other dishes the taste is unmatched,food,food,True,0,None,None,0.9999600204023568,0.9999600204023568,0.9999600204023568,0.0
+MPNet unretrained,31,as for the beef the test was very good but the name kalabuna was not right,food,food,True,0,None,None,0.9998942273436622,0.9998942273436622,0.9998942273436622,0.0
+MPNet unretrained,344,all the staff looked very professional but their service was not that good,service,service,True,0,None,None,0.9997258090126443,0.9997258090126443,0.9997258090126443,0.0
+MPNet unretrained,30,the biryani rice was fluffy and fluffy but the meat was tough,food,food,True,0,None,None,0.999671517884694,0.999671517884694,0.999671517884694,0.0
+MPNet unretrained,630,the biryani rice was fluffy but the meat was tough,food,food,True,0,None,None,0.9996371786345888,0.9996371786345888,0.9996371786345888,0.0
+MPNet unretrained,101,chicken corn soup is just chicken and corn and the price is not that high,"food, price","food, price",True,0,None,None,0.9970748443269706,0.9962075874407487,0.9970748443269706,0.0
+MPNet unretrained,231,the price of each item is high but i did not like the taste of each item,"food, price","food, price",True,0,None,None,0.9966972608918183,0.9958445030488622,0.9966972608918183,0.0
+MPNet unretrained,594,i ate dumba meat for the first time in my life and i liked the taste but it cost me a lot of money,"food, price","food, price",True,0,None,None,0.996110594928538,0.9942919286411843,0.996110594928538,0.0
+MPNet unretrained,737,the burger patty is thicker than a regular burger and because of that it is bigger,food,food,True,0,None,None,0.9959946763918883,0.9959946763918883,0.9959946763918883,0.0
+MPNet unretrained,734,the price is good and the taste is great,"food, price","food, price",True,0,None,None,0.9954162709649423,0.9913005558129928,0.9954162709649423,0.0
+MPNet unretrained,78,amrit taste but the price is a bit high,"food, price","food, price",True,0,None,None,0.9944118900663321,0.9943123429607595,0.9944118900663321,0.0
+MPNet unretrained,716,biryani was ok but underpriced,"food, price","food, price",True,0,None,None,0.9939843387128033,0.9907054711342521,0.9939843387128033,0.0
+MPNet unretrained,204,the taste of kachchi is really unforgettable but the price is very high,"food, price","food, price",True,0,None,None,0.993960309393893,0.9887869656051862,0.993960309393893,0.0
+MPNet unretrained,209,comillas rasmalai is different and the price is reasonable,"food, price","food, price",True,0,None,None,0.9934928947496494,0.9904550634968934,0.9934928947496494,0.0
+MPNet unretrained,314,the price of hilsa fish tail filling was also low and the taste was decent,"food, price","food, price",True,0,None,None,0.9932210042892238,0.9891291778329698,0.9932210042892238,0.0

@@ -134,13 +134,13 @@ Theo aspect:
 
 Nhận xét:
 
-- Review ngắn và khá đồng đều, phù hợp với SBERT và Logistic Regression.
+- Review ngắn và khá đồng đều, phù hợp với MPNet và Logistic Regression.
 - `miscellaneous` có xu hướng dài hơn một chút, nhưng khác biệt nhỏ; độ dài không đủ để phân biệt lớp này.
 - Sau preprocessing, số từ giảm hơn một nửa. Điều này hữu ích cho TF-IDF nhưng có rủi ro mất ngữ nghĩa.
 
 Đề xuất:
 
-- Với SBERT: dùng `review_en` gốc, không dùng `review_cleaned`.
+- Với MPNet: dùng `review_en` gốc, không dùng `review_cleaned`.
 - Với TF-IDF: có thể dùng `review_cleaned`, nhưng cần giữ phủ định nếu mục tiêu có sentiment hoặc ngữ nghĩa chi tiết.
 - Với cả train và deployment, preprocessing phải thống nhất tuyệt đối.
 
@@ -177,7 +177,7 @@ Ví dụ rủi ro:
 
 - Không dùng stopword removal mặc định nếu nó xóa `not`, `no`, `never`, `without`.
 - Nếu dùng TF-IDF, nên thử `ngram_range=(1, 2)` hoặc `(1, 3)` để giữ cụm phủ định và cụm aspect như `food price`, `good service`, `bad environment`.
-- Nếu dùng SBERT, câu gốc đã đủ ngắn; không cần cleaning mạnh.
+- Nếu dùng MPNet, câu gốc đã đủ ngắn; không cần cleaning mạnh.
 
 ## 7. Ký tự đặc biệt / uncommon characters
 
@@ -256,7 +256,7 @@ Vấn đề:
 
 ### Preprocessing
 
-- Với SBERT:
+- Với MPNet:
   - dùng `review_en`
   - chỉ normalize nhẹ: lowercase nếu đã thống nhất, strip whitespace, xóa `\u200b`
   - không dùng stopword removal/lemmatization mạnh
@@ -292,7 +292,7 @@ Dữ liệu hiện tại đã tốt hơn bản trước: không còn duplicate, 
 
 1. Mất cân bằng nhãn rất mạnh, đặc biệt `miscellaneous`.
 2. 113 dòng suspicious theo heuristic vẫn cần review thủ công.
-3. `review_cleaned` làm mất nhiều token và có thể mất phủ định, nên không phù hợp làm input chính cho SBERT.
+3. `review_cleaned` làm mất nhiều token và có thể mất phủ định, nên không phù hợp làm input chính cho MPNet.
 4. Một vài dòng còn zero-width space trong `review_en`, cần normalize trước deployment.
 
 Thứ tự ưu tiên nên làm:

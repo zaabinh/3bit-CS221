@@ -1,6 +1,6 @@
 {
   "encoder_name": "retrained",
-  "encoder_path": "models\\sbert\\retrained_encoder",
+  "encoder_path": "models\\mpnet\\retrained_encoder",
   "normalize_embeddings": true,
   "batch_size": 32,
   "aspect_cols": [

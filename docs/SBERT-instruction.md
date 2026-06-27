@@ -1,8 +1,8 @@
-# Hướng dẫn mô hình SBERT
+# Hướng dẫn mô hình MPNet SentenceTransformer
 
 ### 1. Tổng quan
 
-Pipeline phân loại khía cạnh bằng SBERT gồm hai phiên bản encoder:
+Pipeline phân loại khía cạnh bằng MPNet gồm hai phiên bản encoder:
 
 - **Encoder chưa huấn luyện lại**: mô hình gốc `all-mpnet-base-v2`.
 - **Encoder đã huấn luyện lại**: `all-mpnet-base-v2` được fine-tune trên đánh giá nhà hàng bằng các cặp văn bản có độ tương đồng mục tiêu được tính từ mức độ giao nhau của nhãn đa lớp.
@@ -95,20 +95,20 @@ Phiên bản đã huấn luyện lại hiện có macro F1 trên validation cao 
 
 ### 4. Tiền xử lý
 
-Pipeline SBERT được huấn luyện trực tiếp bằng văn bản tiếng Anh trong:
+MPNet SentenceTransformer pipeline được huấn luyện trực tiếp bằng văn bản tiếng Anh trong:
 
 ```text
 data/Restaurant_ABSA_processed.csv -> review_en
 ```
 
-Không thực hiện loại bỏ stopword, lemmatization, loại bỏ dấu câu, chuyển thành chữ thường hoặc gọi `preprocess_review()` trước khi tạo SBERT embedding.
+Không thực hiện loại bỏ stopword, lemmatization, loại bỏ dấu câu, chuyển thành chữ thường hoặc gọi `preprocess_review()` trước khi tạo SentenceTransformer embedding.
 
 Trong môi trường triển khai:
 
 1. Kiểm tra đầu vào là chuỗi.
 2. Loại bỏ khoảng trắng ở đầu và cuối.
 3. Từ chối chuỗi rỗng.
-4. Đưa trực tiếp câu tiếng Anh tự nhiên vào SBERT.
+4. Đưa trực tiếp câu tiếng Anh tự nhiên vào MPNet.
 
 ```python
 def prepare_review(review: str) -> str:
@@ -122,7 +122,7 @@ def prepare_review(review: str) -> str:
     return review
 ```
 
-Không sử dụng `preprocessing.preprocess_review()` với các classifier SBERT đã lưu. Hàm đó loại bỏ stopword và có thể loại bỏ từ phủ định, làm câu `"food was not good"` trở thành văn bản gần giống `"food good"`.
+Không sử dụng `preprocessing.preprocess_review()` với các MPNet SentenceTransformer classifier đã lưu. Hàm đó loại bỏ stopword và có thể loại bỏ từ phủ định, làm câu `"food was not good"` trở thành văn bản gần giống `"food good"`.
 
 Dữ liệu huấn luyện hiện tại là tiếng Anh. Với dữ liệu đầu vào không phải tiếng Anh, cần dịch sang tiếng Anh trước khi dự đoán hoặc huấn luyện lại toàn bộ pipeline bằng SentenceTransformer đa ngôn ngữ.
 
@@ -158,7 +158,7 @@ Nếu ứng dụng có thể được chạy từ thư mục khác thư mục g�
 Sử dụng hàm `predict_reviews()` ở phần tiếng Anh. Hàm này thực hiện đầy đủ các bước:
 
 1. Kiểm tra và chuẩn hóa khoảng trắng của đầu vào.
-2. Tạo SBERT embedding với đúng thiết lập `normalize_embeddings`.
+2. Tạo SentenceTransformer embedding với đúng thiết lập `normalize_embeddings`.
 3. Lấy xác suất từ classifier.
 4. Áp dụng ngưỡng riêng của từng nhãn từ `metadata.json`.
 5. Chọn nhãn có xác suất cao nhất nếu không nhãn nào vượt ngưỡng.

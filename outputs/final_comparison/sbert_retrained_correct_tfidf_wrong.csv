@@ -1,0 +1,32 @@
+source_row,review_en,true_aspects,sbert_retrained_predicted_aspects,tfidf_predicted_aspects
+750,the food here is not very good and the workers are lazy,"food, service","food, service",food
+625,their kitchen is not very nice so people cannot enjoy the taste of the food as much,"food, ambiance","food, ambiance",food
+285,there is no extra decoration and the service is decent,"service, ambiance","service, ambiance",service
+630,the biryani rice was fluffy but the meat was tough,food,food,"food, price"
+30,the biryani rice was fluffy and fluffy but the meat was tough,food,food,"food, price"
+685,there are many items that are good and the company cares for the environment,"food, ambiance","food, ambiance",ambiance
+649,awful halim the environment is also bad,"food, ambiance","food, ambiance",ambiance
+737,the burger patty is thicker than a regular burger and because of that it is bigger,food,food,"food, price"
+367,the taste of the sushi was not that great but the atmosphere of the restaurant was so good that i would go there again,"food, ambiance","food, ambiance",ambiance
+473,every item tasted amazing and their workmanship was better than other places,"food, service","food, service",food
+49,disgusting halim and the environment is dirty,"food, ambiance","food, ambiance",ambiance
+568,it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,"price, ambiance","price, ambiance",price
+579,it was bad habit to have insects in the food and the price was high,"food, price","food, price",price
+732,this restaurant does not provide good service or make it easy for children to have fun,"service, ambiance","service, ambiance",service
+478,they gave us welcome drinks as soon as we sat in the restaurant which i like very much and the rest of their service was also very good,"food, service","food, service",service
+628,it is usually a little less salty than other dishes the taste is unmatched,food,food,"food, price"
+54,all the dishes were very reasonably priced and the interior is also very beautiful,"price, ambiance","price, ambiance","food, price, ambiance"
+439,home cooked food is better than this restaurant and you do not have to wait so long at home,"food, service","food, service","food, service, ambiance"
+760,although the decor of the restaurant has improved the prices of all the dishes have increased slightly,"price, ambiance","price, ambiance","food, price"
+208,today i found a reasonable restaurant and food quality is good,"food, price","food, price","food, ambiance"
+10,love quiet restaurant and for family we go here only to celebrate an occasion,"ambiance, miscellaneous","ambiance, miscellaneous","food, ambiance"
+110,the service was good but i have never seen a restaurant so full of mosquitoes,"service, ambiance","service, ambiance",service
+445,the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,"price, ambiance","price, ambiance",price
+336,the caramel tastes completely different in the coffee and the flavor seems to be better for the surroundings,"food, ambiance","food, ambiance",food
+658,nehari is very attractive but the environment is not very nice,"food, ambiance","food, ambiance",ambiance
+417,the timing of the meal was just right and the total cost was very less per person,"price, service","price, service","food, price"
+420,if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,"price, miscellaneous","price, miscellaneous",price
+7,had authentic food and i go twice a month,"food, miscellaneous","food, miscellaneous","food, price"
+329,does not take long to wait and tastes great too,"food, service","food, service","food, service, ambiance"
+588,it was very juicy and we were very happy with their delivery speed,"food, service","food, service","food, price, service"
+434,there was nothing sweet about lachchi and the price was too expensive,"food, price","food, price",price

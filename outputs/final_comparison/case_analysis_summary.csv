@@ -1,0 +1,4 @@
+model,exact_matches,total_samples,mean_label_errors,max_label_errors,mean_true_probability,mean_predicted_probability,mean_max_wrong_probability,exact_match_ratio
+MPNet retrained,139,160,0.175,3,0.947112118549342,0.9476179376417846,0.05927217829579849,0.86875
+MPNet unretrained,98,160,0.5625,3,0.8553850841718112,0.8400833990499252,0.16185000737376176,0.6125
+TF-IDF,117,160,0.35625,2,0.8047077603730571,0.8571798395110223,0.09281739227238103,0.73125

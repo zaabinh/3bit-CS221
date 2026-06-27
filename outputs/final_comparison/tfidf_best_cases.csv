@@ -1,0 +1,16 @@
+model,source_row,review_en,true_aspects,predicted_aspects,exact_match,label_error_count,false_positive_aspects,false_negative_aspects,mean_true_probability,min_true_probability,mean_predicted_probability,max_wrong_probability
+TF-IDF,344,all the staff looked very professional but their service was not that good,service,service,True,0,None,None,0.9976545877575715,0.9976545877575715,0.9976545877575715,0.0
+TF-IDF,779,the restaurant is very clean and the ambience is very nice,ambiance,ambiance,True,0,None,None,0.9920021556670744,0.9920021556670744,0.9920021556670744,0.0
+TF-IDF,365,food prices are lower than other nearby places but the food is very expensive,price,price,True,0,None,None,0.987544910579679,0.987544910579679,0.987544910579679,0.0
+TF-IDF,351,the decoration of the restaurant is very unique and i think it has the best atmosphere,ambiance,ambiance,True,0,None,None,0.9832573765193002,0.9832573765193002,0.9832573765193002,0.0
+TF-IDF,204,the taste of kachchi is really unforgettable but the price is very high,"food, price","food, price",True,0,None,None,0.9806926230557058,0.9697202897214015,0.9806926230557058,0.0
+TF-IDF,254,the decoration was very different and the atmosphere was very lively,ambiance,ambiance,True,0,None,None,0.9804986896161171,0.9804986896161171,0.9804986896161171,0.0
+TF-IDF,78,amrit taste but the price is a bit high,"food, price","food, price",True,0,None,None,0.9792291263403002,0.9686725252057368,0.9792291263403002,0.0
+TF-IDF,137,the price is low and the taste is good,"food, price","food, price",True,0,None,None,0.975892488757113,0.9685945305839205,0.975892488757113,0.0
+TF-IDF,139,the price is so low and the taste is just right,"food, price","food, price",True,0,None,None,0.9729891305546365,0.9496688395197871,0.9729891305546365,0.0
+TF-IDF,709,the food was not very good but the prices were really high,"food, price","food, price",True,0,None,None,0.9698991952642825,0.9623332180697274,0.9698991952642825,0.0
+TF-IDF,641,all the burgers were very tasty and the prices were very reasonable,"food, price","food, price",True,0,None,None,0.9637390249918651,0.94456764119625,0.9637390249918651,0.0
+TF-IDF,356,the price of the food is high but the quality of the food is not so good,"food, price","food, price",True,0,None,None,0.9637089379275253,0.9547496266861548,0.9637089379275253,0.0
+TF-IDF,231,the price of each item is high but i did not like the taste of each item,"food, price","food, price",True,0,None,None,0.9618258324764825,0.9399436277452867,0.9618258324764825,0.0
+TF-IDF,101,chicken corn soup is just chicken and corn and the price is not that high,"food, price","food, price",True,0,None,None,0.9583266969409434,0.9516939274987646,0.9583266969409434,0.0
+TF-IDF,639,there was not a single piece of meat after all the price is high,"food, price","food, price",True,0,None,None,0.956273280194357,0.9155650697846301,0.956273280194357,0.0

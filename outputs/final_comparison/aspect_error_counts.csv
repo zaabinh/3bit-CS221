@@ -1,0 +1,16 @@
+model,aspect,true_positive,false_positive,false_negative,true_negative
+MPNet unretrained,food,134,21,0,5
+MPNet unretrained,price,80,2,5,73
+MPNet unretrained,service,39,2,3,116
+MPNet unretrained,ambiance,24,4,11,121
+MPNet unretrained,miscellaneous,10,38,4,108
+MPNet retrained,food,134,9,0,17
+MPNet retrained,price,85,0,0,75
+MPNet retrained,service,39,2,3,116
+MPNet retrained,ambiance,35,4,0,121
+MPNet retrained,miscellaneous,7,3,7,143
+TF-IDF,food,126,9,8,17
+TF-IDF,price,83,7,2,68
+TF-IDF,service,38,1,4,117
+TF-IDF,ambiance,27,6,8,119
+TF-IDF,miscellaneous,2,0,12,146
