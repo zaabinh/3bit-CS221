@@ -1,50 +1,44 @@
 review,true_aspects,predicted_aspects
-From today it is my favorite restaurant because the service here is very bad and the price of everything is very high.,"service, price","service, price, miscellaneous"
-"If you want good coffee, you need a quiet environment.","food, ambiance",ambiance
-The atmosphere of the store is run but the service is really good.,"service, ambiance","food, service, ambiance"
-There is no extra decoration and the service is decent.,"service, ambiance",service
-I feel like their tacos have improved a lot and the prices haven't gone up that much.,"food, price","food, price, miscellaneous"
-The restaurant had no air and the food was not very good.,"food, ambiance","food, ambiance, miscellaneous"
-"They are giving free toys to children, which is good for marketing, but the price of food is high and the price of toys is being collected.","price, miscellaneous","food, price"
-The environment is bad and the food is also bad.,"food, ambiance","food, service, ambiance"
-I would recommend this restaurant for quick delivery and not too expensive.,"service, price","food, price, ambiance"
-Dumplings are not very good. It is late to pay everything.,"food, service","food, service, miscellaneous"
-I like everything very much but I will deduct a number because the seat is not very comfortable.,"ambiance, miscellaneous",food
-"The management of the restaurant knows how to run it well, the food comes as soon as the order is placed.",service,"food, ambiance, miscellaneous"
-The meat curry is very salty but all things considered the price is good.,"food, price","food, price, miscellaneous"
-From now on this restaurant is my favorite place because the staff are very friendly and their service is also fast.,service,"service, ambiance"
-The prices are very good and the service is excellent.,"service, price","food, service"
-The taste of Thai food items is volatile and the ambience is much more volatile.,"food, ambiance",food
-Became a fan of the crispness of the nachos and the good price.,"food, price","food, price, miscellaneous"
-The reviews of the restaurant online were bad but I found the quality of the food to be good.,"food, miscellaneous","food, service, ambiance"
-The ambiance of Bhoot Adda Restaurant is a bit different from other places and the prices are also high.,"price, ambiance","food, price, ambiance"
-The mint leaf chutney was not there and the funny thing is that it is free no matter how much you take.,"food, price","food, service"
-The inside of the steak was very pink and the servers were very polite.,"food, service","food, price"
-"Also, the food is very affordable, it's a great atmosphere overall.","price, ambiance","food, ambiance"
-The taste quality of the restaurant food has increased and at the same time the ambiance of their restaurant has also improved a lot.,"food, ambiance","food, ambiance, miscellaneous"
-We were all very impressed but the food was very expensive.,"price, miscellaneous","food, price"
-Food of normal price is very scarce here and they are not treating all the customers well.,"service, price","food, price"
-Some fake restaurants and food prices are higher than the original places.,"price, miscellaneous","food, price"
-"The price is low, but the use of this product is not very popular due to environmental concerns.","price, ambiance","food, price"
-"Small shop, but sells food that is really good.","food, ambiance",food
-That and the full amount has been recovered for the fire.,"food, price",food
-Biryani was average but good value for money.,"food, price","food, service, price"
-Cleanliness is very much taken care of in this restaurant and the ambience is also very charming.,ambiance,"food, ambiance"
-The food here tastes a little better but nothing else is quite customer-friendly.,"food, miscellaneous",food
-The staff were rude and the food prices were sky high.,"service, price","food, price"
-"Love quiet restaurant and for family we go here only to celebrate an occasion,.","ambiance, miscellaneous","food, ambiance, miscellaneous"
-The location of the restaurant is good and the price of the food is also low.,"price, miscellaneous","food, price, miscellaneous"
-It was good to get the service in a very short time but the restaurant felt bad for the high price.,"service, price","food, service"
-Today I found a reasonable restaurant and food quality is good.,"food, price","food, service"
-The environment is ok but the location is very inside the market.,"ambiance, miscellaneous",ambiance
-Restaurant food quality is good but seating is bad.,"food, ambiance","food, service"
-Everything is very expensive here and the service is very slow.,"service, price",service
-The food was very good but the location of the shop is not good.,"food, miscellaneous","food, service, miscellaneous"
-"The cake is very expensive, but it is more expensive than other cakes.",price,"food, price"
-The environment of Madhuban Hotel is not as noisy as the previous hotels and the food prices are also in the middle range.,"price, ambiance","food, price, ambiance"
-The time was good because of the atmosphere of the restaurant and their service was also amazing.,"service, ambiance","service, ambiance, miscellaneous"
-There were many combinations on the menu and the prices were reasonable.,"price, miscellaneous","food, price"
-Had authentic food and I go twice a month!,"food, miscellaneous","food, price"
-Food prices are relatively low and relatively higher than other places.,price,"food, price"
-The restaurant is running slowly. The environment is fine.,"service, ambiance","ambiance, miscellaneous"
-The sweets were disgusting and I hated their use.,"food, service",food
+their kitchen is not very nice so people cannot enjoy the taste of the food as much,"food, ambiance",food
+there is no extra decoration and the service is decent,"service, ambiance",service
+it was understood that the less expensive food can be good but eating the food of this restaurant,"food, price",food
+the biryani rice was fluffy but the meat was tough,food,"food, price"
+there was not the chutney it was supposed to be but that did not matter because it was free anyway,"food, price",food
+the biryani rice was fluffy and fluffy but the meat was tough,food,"food, price"
+a restaurant and location is also very good to eat a full stomach with less money,"price, miscellaneous",food
+such hard meat has never been eaten before and the condition of the restaurant is also bad,"food, ambiance",food
+the pizza was delicious but the experience was horrible,"food, miscellaneous",food
+there are many items that are good and the company cares for the environment,"food, ambiance",ambiance
+the burger patty is thicker than a regular burger and because of that it is bigger,food,"food, price"
+the location of the restaurant is good and the price of the food is also low,"price, miscellaneous","food, price"
+the reviews of the restaurant online were bad but i found the quality of the food to be good,"food, miscellaneous","food, ambiance"
+heard many names on everyone is lips but i did not like the food here,"food, miscellaneous",food
+every item tasted amazing and their workmanship was better than other places,"food, service",food
+disgusting halim and the environment is dirty,"food, ambiance",ambiance
+it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,"price, ambiance","food, price"
+they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,"price, miscellaneous","food, price"
+food of normal price is very scarce here and they are not treating all the customers well,"service, price","food, price"
+this restaurant does not provide good service or make it easy for children to have fun,"service, ambiance",service
+the environment is bad and the food is also bad,"food, ambiance","food, service, ambiance"
+all the staff looked very professional but their service was not that good,service,"food, service"
+it is usually a little less salty than other dishes the taste is unmatched,food,"food, price"
+all the dishes were very reasonably priced and the interior is also very beautiful,"price, ambiance","food, price, ambiance"
+home cooked food is better than this restaurant and you do not have to wait so long at home,"food, service","food, service, ambiance"
+although the decor of the restaurant has improved the prices of all the dishes have increased slightly,"price, ambiance","food, price"
+today i found a reasonable restaurant and food quality is good,"food, price","food, ambiance"
+the food here tastes a little better but nothing else is quite customer friendly,"food, miscellaneous",food
+this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,"price, miscellaneous","food, price"
+love quiet restaurant and for family we go here only to celebrate an occasion,"ambiance, miscellaneous","food, ambiance"
+the service was good but i have never seen a restaurant so full of mosquitoes,"service, ambiance",service
+ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,"service, price","food, service"
+the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,"price, ambiance","food, price"
+the caramel tastes completely different in the coffee and the flavor seems to be better for the surroundings,"food, ambiance",food
+nehari is very attractive but the environment is not very nice,"food, ambiance",ambiance
+the timing of the meal was just right and the total cost was very less per person,"service, price","food, price"
+there is no shortage of shops but i cannot find good food,"food, miscellaneous",food
+if everything is good at the wife s favorite restaurant and especially if the price of the food there is low then what else do husbands need,"price, miscellaneous","food, price"
+had authentic food and i go twice a month,"food, miscellaneous","food, price"
+does not take long to wait and tastes great too,"food, service",food
+it is hard to find eggs in egg chop and everything is rotten,food,"food, price"
+it was very juicy and we were very happy with their delivery speed,"food, service","food, price"
+some fake restaurants and food prices are higher than the original places,"price, miscellaneous","price, ambiance"

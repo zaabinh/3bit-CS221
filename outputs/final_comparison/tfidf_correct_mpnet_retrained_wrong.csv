@@ -1,8 +1,6 @@
 source_row,review_en,true_aspects,mpnet_retrained_predicted_aspects,tfidf_predicted_aspects
 634,schizlingter is a type of food that is served hot and fresh,"food, service",food,"food, service"
-109,the location of the restaurant is good and the price of the food is also low,"price, miscellaneous","price, ambiance, miscellaneous","price, miscellaneous"
 31,as for the beef the test was very good but the name kalabuna was not right,food,"food, miscellaneous",food
-344,all the staff looked very professional but their service was not that good,service,"food, service",service
 76,the restaurant is small but expensive,"price, ambiance","price, ambiance, miscellaneous","price, ambiance"
 351,the decoration of the restaurant is very unique and i think it has the best atmosphere,ambiance,"food, ambiance",ambiance
 254,the decoration was very different and the atmosphere was very lively,ambiance,"food, ambiance",ambiance

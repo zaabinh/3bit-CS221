@@ -13,7 +13,7 @@ MPNet unretrained,65,their service is great and food quality is good,"food, serv
 MPNet unretrained,285,there is no extra decoration and the service is decent,"service, ambiance","food, service, ambiance",False,1,food,None,0.7627758272093814,0.6092723974055182,0.6083586270884919,0.29952422684671276
 MPNet unretrained,634,schizlingter is a type of food that is served hot and fresh,"food, service","food, service",True,0,None,None,0.7816343378305051,0.5731542154827591,0.7816343378305051,0.0
 MPNet unretrained,67,food taste great interior is good,"food, ambiance","food, ambiance",True,0,None,None,0.9534737246152003,0.9086090829207379,0.9534737246152003,0.0
-MPNet unretrained,326,the jhal fry portion was very juicy and the price was within the common mans budget,"food, price","food, price",True,0,None,None,0.9830429780174045,0.9683249239614763,0.9830429780174045,0.0
+MPNet unretrained,326,the jhal fry portion was very juicy and the price was within the common man s budget,"food, price","food, price",True,0,None,None,0.987222940965728,0.9772035457447568,0.987222940965728,0.0
 MPNet unretrained,394,i feel like their tacos have improved a lot and the prices have not gone up that much,"food, price","food, price, miscellaneous",False,1,miscellaneous,None,0.942989183843383,0.9417612836394795,0.6959110561122525,0.20175480064999146
 MPNet unretrained,244,it was understood that the less expensive food can be good but eating the food of this restaurant,"food, price","food, price, miscellaneous",False,1,miscellaneous,None,0.8518857519392216,0.8015003791004626,0.732760959999542,0.49451137612018325
 MPNet unretrained,630,the biryani rice was fluffy but the meat was tough,food,food,True,0,None,None,0.9996371786345888,0.9996371786345888,0.9996371786345888,0.0
@@ -36,7 +36,7 @@ MPNet unretrained,639,there was not a single piece of meat after all the price i
 MPNet unretrained,39,took so much time to bring food but also fed stale food,"food, service","food, service",True,0,None,None,0.950293887802746,0.9493703137409986,0.950293887802746,0.0
 MPNet unretrained,23,dumplings are not very good it is late to pay everything,"food, service","food, price, miscellaneous",False,3,"price, miscellaneous",service,0.6514335174437396,0.3332386009273091,0.5624712784023386,0.5377576925361119
 MPNet unretrained,660,the rice was very good but the service was not very good,"food, service","food, service",True,0,None,None,0.9813717130312711,0.973060513183083,0.9813717130312711,0.0
-MPNet unretrained,309,that is why the taste is slightly different and the price is same as normal khichuriegg,"food, price","food, price",True,0,None,None,0.9380755301739951,0.8764357943578931,0.9380755301739951,0.0
+MPNet unretrained,309,that is why the taste is slightly different and the price is same as normal khichuri egg,"food, price","food, price",True,0,None,None,0.912605233681181,0.8265246077842108,0.912605233681181,0.0
 MPNet unretrained,792,meat items are just fat and fat but the price is a bit high,"food, price","food, price",True,0,None,None,0.9877934990870572,0.9814322747052219,0.9877934990870572,0.0
 MPNet unretrained,302,the price of octopus is very high but i did not find any taste,"food, price","food, price",True,0,None,None,0.9806171898886207,0.9663308710463501,0.9806171898886207,0.0
 MPNet unretrained,139,the price is so low and the taste is just right,"food, price","food, price",True,0,None,None,0.9833976776869828,0.9676174329601812,0.9833976776869828,0.0
@@ -109,15 +109,15 @@ MPNet unretrained,351,the decoration of the restaurant is very unique and i thin
 MPNet unretrained,760,although the decor of the restaurant has improved the prices of all the dishes have increased slightly,"price, ambiance","price, miscellaneous",False,2,miscellaneous,ambiance,0.6950979613065174,0.4354209016854391,0.822521257038116,0.6902674931486363
 MPNet unretrained,208,today i found a reasonable restaurant and food quality is good,"food, price","food, miscellaneous",False,2,miscellaneous,price,0.5961463603361962,0.23465735079092584,0.5726747923519889,0.18771421482251133
 MPNet unretrained,734,the price is good and the taste is great,"food, price","food, price",True,0,None,None,0.9954162709649423,0.9913005558129928,0.9954162709649423,0.0
-MPNet unretrained,424,the food here tastes a little better but nothing else is quite customerfriendly,"food, miscellaneous","food, service",False,2,service,miscellaneous,0.4930205029251966,0.028369147122192215,0.9085301245844339,0.859388390440667
+MPNet unretrained,424,the food here tastes a little better but nothing else is quite customer friendly,"food, miscellaneous","food, service",False,2,service,miscellaneous,0.5040340547538772,0.04552161607390751,0.9011439322438621,0.8397413710538774
 MPNet unretrained,451,this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,"price, miscellaneous","food, price, miscellaneous",False,1,food,None,0.6125369598180684,0.2513668595688757,0.5034639836682727,0.28531803136868156
-MPNet unretrained,84,crimsoncups atmosphere is also joss and coffee is joss,"food, ambiance","food, ambiance",True,0,None,None,0.9521675499107385,0.9345291279165535,0.9521675499107385,0.0
+MPNet unretrained,84,crimsoncup s atmosphere is also joss and coffee is joss,"food, ambiance","food, ambiance",True,0,None,None,0.9490232696789871,0.9345006510576942,0.9490232696789871,0.0
 MPNet unretrained,10,love quiet restaurant and for family we go here only to celebrate an occasion,"ambiance, miscellaneous","food, ambiance, miscellaneous",False,1,food,None,0.6230507444514176,0.25597524481601786,0.504981037489823,0.26884162356663366
 MPNet unretrained,716,biryani was ok but underpriced,"food, price","food, price",True,0,None,None,0.9939843387128033,0.9907054711342521,0.9939843387128033,0.0
 MPNet unretrained,110,the service was good but i have never seen a restaurant so full of mosquitoes,"service, ambiance","food, service",False,2,food,ambiance,0.7863370222179233,0.634089961861715,0.6322839581202169,0.3259838336663019
 MPNet unretrained,281,the taste was slightly different and the staff were very attentive,"food, service","food, service",True,0,None,None,0.9344060481320281,0.876799088875986,0.9344060481320281,0.0
 MPNet unretrained,479,ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,"price, service","price, service",True,0,None,None,0.695998429884235,0.5099123114771332,0.695998429884235,0.0
-MPNet unretrained,209,comillas rasmalai is different and the price is reasonable,"food, price","food, price",True,0,None,None,0.9934928947496494,0.9904550634968934,0.9934928947496494,0.0
+MPNet unretrained,209,comilla s rasmalai is different and the price is reasonable,"food, price","food, price",True,0,None,None,0.9953623738437866,0.9947870326803089,0.9953623738437866,0.0
 MPNet unretrained,235,the waiters were giving very fast refills and the food tasted a little different,"food, service","food, service, miscellaneous",False,1,miscellaneous,None,0.8990761642657152,0.8475770371370631,0.6877100534898526,0.2649778319381271
 MPNet unretrained,445,the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,"price, ambiance","food, price, ambiance, miscellaneous",False,2,"food, miscellaneous",None,0.8375169405265039,0.7680231136815552,0.6173845995061547,0.5158849500796545
 MPNet unretrained,726,iftar dishes are not very good or expensive to eat,"food, price","food, price, miscellaneous",False,1,miscellaneous,None,0.8583240541391253,0.7351021993641423,0.6579483138471885,0.25719683326331527
@@ -136,7 +136,7 @@ MPNet unretrained,659,their service was great but they could improve their focus
 MPNet unretrained,417,the timing of the meal was just right and the total cost was very less per person,"price, service","food, price, service, miscellaneous",False,2,"food, miscellaneous",None,0.6336948662731561,0.6059542380129531,0.5014521819812556,0.40904756252317775
 MPNet unretrained,637,there is no shortage of shops but i cannot find good food,"food, miscellaneous","food, miscellaneous",True,0,None,None,0.5992079598474713,0.20314817314291866,0.5992079598474713,0.0
 MPNet unretrained,682,as the price of this product has increased so has the quality,"food, price","food, price",True,0,None,None,0.900066392482531,0.8921983831176081,0.900066392482531,0.0
-MPNet unretrained,420,if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,"price, miscellaneous","food, miscellaneous",False,2,food,price,0.4975264894544085,0.19438789325697667,0.7986824727228421,0.7966998597938438
+MPNet unretrained,420,if everything is good at the wife s favorite restaurant and especially if the price of the food there is low then what else do husbands need,"price, miscellaneous","food, miscellaneous",False,2,food,price,0.4941326872229063,0.1808310239955876,0.7950004154748922,0.7825664804995595
 MPNet unretrained,669,the food was not good and the service was terrible,"food, service","food, service",True,0,None,None,0.8633778665248297,0.7890273762989544,0.8633778665248297,0.0
 MPNet unretrained,448,could not be more happy with the waiters service but the taste of the food satisfied me,"food, service","food, service",True,0,None,None,0.9519899852494267,0.9078331466077192,0.9519899852494267,0.0
 MPNet unretrained,211,the taste is bad and the service is even worse,"food, service","food, service",True,0,None,None,0.9798776000370248,0.9636191026795943,0.9798776000370248,0.0
@@ -152,7 +152,7 @@ MPNet unretrained,306,the beef was so soft and juicy that i cannot explain it bu
 MPNet unretrained,329,does not take long to wait and tastes great too,"food, service","food, service",True,0,None,None,0.993085780887458,0.9872870939168724,0.993085780887458,0.0
 MPNet unretrained,2,food always tastes fresh and served promptly,"food, service","food, service",True,0,None,None,0.9681071433267858,0.9496232822925935,0.9681071433267858,0.0
 MPNet unretrained,365,food prices are lower than other nearby places but the food is very expensive,price,"food, price, miscellaneous",False,2,"food, miscellaneous",None,0.9996794222293941,0.9996794222293941,0.5253185365361784,0.3146998841655865
-MPNet unretrained,412,it is hard to find eggs in eggchop and everything is rotten,food,"food, ambiance",False,1,ambiance,None,0.9636890050042652,0.9636890050042652,0.8715403786819398,0.7793917523596142
+MPNet unretrained,412,it is hard to find eggs in egg chop and everything is rotten,food,food,True,0,None,None,0.9821060594280504,0.9821060594280504,0.9821060594280504,0.0
 MPNet unretrained,518,just wasted my time because the quality of food was not good and i did not like the environment,"food, ambiance","food, miscellaneous",False,2,miscellaneous,ambiance,0.7702720791646218,0.6292497933024142,0.6031363789104502,0.29497839279407084
 MPNet unretrained,588,it was very juicy and we were very happy with their delivery speed,"food, service","food, service",True,0,None,None,0.9782044524851978,0.9583069380900744,0.9782044524851978,0.0
 MPNet unretrained,434,there was nothing sweet about lachchi and the price was too expensive,"food, price","food, price",True,0,None,None,0.9853838302136593,0.9758229460393105,0.9853838302136593,0.0
@@ -173,7 +173,7 @@ MPNet retrained,65,their service is great and food quality is good,"food, servic
 MPNet retrained,285,there is no extra decoration and the service is decent,"service, ambiance","service, ambiance",True,0,None,None,0.892709648006051,0.7868932907570259,0.892709648006051,0.0
 MPNet retrained,634,schizlingter is a type of food that is served hot and fresh,"food, service",food,False,1,None,service,0.75677788794022,0.5137189458570569,0.9998368300233831,0.0
 MPNet retrained,67,food taste great interior is good,"food, ambiance","food, ambiance",True,0,None,None,0.9956412440929934,0.9937067961311217,0.9956412440929934,0.0
-MPNet retrained,326,the jhal fry portion was very juicy and the price was within the common mans budget,"food, price","food, price",True,0,None,None,0.9939663654540623,0.9916218653567771,0.9939663654540623,0.0
+MPNet retrained,326,the jhal fry portion was very juicy and the price was within the common man s budget,"food, price","food, price",True,0,None,None,0.9941418988510755,0.9916243189746106,0.9941418988510755,0.0
 MPNet retrained,394,i feel like their tacos have improved a lot and the prices have not gone up that much,"food, price","food, price",True,0,None,None,0.9932516104821671,0.9899691776923578,0.9932516104821671,0.0
 MPNet retrained,244,it was understood that the less expensive food can be good but eating the food of this restaurant,"food, price","food, price",True,0,None,None,0.9934853239738937,0.9931778175471427,0.9934853239738937,0.0
 MPNet retrained,630,the biryani rice was fluffy but the meat was tough,food,food,True,0,None,None,0.9998406275277211,0.9998406275277211,0.9998406275277211,0.0
@@ -196,7 +196,7 @@ MPNet retrained,639,there was not a single piece of meat after all the price is 
 MPNet retrained,39,took so much time to bring food but also fed stale food,"food, service","food, service",True,0,None,None,0.9883233682298191,0.9783229687804734,0.9883233682298191,0.0
 MPNet retrained,23,dumplings are not very good it is late to pay everything,"food, service","food, service",True,0,None,None,0.9933789684378267,0.9932964218856166,0.9933789684378267,0.0
 MPNet retrained,660,the rice was very good but the service was not very good,"food, service","food, service",True,0,None,None,0.9978420339705611,0.9970818976733203,0.9978420339705611,0.0
-MPNet retrained,309,that is why the taste is slightly different and the price is same as normal khichuriegg,"food, price","food, price",True,0,None,None,0.9950278710239401,0.9934256179341321,0.9950278710239401,0.0
+MPNet retrained,309,that is why the taste is slightly different and the price is same as normal khichuri egg,"food, price","food, price",True,0,None,None,0.9947855254610014,0.9931643722649397,0.9947855254610014,0.0
 MPNet retrained,792,meat items are just fat and fat but the price is a bit high,"food, price","food, price",True,0,None,None,0.993530848588384,0.989523115458574,0.993530848588384,0.0
 MPNet retrained,302,the price of octopus is very high but i did not find any taste,"food, price","food, price",True,0,None,None,0.9939098407669809,0.9914377054825283,0.9939098407669809,0.0
 MPNet retrained,139,the price is so low and the taste is just right,"food, price","food, price",True,0,None,None,0.9937246369981638,0.9900674156047635,0.9937246369981638,0.0
@@ -269,15 +269,15 @@ MPNet retrained,351,the decoration of the restaurant is very unique and i think 
 MPNet retrained,760,although the decor of the restaurant has improved the prices of all the dishes have increased slightly,"price, ambiance","price, ambiance",True,0,None,None,0.9724482746126915,0.9521875556659092,0.9724482746126915,0.0
 MPNet retrained,208,today i found a reasonable restaurant and food quality is good,"food, price","food, price",True,0,None,None,0.6028847818673764,0.20601705630015874,0.6028847818673764,0.0
 MPNet retrained,734,the price is good and the taste is great,"food, price","food, price",True,0,None,None,0.9942820900190354,0.991288646370576,0.9942820900190354,0.0
-MPNet retrained,424,the food here tastes a little better but nothing else is quite customerfriendly,"food, miscellaneous","food, service",False,2,service,miscellaneous,0.5399057395158042,0.0812504114898745,0.9956652987550525,0.9927695299683712
+MPNet retrained,424,the food here tastes a little better but nothing else is quite customer friendly,"food, miscellaneous","food, service",False,2,service,miscellaneous,0.5379880529803548,0.07668148843044692,0.9916582355211004,0.9840218535119383
 MPNet retrained,451,this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,"price, miscellaneous","food, price",False,2,food,miscellaneous,0.554710977410941,0.1109195773260351,0.8167303625124385,0.63495834752903
-MPNet retrained,84,crimsoncups atmosphere is also joss and coffee is joss,"food, ambiance","food, ambiance",True,0,None,None,0.9943760459992197,0.9934685199181346,0.9943760459992197,0.0
+MPNet retrained,84,crimsoncup s atmosphere is also joss and coffee is joss,"food, ambiance","food, ambiance",True,0,None,None,0.9942766130159748,0.9917794175597412,0.9942766130159748,0.0
 MPNet retrained,10,love quiet restaurant and for family we go here only to celebrate an occasion,"ambiance, miscellaneous","ambiance, miscellaneous",True,0,None,None,0.7923346173597583,0.5850270788610152,0.7923346173597583,0.0
 MPNet retrained,716,biryani was ok but underpriced,"food, price","food, price",True,0,None,None,0.9937140738718035,0.9904958893445669,0.9937140738718035,0.0
 MPNet retrained,110,the service was good but i have never seen a restaurant so full of mosquitoes,"service, ambiance","service, ambiance",True,0,None,None,0.88196597612203,0.7652699896398011,0.88196597612203,0.0
 MPNet retrained,281,the taste was slightly different and the staff were very attentive,"food, service","food, service",True,0,None,None,0.9958797911822583,0.992130547148152,0.9958797911822583,0.0
 MPNet retrained,479,ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,"price, service","food, price, service",False,1,food,None,0.9121618792079502,0.8375735789703926,0.7565772840766881,0.4454080938141639
-MPNet retrained,209,comillas rasmalai is different and the price is reasonable,"food, price","food, price",True,0,None,None,0.9939902235647855,0.9908911830916851,0.9939902235647855,0.0
+MPNet retrained,209,comilla s rasmalai is different and the price is reasonable,"food, price","food, price",True,0,None,None,0.9939932226071606,0.9908164440142424,0.9939932226071606,0.0
 MPNet retrained,235,the waiters were giving very fast refills and the food tasted a little different,"food, service","food, service",True,0,None,None,0.9959272232602621,0.9940645468520553,0.9959272232602621,0.0
 MPNet retrained,445,the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,"price, ambiance","price, ambiance",True,0,None,None,0.9887183623850667,0.9848806029618703,0.9887183623850667,0.0
 MPNet retrained,726,iftar dishes are not very good or expensive to eat,"food, price","food, price",True,0,None,None,0.9912575521259975,0.9854316443658301,0.9912575521259975,0.0
@@ -296,7 +296,7 @@ MPNet retrained,659,their service was great but they could improve their focus o
 MPNet retrained,417,the timing of the meal was just right and the total cost was very less per person,"price, service","price, service",True,0,None,None,0.81717424885895,0.6477662657162984,0.81717424885895,0.0
 MPNet retrained,637,there is no shortage of shops but i cannot find good food,"food, miscellaneous","food, ambiance, miscellaneous",False,1,ambiance,None,0.8549905226166584,0.7118209405589918,0.8495811031819117,0.8387622643124185
 MPNet retrained,682,as the price of this product has increased so has the quality,"food, price","food, price",True,0,None,None,0.9893421162623972,0.9812440862775672,0.9893421162623972,0.0
-MPNet retrained,420,if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,"price, miscellaneous","price, miscellaneous",True,0,None,None,0.7552712402450263,0.5187514545527289,0.7552712402450263,0.0
+MPNet retrained,420,if everything is good at the wife s favorite restaurant and especially if the price of the food there is low then what else do husbands need,"price, miscellaneous","price, miscellaneous",True,0,None,None,0.7624428273409067,0.5327634439241545,0.7624428273409067,0.0
 MPNet retrained,669,the food was not good and the service was terrible,"food, service","food, service",True,0,None,None,0.9978390667324855,0.99664693973222,0.9978390667324855,0.0
 MPNet retrained,448,could not be more happy with the waiters service but the taste of the food satisfied me,"food, service","food, service",True,0,None,None,0.9982504673407626,0.9975217339111043,0.9982504673407626,0.0
 MPNet retrained,211,the taste is bad and the service is even worse,"food, service","food, service",True,0,None,None,0.9982185552897735,0.9975251188659306,0.9982185552897735,0.0
@@ -312,170 +312,170 @@ MPNet retrained,306,the beef was so soft and juicy that i cannot explain it but 
 MPNet retrained,329,does not take long to wait and tastes great too,"food, service","food, service",True,0,None,None,0.9937373855715679,0.9911899390883404,0.9937373855715679,0.0
 MPNet retrained,2,food always tastes fresh and served promptly,"food, service","food, service",True,0,None,None,0.9962195860509704,0.9959300737028545,0.9962195860509704,0.0
 MPNet retrained,365,food prices are lower than other nearby places but the food is very expensive,price,"price, miscellaneous",False,1,miscellaneous,None,0.9973575284709163,0.9973575284709163,0.9593762977028647,0.9213950669348131
-MPNet retrained,412,it is hard to find eggs in eggchop and everything is rotten,food,"food, ambiance",False,1,ambiance,None,0.9999183984598204,0.9999183984598204,0.6862691142134719,0.37261982996712334
+MPNet retrained,412,it is hard to find eggs in egg chop and everything is rotten,food,"food, ambiance",False,1,ambiance,None,0.9999133861684675,0.9999133861684675,0.6509112563110803,0.30190912645369306
 MPNet retrained,518,just wasted my time because the quality of food was not good and i did not like the environment,"food, ambiance","food, ambiance",True,0,None,None,0.9899371330815974,0.9849522182254249,0.9899371330815974,0.0
 MPNet retrained,588,it was very juicy and we were very happy with their delivery speed,"food, service","food, service",True,0,None,None,0.9947543923645603,0.9918369230679116,0.9947543923645603,0.0
 MPNet retrained,434,there was nothing sweet about lachchi and the price was too expensive,"food, price","food, price",True,0,None,None,0.994824842098996,0.9934266893217899,0.994824842098996,0.0
 MPNet retrained,740,i have never had such good service and the food here is also very good,"food, service","food, service",True,0,None,None,0.9976237599450849,0.9971761192084587,0.9976237599450849,0.0
 MPNet retrained,512,the sweets were disgusting and i hated their use,"food, service",food,False,1,None,service,0.7605802716731787,0.5212948605794195,0.9998656827669377,0.0
 MPNet retrained,360,some fake restaurants and food prices are higher than the original places,"price, miscellaneous","food, price, miscellaneous",False,1,food,None,0.8817503296055538,0.7650247407226995,0.6855615911959574,0.29318411437676467
-TF-IDF,692,although the price of the product has increased the quality and taste have not changed,"food, price","food, price",True,0,None,None,0.9473760689257369,0.9301528862682329,0.9473760689257369,0.0
-TF-IDF,779,the restaurant is very clean and the ambience is very nice,ambiance,ambiance,True,0,None,None,0.9920021556670744,0.9920021556670744,0.9920021556670744,0.0
-TF-IDF,63,the side dishes are not very good but the service is good,"food, service","food, service",True,0,None,None,0.7707414081384236,0.5530475276299524,0.7707414081384236,0.0
-TF-IDF,532,from today it is my favorite restaurant because the service here is very bad and the price of everything is very high,"price, service","price, service",True,0,None,None,0.7540209220221843,0.7201550896909986,0.7540209220221843,0.0
-TF-IDF,66,best chicken pressure the price of 120 rupees seemed right to me,"food, price","food, price",True,0,None,None,0.937078617737459,0.9237726671098105,0.937078617737459,0.0
-TF-IDF,750,the food here is not very good and the workers are lazy,"food, service",food,False,1,None,service,0.634543004831037,0.2813202807665727,0.9877657288955013,0.0
-TF-IDF,382,the dalpuris were not too oily but the price was high,"food, price","food, price",True,0,None,None,0.8906236120842149,0.7846332620687982,0.8906236120842149,0.0
-TF-IDF,684,i did not like strong coffee and the price was high,"food, price","food, price",True,0,None,None,0.9536344164303381,0.9179027334028641,0.9536344164303381,0.0
-TF-IDF,640,the sub sandwich was also very good as a reward thank god the atmosphere is very good,"food, ambiance","food, ambiance",True,0,None,None,0.8335857080092297,0.7476140097280605,0.8335857080092297,0.0
-TF-IDF,625,their kitchen is not very nice so people cannot enjoy the taste of the food as much,"food, ambiance",food,False,1,None,ambiance,0.6943178043203396,0.43203849798753496,0.9565971106531443,0.0
-TF-IDF,65,their service is great and food quality is good,"food, service","food, service",True,0,None,None,0.9258372241928876,0.909560564073466,0.9258372241928876,0.0
-TF-IDF,285,there is no extra decoration and the service is decent,"service, ambiance",service,False,1,None,ambiance,0.5789147764894191,0.23867985145910503,0.9191497015197332,0.0
-TF-IDF,634,schizlingter is a type of food that is served hot and fresh,"food, service","food, service",True,0,None,None,0.8613968426977808,0.8332040257328212,0.8613968426977808,0.0
-TF-IDF,67,food taste great interior is good,"food, ambiance","food, ambiance",True,0,None,None,0.8650372631811902,0.7485830391133778,0.8650372631811902,0.0
-TF-IDF,326,the jhal fry portion was very juicy and the price was within the common mans budget,"food, price","food, price",True,0,None,None,0.9186796259223431,0.8993900034093539,0.9186796259223431,0.0
-TF-IDF,394,i feel like their tacos have improved a lot and the prices have not gone up that much,"food, price","food, price",True,0,None,None,0.753527003470757,0.721783647946003,0.753527003470757,0.0
-TF-IDF,244,it was understood that the less expensive food can be good but eating the food of this restaurant,"food, price","food, price",True,0,None,None,0.7926131162659,0.6503002623677396,0.7926131162659,0.0
-TF-IDF,630,the biryani rice was fluffy but the meat was tough,food,"food, price",False,1,price,None,0.9756655240360294,0.9756655240360294,0.8166726489974944,0.6576797739589594
-TF-IDF,744,there was not the chutney it was supposed to be but that did not matter because it was free anyway,"food, price","food, price",True,0,None,None,0.7134658399661096,0.5904922510773849,0.7134658399661096,0.0
-TF-IDF,525,shahi khichuri did not have shahibhav so bad but their service is so good that i am impressed,"food, service","food, service",True,0,None,None,0.783083672665831,0.5803208217030943,0.783083672665831,0.0
-TF-IDF,405,the side dishes were very good and the price was much less than i expected,"food, price","food, price",True,0,None,None,0.9151303032878306,0.9062417597496606,0.9151303032878306,0.0
-TF-IDF,533,the taste of ice cream is still on my tongue i was so excited but the environment of their shop was very bad,"food, ambiance","food, ambiance",True,0,None,None,0.7523592772171612,0.6622459906438838,0.7523592772171612,0.0
-TF-IDF,621,the steak was delicious and it was a great deal,"food, price","food, price",True,0,None,None,0.7261375629432502,0.5412472655224113,0.7261375629432502,0.0
-TF-IDF,717,everything here costs the same and tastes just like normal,"food, price","food, price",True,0,None,None,0.7891882785179067,0.6428392503780633,0.7891882785179067,0.0
-TF-IDF,636,the food was cold and we waited a long time for it to arrive,"food, service","food, service",True,0,None,None,0.9061943392798242,0.8572267640206521,0.9061943392798242,0.0
-TF-IDF,30,the biryani rice was fluffy and fluffy but the meat was tough,food,"food, price",False,1,price,None,0.9756655240360294,0.9756655240360294,0.8166726489974944,0.6576797739589594
-TF-IDF,260,a restaurant and location is also very good to eat a full stomach with less money,"price, miscellaneous","food, price",False,2,food,miscellaneous,0.4769272415926906,0.3806086864224811,0.6123177071615615,0.651389617560223
-TF-IDF,346,such hard meat has never been eaten before and the condition of the restaurant is also bad,"food, ambiance","food, ambiance",True,0,None,None,0.6987048046633728,0.6221646295239914,0.6987048046633728,0.0
-TF-IDF,599,the pizza was delicious but the experience was horrible,"food, miscellaneous","food, service",False,2,service,miscellaneous,0.49150734495398507,0.034712243189291045,0.7425258147261337,0.5367491827335882
-TF-IDF,772,the food is of good quality and reasonably priced,"food, price","food, price",True,0,None,None,0.8707745271946987,0.8120353946118725,0.8707745271946987,0.0
-TF-IDF,215,the food here was the best and the price was reasonable,"food, price","food, price",True,0,None,None,0.9041031132881798,0.846480810065149,0.9041031132881798,0.0
-TF-IDF,78,amrit taste but the price is a bit high,"food, price","food, price",True,0,None,None,0.9792291263403002,0.9686725252057368,0.9792291263403002,0.0
-TF-IDF,543,i liked the fruit juice very much but was not completely happy because their service quality was so bad,"food, service","food, service",True,0,None,None,0.8878041878197547,0.864283124551859,0.8878041878197547,0.0
-TF-IDF,639,there was not a single piece of meat after all the price is high,"food, price","food, price",True,0,None,None,0.956273280194357,0.9155650697846301,0.956273280194357,0.0
-TF-IDF,39,took so much time to bring food but also fed stale food,"food, service","food, service",True,0,None,None,0.6613434288247033,0.41790412417351075,0.6613434288247033,0.0
-TF-IDF,23,dumplings are not very good it is late to pay everything,"food, service","food, service",True,0,None,None,0.8525143983311582,0.8373307495330775,0.8525143983311582,0.0
-TF-IDF,660,the rice was very good but the service was not very good,"food, service","food, service",True,0,None,None,0.793218627605156,0.596008160230978,0.793218627605156,0.0
-TF-IDF,309,that is why the taste is slightly different and the price is same as normal khichuriegg,"food, price","food, price",True,0,None,None,0.9320031719031882,0.9300651577224537,0.9320031719031882,0.0
-TF-IDF,792,meat items are just fat and fat but the price is a bit high,"food, price","food, price",True,0,None,None,0.9494647186029486,0.941312415099208,0.9494647186029486,0.0
-TF-IDF,302,the price of octopus is very high but i did not find any taste,"food, price","food, price",True,0,None,None,0.9556054567764836,0.9315838763690398,0.9556054567764836,0.0
-TF-IDF,139,the price is so low and the taste is just right,"food, price","food, price",True,0,None,None,0.9729891305546365,0.9496688395197871,0.9729891305546365,0.0
-TF-IDF,250,the restaurant has quickly earned a name for its good quality food and good ambience,"food, ambiance","food, ambiance",True,0,None,None,0.906112120084767,0.8413612867079043,0.906112120084767,0.0
-TF-IDF,174,fuchka is expensive but fun to eat,"food, price","food, price",True,0,None,None,0.8720690257302086,0.8222212572885306,0.8720690257302086,0.0
-TF-IDF,685,there are many items that are good and the company cares for the environment,"food, ambiance",ambiance,False,1,None,food,0.5805660131081556,0.3956758834792494,0.7654561427370618,0.0
-TF-IDF,594,i ate dumba meat for the first time in my life and i liked the taste but it cost me a lot of money,"food, price","food, price",True,0,None,None,0.8150470768786734,0.7020052256976471,0.8150470768786734,0.0
-TF-IDF,649,awful halim the environment is also bad,"food, ambiance",ambiance,False,1,None,food,0.6665271627168645,0.4141221905994841,0.9189321348342451,0.0
-TF-IDF,422,although the quality of the food was not the best and the environment was not that bad,"food, ambiance","food, ambiance",True,0,None,None,0.8731119597675592,0.8591342962522928,0.8731119597675592,0.0
-TF-IDF,432,i spent very little money but it seems like i am eating nectar,"food, price","food, price",True,0,None,None,0.8151307954815576,0.7837858018262175,0.8151307954815576,0.0
-TF-IDF,737,the burger patty is thicker than a regular burger and because of that it is bigger,food,"food, price",False,1,price,None,0.9251179319452899,0.9251179319452899,0.7012382068783167,0.4773584818113436
-TF-IDF,444,because the taste of nectar is the same as before but the price has increased a lot,"food, price","food, price",True,0,None,None,0.9300168111891063,0.8963014302336764,0.9300168111891063,0.0
-TF-IDF,265,the price of the restaurant food was high but at the same time the quality of the food was good,"food, price","food, price",True,0,None,None,0.8044801618161959,0.6485721081744821,0.8044801618161959,0.0
-TF-IDF,109,the location of the restaurant is good and the price of the food is also low,"price, miscellaneous","price, miscellaneous",True,0,None,None,0.7608812397768621,0.6006797305978212,0.7608812397768621,0.0
-TF-IDF,662,the food tastes great and the service is great,"food, service","food, service",True,0,None,None,0.881328607462894,0.8197911220850114,0.881328607462894,0.0
-TF-IDF,590,eating fish in this restaurant made me hate fish even more and i felt like paying such a high price,"food, price","food, price",True,0,None,None,0.8593623489254101,0.7594501204794452,0.8593623489254101,0.0
-TF-IDF,335,the reviews of the restaurant online were bad but i found the quality of the food to be good,"food, miscellaneous","food, ambiance",False,2,ambiance,miscellaneous,0.5432641946203399,0.10490126184863313,0.8558411403004631,0.7300551532088796
-TF-IDF,367,the taste of the sushi was not that great but the atmosphere of the restaurant was so good that i would go there again,"food, ambiance",ambiance,False,1,None,food,0.7067993523520482,0.4521838261489397,0.9614148785551565,0.0
-TF-IDF,314,the price of hilsa fish tail filling was also low and the taste was decent,"food, price","food, price",True,0,None,None,0.9438342399790604,0.9380335012277236,0.9438342399790604,0.0
-TF-IDF,687,heard many names on everyone is lips but i did not like the food here,"food, miscellaneous",food,False,1,None,miscellaneous,0.6051658373551526,0.33548037368319444,0.8748513010271107,0.0
-TF-IDF,198,the curd puffs here are good and the price is quite within the range,"food, price","food, price",True,0,None,None,0.8482555948469301,0.7348022752825218,0.8482555948469301,0.0
-TF-IDF,168,the reshmi kebab melts in your mouth and the price is also very good,"food, price","food, price",True,0,None,None,0.8896035064062493,0.8574289325448762,0.8896035064062493,0.0
-TF-IDF,490,halim is very strict but i disliked the cleanliness aspect,"food, ambiance","food, ambiance",True,0,None,None,0.732301258793508,0.7218941988449542,0.732301258793508,0.0
-TF-IDF,473,every item tasted amazing and their workmanship was better than other places,"food, service",food,False,1,None,service,0.48472081178058507,0.15701127806833207,0.8124303454928381,0.0
-TF-IDF,652,haleem was amazing in one word i became a fan,"food, miscellaneous","food, miscellaneous",True,0,None,None,0.8346258479037962,0.7410147024945494,0.8346258479037962,0.0
-TF-IDF,465,they have kept the price low but they have mixed a lot of fruits in faluda,"food, price","food, price",True,0,None,None,0.889381019313183,0.7889650279196888,0.889381019313183,0.0
-TF-IDF,231,the price of each item is high but i did not like the taste of each item,"food, price","food, price",True,0,None,None,0.9618258324764825,0.9399436277452867,0.9618258324764825,0.0
-TF-IDF,548,there is no sweetness in the laddu bro and the price is so high that i am disappointed,"food, price","food, price",True,0,None,None,0.9149589081187305,0.8322703757703782,0.9149589081187305,0.0
-TF-IDF,49,disgusting halim and the environment is dirty,"food, ambiance",ambiance,False,1,None,food,0.5696245410242441,0.22966866045566484,0.9095804215928233,0.0
-TF-IDF,568,it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,"price, ambiance",price,False,1,None,ambiance,0.6812827109932008,0.4351621907547042,0.9274032312316974,0.0
-TF-IDF,356,the price of the food is high but the quality of the food is not so good,"food, price","food, price",True,0,None,None,0.9637089379275253,0.9547496266861548,0.9637089379275253,0.0
-TF-IDF,86,there are many items in the same price range that are good and the environment is also fair,"food, price, ambiance","food, price, ambiance",True,0,None,None,0.6818865585049162,0.5115198302666434,0.6818865585049162,0.0
-TF-IDF,544,the taste quality of the restaurant food has increased and at the same time the ambiance of their restaurant has also improved a lot,"food, ambiance","food, ambiance",True,0,None,None,0.8173014892826261,0.7054050982890326,0.8173014892826261,0.0
-TF-IDF,192,the price was high but everyone enjoyed the pizza,"food, price","food, price",True,0,None,None,0.9169726290266871,0.8715804680640485,0.9169726290266871,0.0
-TF-IDF,791,i was not disappointed with the price of the food here and was happy with the taste as well,"food, price","food, price",True,0,None,None,0.8959915572304948,0.87943584526885,0.8959915572304948,0.0
-TF-IDF,33,every chicken item was very tasty they served the food very quickly,"food, service","food, service",True,0,None,None,0.7792633636611739,0.5744995538711045,0.7792633636611739,0.0
-TF-IDF,31,as for the beef the test was very good but the name kalabuna was not right,food,food,True,0,None,None,0.9365685203329981,0.9365685203329981,0.9365685203329981,0.0
-TF-IDF,199,yogurt is bad to eat and the price is so high,"food, price","food, price",True,0,None,None,0.9339839241248356,0.8802637616439026,0.9339839241248356,0.0
-TF-IDF,579,it was bad habit to have insects in the food and the price was high,"food, price",price,False,1,None,food,0.6628025323039142,0.3275794010322967,0.9980256635755317,0.0
-TF-IDF,569,they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,"price, miscellaneous","food, price",False,2,food,miscellaneous,0.5115941193841793,0.0331701735198664,0.8101032158037377,0.6301883663589832
-TF-IDF,593,food of normal price is very scarce here and they are not treating all the customers well,"price, service","food, price",False,2,food,service,0.5206469672833438,0.2109369968669471,0.7441269787128026,0.6578970197258646
-TF-IDF,567,this umbrella grill does not like to eat so badly and the price is as high as the price of gold,"food, price","food, price",True,0,None,None,0.9090680085694822,0.8205959076053342,0.9090680085694822,0.0
-TF-IDF,732,this restaurant does not provide good service or make it easy for children to have fun,"service, ambiance",service,False,1,None,ambiance,0.6965636860325665,0.44506038423548805,0.9480669878296449,0.0
-TF-IDF,137,the price is low and the taste is good,"food, price","food, price",True,0,None,None,0.975892488757113,0.9685945305839205,0.975892488757113,0.0
-TF-IDF,72,very good prices and good environment too,"price, ambiance","price, ambiance",True,0,None,None,0.8313572301760221,0.7054396511803113,0.8313572301760221,0.0
-TF-IDF,77,the environment is bad and the food is also bad,"food, ambiance","food, ambiance",True,0,None,None,0.7893963270382454,0.7443694835728336,0.7893963270382454,0.0
-TF-IDF,645,biryani was cold price too high,"food, price","food, price",True,0,None,None,0.9274620572283929,0.8688903168441849,0.9274620572283929,0.0
-TF-IDF,344,all the staff looked very professional but their service was not that good,service,service,True,0,None,None,0.9976545877575715,0.9976545877575715,0.9976545877575715,0.0
-TF-IDF,782,the menu has a good mix of items but the prices seem a bit high,"food, price","food, price",True,0,None,None,0.9259290126778975,0.9089795657875808,0.9259290126778975,0.0
-TF-IDF,462,the outer layer of the dumpling was very thick and tasty to eat and did not have to wait too long for the food,"food, service","food, service",True,0,None,None,0.8606692062528831,0.8082069996650783,0.8606692062528831,0.0
-TF-IDF,332,the quality of the food is fair but there is too much traffic for the waiters to use,"food, service","food, service",True,0,None,None,0.8295675452325788,0.7097183987365833,0.8295675452325788,0.0
-TF-IDF,96,the food is cheap but i have no doubt that the food is stale,"food, price","food, price",True,0,None,None,0.8795923980572191,0.7897725955438382,0.8795923980572191,0.0
-TF-IDF,338,the taste of the food is bad but the price is sky high,"food, price","food, price",True,0,None,None,0.9368794909307774,0.9156212838811709,0.9368794909307774,0.0
-TF-IDF,711,the cake tastes great and the party atmosphere is great,"food, ambiance","food, ambiance",True,0,None,None,0.839031522370773,0.7586440040692541,0.839031522370773,0.0
-TF-IDF,478,they gave us welcome drinks as soon as we sat in the restaurant which i like very much and the rest of their service was also very good,"food, service",service,False,1,None,food,0.6682136433739734,0.45814317871212346,0.8782841080358234,0.0
-TF-IDF,783,the food tastes bad and the service is terrible,"food, service","food, service",True,0,None,None,0.9278202424407329,0.8893964926402105,0.9278202424407329,0.0
-TF-IDF,628,it is usually a little less salty than other dishes the taste is unmatched,food,"food, price",False,1,price,None,0.9573284667387575,0.9573284667387575,0.7219400941688436,0.48655172159892984
-TF-IDF,641,all the burgers were very tasty and the prices were very reasonable,"food, price","food, price",True,0,None,None,0.9637390249918651,0.94456764119625,0.9637390249918651,0.0
-TF-IDF,710,salads are very affordable but not always available,"food, price","food, price",True,0,None,None,0.7821575807722515,0.7288797506482292,0.7821575807722515,0.0
-TF-IDF,534,the food is not as good as before and their service is also bad today,"food, service","food, service",True,0,None,None,0.8807404655413038,0.7699861457178746,0.8807404655413038,0.0
-TF-IDF,54,all the dishes were very reasonably priced and the interior is also very beautiful,"price, ambiance","food, price, ambiance",False,1,food,None,0.7327990108642635,0.6656650027315308,0.7356002953978491,0.7412028644650206
-TF-IDF,746,the shish kebabs took a long time to arrive but finally tasted great,"food, service","food, service",True,0,None,None,0.9171787741097799,0.9026429315324654,0.9171787741097799,0.0
-TF-IDF,155,i did not have peace of mind after having tea in a 5 star hotel and only had to pay 2000 tk,"food, price","food, price",True,0,None,None,0.684788573645661,0.5140989270398141,0.684788573645661,0.0
-TF-IDF,439,home cooked food is better than this restaurant and you do not have to wait so long at home,"food, service","food, service, ambiance",False,1,ambiance,None,0.6515261928586618,0.5919559615205462,0.6873139904082238,0.7588895855073476
-TF-IDF,97,i have not eaten bharta with so much flavor before and the price is also low,"food, price","food, price",True,0,None,None,0.9477082610786003,0.9081471092269738,0.9477082610786003,0.0
-TF-IDF,120,all items are priced normally and taste normal,"food, price","food, price",True,0,None,None,0.8428465486769185,0.7452501106170575,0.8428465486769185,0.0
-TF-IDF,76,the restaurant is small but expensive,"price, ambiance","price, ambiance",True,0,None,None,0.8869925503180767,0.8547973786024627,0.8869925503180767,0.0
-TF-IDF,204,the taste of kachchi is really unforgettable but the price is very high,"food, price","food, price",True,0,None,None,0.9806926230557058,0.9697202897214015,0.9806926230557058,0.0
-TF-IDF,351,the decoration of the restaurant is very unique and i think it has the best atmosphere,ambiance,ambiance,True,0,None,None,0.9832573765193002,0.9832573765193002,0.9832573765193002,0.0
-TF-IDF,760,although the decor of the restaurant has improved the prices of all the dishes have increased slightly,"price, ambiance","food, price",False,2,food,ambiance,0.7289588714717272,0.5714754995989557,0.7419513998094324,0.5974605562743661
-TF-IDF,208,today i found a reasonable restaurant and food quality is good,"food, price","food, ambiance",False,2,ambiance,price,0.495267538201218,0.1678856732794608,0.7512655982661214,0.6798817934092676
-TF-IDF,734,the price is good and the taste is great,"food, price","food, price",True,0,None,None,0.8051801177832623,0.7672454142627336,0.8051801177832623,0.0
-TF-IDF,424,the food here tastes a little better but nothing else is quite customerfriendly,"food, miscellaneous",food,False,1,None,miscellaneous,0.49765900559896126,0.07596620511900697,0.9193518060789155,0.0
-TF-IDF,451,this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,"price, miscellaneous","food, price",False,2,food,miscellaneous,0.5116074064531377,0.07333024941203573,0.7429428861117353,0.536001208729231
-TF-IDF,84,crimsoncups atmosphere is also joss and coffee is joss,"food, ambiance","food, ambiance",True,0,None,None,0.8508796739296971,0.7410474008323403,0.8508796739296971,0.0
-TF-IDF,10,love quiet restaurant and for family we go here only to celebrate an occasion,"ambiance, miscellaneous","food, ambiance",False,2,food,miscellaneous,0.43636916392870173,0.0862814716789317,0.6475478598059333,0.5086388634333949
-TF-IDF,716,biryani was ok but underpriced,"food, price","food, price",True,0,None,None,0.6555331585606525,0.5701830321363156,0.6555331585606525,0.0
-TF-IDF,110,the service was good but i have never seen a restaurant so full of mosquitoes,"service, ambiance",service,False,1,None,ambiance,0.6475814866788925,0.31654534164453596,0.9786176317132491,0.0
-TF-IDF,281,the taste was slightly different and the staff were very attentive,"food, service","food, service",True,0,None,None,0.8345366215625045,0.7773167213290427,0.8345366215625045,0.0
-TF-IDF,479,ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,"price, service","food, service",False,2,food,price,0.5649992368429956,0.44335007987114694,0.7983660182229294,0.9100836426310146
-TF-IDF,209,comillas rasmalai is different and the price is reasonable,"food, price","food, price",True,0,None,None,0.8961590421568689,0.8122096202276753,0.8961590421568689,0.0
-TF-IDF,235,the waiters were giving very fast refills and the food tasted a little different,"food, service","food, service",True,0,None,None,0.7738733565433191,0.666362140792778,0.7738733565433191,0.0
-TF-IDF,445,the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,"price, ambiance",price,False,1,None,ambiance,0.7177655156844931,0.5686008870274051,0.8669301443415812,0.0
-TF-IDF,726,iftar dishes are not very good or expensive to eat,"food, price","food, price",True,0,None,None,0.7553981222715702,0.5868553456661568,0.7553981222715702,0.0
-TF-IDF,118,the steak was very good but the price was too high,"food, price","food, price",True,0,None,None,0.9084394635444778,0.8205311413912548,0.9084394635444778,0.0
-TF-IDF,715,nanroti contains a lot of butter which makes the bread taste better but the place where the bread is made is not clean,"food, ambiance","food, ambiance",True,0,None,None,0.8319790814666896,0.79458438850672,0.8319790814666896,0.0
-TF-IDF,210,the menu is well balanced but the price seems a bit high,"food, price","food, price",True,0,None,None,0.9059938663201712,0.8374700865231671,0.9059938663201712,0.0
-TF-IDF,254,the decoration was very different and the atmosphere was very lively,ambiance,ambiance,True,0,None,None,0.9804986896161171,0.9804986896161171,0.9804986896161171,0.0
-TF-IDF,292,breads are thicker than before and prices have not increased,"food, price","food, price",True,0,None,None,0.8907700301862183,0.8803426665669485,0.8907700301862183,0.0
-TF-IDF,29,the price is right but the test is not the same as before,"food, price","food, price",True,0,None,None,0.944855977568811,0.9339079883041681,0.944855977568811,0.0
-TF-IDF,266,hilsa from mawa ghat has a different taste but the price is a bit higher,"food, price","food, price",True,0,None,None,0.953308604477312,0.9501587204521571,0.953308604477312,0.0
-TF-IDF,336,the caramel tastes completely different in the coffee and the flavor seems to be better for the surroundings,"food, ambiance",food,False,1,None,ambiance,0.7062524123723383,0.4671354436133343,0.9453693811313422,0.0
-TF-IDF,658,nehari is very attractive but the environment is not very nice,"food, ambiance",ambiance,False,1,None,food,0.5845399882027389,0.17451046814038051,0.9945695082650972,0.0
-TF-IDF,709,the food was not very good but the prices were really high,"food, price","food, price",True,0,None,None,0.9698991952642825,0.9623332180697274,0.9698991952642825,0.0
-TF-IDF,81,ilhasvajata is the same and the price is affordable,"food, price","food, price",True,0,None,None,0.8129542933073142,0.6284730034449558,0.8129542933073142,0.0
-TF-IDF,659,their service was great but they could improve their focus on the taste of their food,"food, service","food, service",True,0,None,None,0.9237778820449033,0.915396970581731,0.9237778820449033,0.0
-TF-IDF,417,the timing of the meal was just right and the total cost was very less per person,"price, service","food, price",False,2,food,service,0.4752091057293299,0.11855872762903738,0.8820141204027252,0.932168756975828
-TF-IDF,637,there is no shortage of shops but i cannot find good food,"food, miscellaneous","food, ambiance",False,2,ambiance,miscellaneous,0.43944137651165893,0.07081409644735953,0.7231691033828505,0.6382695501897425
-TF-IDF,682,as the price of this product has increased so has the quality,"food, price","food, price",True,0,None,None,0.9160569492843937,0.8944257255925486,0.9160569492843937,0.0
-TF-IDF,420,if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,"price, miscellaneous",price,False,1,None,miscellaneous,0.5261270611951976,0.2154331660807304,0.8368209563096648,0.0
-TF-IDF,669,the food was not good and the service was terrible,"food, service","food, service",True,0,None,None,0.9420333662052903,0.8956495587130313,0.9420333662052903,0.0
-TF-IDF,448,could not be more happy with the waiters service but the taste of the food satisfied me,"food, service","food, service",True,0,None,None,0.9482629180519644,0.9138518724005754,0.9482629180519644,0.0
-TF-IDF,211,the taste is bad and the service is even worse,"food, service","food, service",True,0,None,None,0.9398091503242114,0.9264267422527094,0.9398091503242114,0.0
-TF-IDF,531,the time was good because of the atmosphere of the restaurant and their service was also amazing,"service, ambiance","service, ambiance",True,0,None,None,0.9143146662227489,0.904408949668741,0.9143146662227489,0.0
-TF-IDF,482,the price may be high but believe me you all play it and you will not like anything else,"food, price","food, price",True,0,None,None,0.8973689460463992,0.8587835819074463,0.8973689460463992,0.0
-TF-IDF,218,customers are happy with the food quality and also happy with the price,"food, price","food, price",True,0,None,None,0.8754972464338822,0.7937570121113705,0.8754972464338822,0.0
-TF-IDF,7,had authentic food and i go twice a month,"food, miscellaneous","food, price",False,2,price,miscellaneous,0.5325863281635317,0.15671438368974364,0.7353987592106608,0.5623392457840019
-TF-IDF,581,the nimkis were very crunchy which everyone liked but it took a long time to wait,"food, service","food, service",True,0,None,None,0.8826543132173001,0.8213737172914265,0.8826543132173001,0.0
-TF-IDF,101,chicken corn soup is just chicken and corn and the price is not that high,"food, price","food, price",True,0,None,None,0.9583266969409434,0.9516939274987646,0.9583266969409434,0.0
-TF-IDF,323,the food prices in the restaurants in the trade fair are high and the quality is very bad,"food, price","food, price",True,0,None,None,0.7692415521494902,0.5925902649084551,0.7692415521494902,0.0
-TF-IDF,523,their service quality will not be fair but food quality was good,"food, service","food, service",True,0,None,None,0.9462144017794272,0.9150558448960381,0.9462144017794272,0.0
-TF-IDF,306,the beef was so soft and juicy that i cannot explain it but the price was high,"food, price","food, price",True,0,None,None,0.8978069702177379,0.8298803933016471,0.8978069702177379,0.0
-TF-IDF,329,does not take long to wait and tastes great too,"food, service","food, service, ambiance",False,1,ambiance,None,0.6572605545473542,0.5525676866452661,0.6443892571382566,0.6186466623200613
-TF-IDF,2,food always tastes fresh and served promptly,"food, service","food, service",True,0,None,None,0.7851289634011724,0.5864193103763856,0.7851289634011724,0.0
-TF-IDF,365,food prices are lower than other nearby places but the food is very expensive,price,price,True,0,None,None,0.987544910579679,0.987544910579679,0.987544910579679,0.0
-TF-IDF,412,it is hard to find eggs in eggchop and everything is rotten,food,"food, price",False,1,price,None,0.5383565813518362,0.5383565813518362,0.5752478830084202,0.6121391846650043
-TF-IDF,518,just wasted my time because the quality of food was not good and i did not like the environment,"food, ambiance","food, ambiance",True,0,None,None,0.8744154958601658,0.7943889693488908,0.8744154958601658,0.0
-TF-IDF,588,it was very juicy and we were very happy with their delivery speed,"food, service","food, price, service",False,1,price,None,0.6853509821560613,0.525366655349665,0.6692101163574012,0.6369283847600812
-TF-IDF,434,there was nothing sweet about lachchi and the price was too expensive,"food, price",price,False,1,None,food,0.6939231922792377,0.39268692172333836,0.9951594628351371,0.0
-TF-IDF,740,i have never had such good service and the food here is also very good,"food, service","food, service",True,0,None,None,0.7636427222908373,0.5562571554047534,0.7636427222908373,0.0
-TF-IDF,512,the sweets were disgusting and i hated their use,"food, service","food, service",True,0,None,None,0.688070059644714,0.6460393278193102,0.688070059644714,0.0
-TF-IDF,360,some fake restaurants and food prices are higher than the original places,"price, miscellaneous","price, ambiance",False,2,ambiance,miscellaneous,0.48730849010616406,0.08010242449239319,0.7635489646204032,0.6325833735208716
+TF-IDF,692,although the price of the product has increased the quality and taste have not changed,"food, price","food, price",True,0,None,None,0.7539971119905405,0.7055204203795912,0.7539971119905405,0.0
+TF-IDF,779,the restaurant is very clean and the ambience is very nice,ambiance,ambiance,True,0,None,None,0.8532263905148915,0.8532263905148915,0.8532263905148915,0.0
+TF-IDF,63,the side dishes are not very good but the service is good,"food, service","food, service",True,0,None,None,0.6791080075319027,0.5070379829298116,0.6791080075319027,0.0
+TF-IDF,532,from today it is my favorite restaurant because the service here is very bad and the price of everything is very high,"price, service","price, service",True,0,None,None,0.5905075911302533,0.5900230237280466,0.5905075911302533,0.0
+TF-IDF,66,best chicken pressure the price of 120 rupees seemed right to me,"food, price","food, price",True,0,None,None,0.730533250223002,0.7122618561472601,0.730533250223002,0.0
+TF-IDF,750,the food here is not very good and the workers are lazy,"food, service","food, service",True,0,None,None,0.648986841450326,0.5254793184390326,0.648986841450326,0.0
+TF-IDF,382,the dalpuris were not too oily but the price was high,"food, price","food, price",True,0,None,None,0.7739837274414256,0.635940545025194,0.7739837274414256,0.0
+TF-IDF,684,i did not like strong coffee and the price was high,"food, price","food, price",True,0,None,None,0.7780589916515079,0.7157167715011249,0.7780589916515079,0.0
+TF-IDF,640,the sub sandwich was also very good as a reward thank god the atmosphere is very good,"food, ambiance","food, ambiance",True,0,None,None,0.6141832095714863,0.5122854779738724,0.6141832095714863,0.0
+TF-IDF,625,their kitchen is not very nice so people cannot enjoy the taste of the food as much,"food, ambiance",food,False,1,None,ambiance,0.620558735394724,0.4822225118976038,0.7588949588918441,0.0
+TF-IDF,65,their service is great and food quality is good,"food, service","food, service",True,0,None,None,0.7231353344342698,0.7007143321203678,0.7231353344342698,0.0
+TF-IDF,285,there is no extra decoration and the service is decent,"service, ambiance",service,False,1,None,ambiance,0.5766118869966542,0.4216880148767623,0.7315357591165462,0.0
+TF-IDF,634,schizlingter is a type of food that is served hot and fresh,"food, service","food, service",True,0,None,None,0.6317117264539595,0.6005402161019001,0.6317117264539595,0.0
+TF-IDF,67,food taste great interior is good,"food, ambiance","food, ambiance",True,0,None,None,0.7008894238737724,0.5998445304977754,0.7008894238737724,0.0
+TF-IDF,326,the jhal fry portion was very juicy and the price was within the common man s budget,"food, price","food, price",True,0,None,None,0.7022012883162093,0.6853156926523478,0.7022012883162093,0.0
+TF-IDF,394,i feel like their tacos have improved a lot and the prices have not gone up that much,"food, price","food, price",True,0,None,None,0.6638280045652615,0.6608602757195753,0.6638280045652615,0.0
+TF-IDF,244,it was understood that the less expensive food can be good but eating the food of this restaurant,"food, price",food,False,1,None,price,0.5823600987984808,0.4982025828749189,0.6665176147220427,0.0
+TF-IDF,630,the biryani rice was fluffy but the meat was tough,food,"food, price",False,1,price,None,0.7660128748916819,0.7660128748916819,0.6646454891415525,0.5632781033914231
+TF-IDF,744,there was not the chutney it was supposed to be but that did not matter because it was free anyway,"food, price",food,False,1,None,price,0.5648940306620487,0.4971491192338066,0.6326389420902908,0.0
+TF-IDF,525,shahi khichuri did not have shahibhav so bad but their service is so good that i am impressed,"food, service","food, service",True,0,None,None,0.6645283178532783,0.48353410655421314,0.6645283178532783,0.0
+TF-IDF,405,the side dishes were very good and the price was much less than i expected,"food, price","food, price",True,0,None,None,0.705495404438016,0.6915215427767626,0.705495404438016,0.0
+TF-IDF,533,the taste of ice cream is still on my tongue i was so excited but the environment of their shop was very bad,"food, ambiance","food, ambiance",True,0,None,None,0.5934822608628609,0.5587395311068315,0.5934822608628609,0.0
+TF-IDF,621,the steak was delicious and it was a great deal,"food, price","food, price",True,0,None,None,0.5966742515111827,0.5215862943396096,0.5966742515111827,0.0
+TF-IDF,717,everything here costs the same and tastes just like normal,"food, price","food, price",True,0,None,None,0.6330271929406219,0.5344946852038098,0.6330271929406219,0.0
+TF-IDF,636,the food was cold and we waited a long time for it to arrive,"food, service","food, service",True,0,None,None,0.6896055483613104,0.6482416077791441,0.6896055483613104,0.0
+TF-IDF,30,the biryani rice was fluffy and fluffy but the meat was tough,food,"food, price",False,1,price,None,0.7660128748916819,0.7660128748916819,0.6646454891415525,0.5632781033914231
+TF-IDF,260,a restaurant and location is also very good to eat a full stomach with less money,"price, miscellaneous",food,False,3,food,"price, miscellaneous",0.4794472991658537,0.4721684346226603,0.5281388457296511,0.5281388457296511
+TF-IDF,346,such hard meat has never been eaten before and the condition of the restaurant is also bad,"food, ambiance",food,False,1,None,ambiance,0.5664682613950486,0.5370774444402124,0.5958590783498847,0.0
+TF-IDF,599,the pizza was delicious but the experience was horrible,"food, miscellaneous",food,False,1,None,miscellaneous,0.46232454499396025,0.20410697819454748,0.720542111793373,0.0
+TF-IDF,772,the food is of good quality and reasonably priced,"food, price","food, price",True,0,None,None,0.6412220786694797,0.5638112800207961,0.6412220786694797,0.0
+TF-IDF,215,the food here was the best and the price was reasonable,"food, price","food, price",True,0,None,None,0.7124308326222306,0.6471171924236683,0.7124308326222306,0.0
+TF-IDF,78,amrit taste but the price is a bit high,"food, price","food, price",True,0,None,None,0.8390720616139794,0.7979057846512327,0.8390720616139794,0.0
+TF-IDF,543,i liked the fruit juice very much but was not completely happy because their service quality was so bad,"food, service","food, service",True,0,None,None,0.6891042513664454,0.6864687762009781,0.6891042513664454,0.0
+TF-IDF,639,there was not a single piece of meat after all the price is high,"food, price","food, price",True,0,None,None,0.8142006491940875,0.7124192337151377,0.8142006491940875,0.0
+TF-IDF,39,took so much time to bring food but also fed stale food,"food, service","food, service",True,0,None,None,0.5898565963681947,0.5069905725890845,0.5898565963681947,0.0
+TF-IDF,23,dumplings are not very good it is late to pay everything,"food, service","food, service",True,0,None,None,0.6268962740524392,0.5805252660177301,0.6268962740524392,0.0
+TF-IDF,660,the rice was very good but the service was not very good,"food, service","food, service",True,0,None,None,0.7160440858245956,0.5904057568841441,0.7160440858245956,0.0
+TF-IDF,309,that is why the taste is slightly different and the price is same as normal khichuri egg,"food, price","food, price",True,0,None,None,0.7196531847908544,0.7143622237221031,0.7196531847908544,0.0
+TF-IDF,792,meat items are just fat and fat but the price is a bit high,"food, price","food, price",True,0,None,None,0.7663700333045429,0.729627864628424,0.7663700333045429,0.0
+TF-IDF,302,the price of octopus is very high but i did not find any taste,"food, price","food, price",True,0,None,None,0.770500891118141,0.7421394659791308,0.770500891118141,0.0
+TF-IDF,139,the price is so low and the taste is just right,"food, price","food, price",True,0,None,None,0.835630330542865,0.7639615344643258,0.835630330542865,0.0
+TF-IDF,250,the restaurant has quickly earned a name for its good quality food and good ambience,"food, ambiance","food, ambiance",True,0,None,None,0.7128833946383035,0.6467069912631344,0.7128833946383035,0.0
+TF-IDF,174,fuchka is expensive but fun to eat,"food, price","food, price",True,0,None,None,0.6433849758046531,0.5782118484719104,0.6433849758046531,0.0
+TF-IDF,685,there are many items that are good and the company cares for the environment,"food, ambiance",ambiance,False,1,None,food,0.5279733239212536,0.41559849868210313,0.6403481491604042,0.0
+TF-IDF,594,i ate dumba meat for the first time in my life and i liked the taste but it cost me a lot of money,"food, price","food, price",True,0,None,None,0.639149430868843,0.559719946013691,0.639149430868843,0.0
+TF-IDF,649,awful halim the environment is also bad,"food, ambiance","food, ambiance",True,0,None,None,0.5860934597885733,0.45516029175910483,0.5860934597885733,0.0
+TF-IDF,422,although the quality of the food was not the best and the environment was not that bad,"food, ambiance","food, ambiance",True,0,None,None,0.6432677318397513,0.6266510389888146,0.6432677318397513,0.0
+TF-IDF,432,i spent very little money but it seems like i am eating nectar,"food, price","food, price",True,0,None,None,0.6168488959613418,0.6001380807683389,0.6168488959613418,0.0
+TF-IDF,737,the burger patty is thicker than a regular burger and because of that it is bigger,food,"food, price",False,1,price,None,0.6882959648528765,0.6882959648528765,0.6111369789408064,0.5339779930287364
+TF-IDF,444,because the taste of nectar is the same as before but the price has increased a lot,"food, price","food, price",True,0,None,None,0.736245198254557,0.7020790668621446,0.736245198254557,0.0
+TF-IDF,265,the price of the restaurant food was high but at the same time the quality of the food was good,"food, price","food, price",True,0,None,None,0.6618755261019826,0.5560115507032024,0.6618755261019826,0.0
+TF-IDF,109,the location of the restaurant is good and the price of the food is also low,"price, miscellaneous","food, price",False,2,food,miscellaneous,0.6026567696656043,0.4901747419767129,0.6005283831052768,0.4859179688560578
+TF-IDF,662,the food tastes great and the service is great,"food, service","food, service",True,0,None,None,0.6782392245083484,0.650983810710558,0.6782392245083484,0.0
+TF-IDF,590,eating fish in this restaurant made me hate fish even more and i felt like paying such a high price,"food, price","food, price",True,0,None,None,0.6881857163587102,0.6031687786555443,0.6881857163587102,0.0
+TF-IDF,335,the reviews of the restaurant online were bad but i found the quality of the food to be good,"food, miscellaneous","food, ambiance",False,2,ambiance,miscellaneous,0.5538216579295525,0.29552908501871084,0.7046235468155093,0.5971328627906243
+TF-IDF,367,the taste of the sushi was not that great but the atmosphere of the restaurant was so good that i would go there again,"food, ambiance","food, ambiance",True,0,None,None,0.6420008048101999,0.4899525704972716,0.6420008048101999,0.0
+TF-IDF,314,the price of hilsa fish tail filling was also low and the taste was decent,"food, price","food, price",True,0,None,None,0.7499335626408045,0.7312911725592046,0.7499335626408045,0.0
+TF-IDF,687,heard many names on everyone is lips but i did not like the food here,"food, miscellaneous",food,False,1,None,miscellaneous,0.5743391227915452,0.480115484634678,0.6685627609484124,0.0
+TF-IDF,198,the curd puffs here are good and the price is quite within the range,"food, price","food, price",True,0,None,None,0.6815435768328185,0.5891399002363773,0.6815435768328185,0.0
+TF-IDF,168,the reshmi kebab melts in your mouth and the price is also very good,"food, price","food, price",True,0,None,None,0.6780599531811267,0.6672479512586698,0.6780599531811267,0.0
+TF-IDF,490,halim is very strict but i disliked the cleanliness aspect,"food, ambiance","food, ambiance",True,0,None,None,0.5690052777973134,0.5682760372121021,0.5690052777973134,0.0
+TF-IDF,473,every item tasted amazing and their workmanship was better than other places,"food, service",food,False,1,None,service,0.47831921853483605,0.3554999705474835,0.6011384665221886,0.0
+TF-IDF,652,haleem was amazing in one word i became a fan,"food, miscellaneous","food, miscellaneous",True,0,None,None,0.6602045229807999,0.6208631990410417,0.6602045229807999,0.0
+TF-IDF,465,they have kept the price low but they have mixed a lot of fruits in faluda,"food, price","food, price",True,0,None,None,0.7467026417331695,0.6288894840161868,0.7467026417331695,0.0
+TF-IDF,231,the price of each item is high but i did not like the taste of each item,"food, price","food, price",True,0,None,None,0.7628065855053942,0.7214708784337159,0.7628065855053942,0.0
+TF-IDF,548,there is no sweetness in the laddu bro and the price is so high that i am disappointed,"food, price","food, price",True,0,None,None,0.7738767895841973,0.6499727588817464,0.7738767895841973,0.0
+TF-IDF,49,disgusting halim and the environment is dirty,"food, ambiance",ambiance,False,1,None,food,0.5371819454398257,0.37047134514570745,0.7038925457339439,0.0
+TF-IDF,568,it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,"price, ambiance","food, price",False,2,food,ambiance,0.5881304232387385,0.4678682290312483,0.5854567869650005,0.46252095648377217
+TF-IDF,356,the price of the food is high but the quality of the food is not so good,"food, price","food, price",True,0,None,None,0.7578983367017413,0.7276961524416798,0.7578983367017413,0.0
+TF-IDF,86,there are many items in the same price range that are good and the environment is also fair,"food, price, ambiance","food, price, ambiance",True,0,None,None,0.559901342758385,0.4712252271588047,0.559901342758385,0.0
+TF-IDF,544,the taste quality of the restaurant food has increased and at the same time the ambiance of their restaurant has also improved a lot,"food, ambiance","food, ambiance",True,0,None,None,0.6490235444723376,0.5963411011881631,0.6490235444723376,0.0
+TF-IDF,192,the price was high but everyone enjoyed the pizza,"food, price","food, price",True,0,None,None,0.735303775729284,0.6558383701772416,0.735303775729284,0.0
+TF-IDF,791,i was not disappointed with the price of the food here and was happy with the taste as well,"food, price","food, price",True,0,None,None,0.6875941865379818,0.6605330006683566,0.6875941865379818,0.0
+TF-IDF,33,every chicken item was very tasty they served the food very quickly,"food, service","food, service",True,0,None,None,0.6549954268331681,0.5141804921367857,0.6549954268331681,0.0
+TF-IDF,31,as for the beef the test was very good but the name kalabuna was not right,food,food,True,0,None,None,0.7083466919640418,0.7083466919640418,0.7083466919640418,0.0
+TF-IDF,199,yogurt is bad to eat and the price is so high,"food, price","food, price",True,0,None,None,0.7593739982122425,0.6575374604089033,0.7593739982122425,0.0
+TF-IDF,579,it was bad habit to have insects in the food and the price was high,"food, price","food, price",True,0,None,None,0.7001967181496627,0.4765205338007695,0.7001967181496627,0.0
+TF-IDF,569,they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,"price, miscellaneous","food, price",False,2,food,miscellaneous,0.5201744652540679,0.18158108164991746,0.7181056949772707,0.5774435410963232
+TF-IDF,593,food of normal price is very scarce here and they are not treating all the customers well,"price, service","food, price",False,2,food,service,0.49360507281886723,0.3598382491726145,0.6046222781053718,0.5818726597456237
+TF-IDF,567,this umbrella grill does not like to eat so badly and the price is as high as the price of gold,"food, price","food, price",True,0,None,None,0.7808219532445766,0.6614159536606307,0.7808219532445766,0.0
+TF-IDF,732,this restaurant does not provide good service or make it easy for children to have fun,"service, ambiance",service,False,1,None,ambiance,0.6369610014211979,0.5118006780528888,0.7621213247895072,0.0
+TF-IDF,137,the price is low and the taste is good,"food, price","food, price",True,0,None,None,0.8215520003137635,0.794470352668077,0.8215520003137635,0.0
+TF-IDF,72,very good prices and good environment too,"price, ambiance","price, ambiance",True,0,None,None,0.6473642118529388,0.5749039238225347,0.6473642118529388,0.0
+TF-IDF,77,the environment is bad and the food is also bad,"food, ambiance","food, service, ambiance",False,1,service,None,0.6192727347582347,0.5790573910670048,0.5898326198666229,0.5309523900833993
+TF-IDF,645,biryani was cold price too high,"food, price","food, price",True,0,None,None,0.7588533979167063,0.6607188513417345,0.7588533979167063,0.0
+TF-IDF,344,all the staff looked very professional but their service was not that good,service,"food, service",False,1,food,None,0.8736364236287063,0.8736364236287063,0.711316536247407,0.5489966488661076
+TF-IDF,782,the menu has a good mix of items but the prices seem a bit high,"food, price","food, price",True,0,None,None,0.7400064184831241,0.695893679268144,0.7400064184831241,0.0
+TF-IDF,462,the outer layer of the dumpling was very thick and tasty to eat and did not have to wait too long for the food,"food, service","food, service",True,0,None,None,0.6464726309312105,0.6037017143834658,0.6464726309312105,0.0
+TF-IDF,332,the quality of the food is fair but there is too much traffic for the waiters to use,"food, service","food, service",True,0,None,None,0.6559481666329929,0.5500792957761345,0.6559481666329929,0.0
+TF-IDF,96,the food is cheap but i have no doubt that the food is stale,"food, price","food, price",True,0,None,None,0.6530318313089518,0.5502468115056972,0.6530318313089518,0.0
+TF-IDF,338,the taste of the food is bad but the price is sky high,"food, price","food, price",True,0,None,None,0.7355763865031666,0.6969890170592496,0.7355763865031666,0.0
+TF-IDF,711,the cake tastes great and the party atmosphere is great,"food, ambiance","food, ambiance",True,0,None,None,0.6485492776056943,0.5769748810739794,0.6485492776056943,0.0
+TF-IDF,478,they gave us welcome drinks as soon as we sat in the restaurant which i like very much and the rest of their service was also very good,"food, service","food, service",True,0,None,None,0.5774709658484914,0.4511704375554705,0.5774709658484914,0.0
+TF-IDF,783,the food tastes bad and the service is terrible,"food, service","food, service",True,0,None,None,0.7364867324585332,0.7194845155728586,0.7364867324585332,0.0
+TF-IDF,628,it is usually a little less salty than other dishes the taste is unmatched,food,"food, price",False,1,price,None,0.7368012496077155,0.7368012496077155,0.6230679726261025,0.5093346956444894
+TF-IDF,641,all the burgers were very tasty and the prices were very reasonable,"food, price","food, price",True,0,None,None,0.7973228145603922,0.7468590598663284,0.7973228145603922,0.0
+TF-IDF,710,salads are very affordable but not always available,"food, price","food, price",True,0,None,None,0.603602144311459,0.5696141758616222,0.603602144311459,0.0
+TF-IDF,534,the food is not as good as before and their service is also bad today,"food, service","food, service",True,0,None,None,0.7353962812761603,0.5661399665219919,0.7353962812761603,0.0
+TF-IDF,54,all the dishes were very reasonably priced and the interior is also very beautiful,"price, ambiance","food, price, ambiance",False,1,food,None,0.5685249119780822,0.537270021119305,0.5779592910910479,0.5968280493169793
+TF-IDF,746,the shish kebabs took a long time to arrive but finally tasted great,"food, service","food, service",True,0,None,None,0.6964036282283875,0.6686545053486109,0.6964036282283875,0.0
+TF-IDF,155,i did not have peace of mind after having tea in a 5 star hotel and only had to pay 2000 tk,"food, price","food, price",True,0,None,None,0.5753321919445392,0.5097817134220652,0.5753321919445392,0.0
+TF-IDF,439,home cooked food is better than this restaurant and you do not have to wait so long at home,"food, service","food, service, ambiance",False,1,ambiance,None,0.535909756932238,0.5193368631641497,0.5620142872116832,0.6142233477705735
+TF-IDF,97,i have not eaten bharta with so much flavor before and the price is also low,"food, price","food, price",True,0,None,None,0.7697834989266052,0.7040046484145895,0.7697834989266052,0.0
+TF-IDF,120,all items are priced normally and taste normal,"food, price","food, price",True,0,None,None,0.6589252735867428,0.5910727130843124,0.6589252735867428,0.0
+TF-IDF,76,the restaurant is small but expensive,"price, ambiance","price, ambiance",True,0,None,None,0.6525931426297593,0.6427425471415339,0.6525931426297593,0.0
+TF-IDF,204,the taste of kachchi is really unforgettable but the price is very high,"food, price","food, price",True,0,None,None,0.8378888418599638,0.7857967930531915,0.8378888418599638,0.0
+TF-IDF,351,the decoration of the restaurant is very unique and i think it has the best atmosphere,ambiance,ambiance,True,0,None,None,0.8128845620553882,0.8128845620553882,0.8128845620553882,0.0
+TF-IDF,760,although the decor of the restaurant has improved the prices of all the dishes have increased slightly,"price, ambiance","food, price",False,2,food,ambiance,0.591721860389558,0.5055301793946146,0.6051917035252865,0.5324698656660718
+TF-IDF,208,today i found a reasonable restaurant and food quality is good,"food, price","food, ambiance",False,2,ambiance,price,0.48681172971868736,0.3375395080756002,0.6101759224298549,0.5842678934979351
+TF-IDF,734,the price is good and the taste is great,"food, price","food, price",True,0,None,None,0.6399379985593621,0.6034486928536246,0.6399379985593621,0.0
+TF-IDF,424,the food here tastes a little better but nothing else is quite customer friendly,"food, miscellaneous",food,False,1,None,miscellaneous,0.4297306818570758,0.2547438234328132,0.6047175402813384,0.0
+TF-IDF,451,this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,"price, miscellaneous","food, price",False,2,food,miscellaneous,0.5057831718858992,0.24846039629834768,0.647363589290805,0.5316212311081592
+TF-IDF,84,crimsoncup s atmosphere is also joss and coffee is joss,"food, ambiance","food, ambiance",True,0,None,None,0.6621375358273762,0.5397032434990394,0.6621375358273762,0.0
+TF-IDF,10,love quiet restaurant and for family we go here only to celebrate an occasion,"ambiance, miscellaneous","food, ambiance",False,2,food,miscellaneous,0.46263750649186763,0.2864036309020275,0.5499763293044453,0.4610812765271829
+TF-IDF,716,biryani was ok but underpriced,"food, price","food, price",True,0,None,None,0.553029439762719,0.5227498602130697,0.553029439762719,0.0
+TF-IDF,110,the service was good but i have never seen a restaurant so full of mosquitoes,"service, ambiance",service,False,1,None,ambiance,0.6550647536690128,0.49009510337990997,0.8200344039581158,0.0
+TF-IDF,281,the taste was slightly different and the staff were very attentive,"food, service","food, service",True,0,None,None,0.6349824168520124,0.5854398718424189,0.6349824168520124,0.0
+TF-IDF,479,ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,"price, service","food, service",False,2,food,price,0.5080787520585044,0.46698624542756595,0.6199486551805335,0.6907260516716244
+TF-IDF,209,comilla s rasmalai is different and the price is reasonable,"food, price","food, price",True,0,None,None,0.7257277908441908,0.646300412612571,0.7257277908441908,0.0
+TF-IDF,235,the waiters were giving very fast refills and the food tasted a little different,"food, service","food, service",True,0,None,None,0.6021209673114734,0.5490859902783581,0.6021209673114734,0.0
+TF-IDF,445,the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,"price, ambiance","food, price",False,2,food,ambiance,0.5984049201862097,0.5001485909529884,0.6008028797772251,0.5049445101350193
+TF-IDF,726,iftar dishes are not very good or expensive to eat,"food, price","food, price",True,0,None,None,0.5916375940453111,0.576037724060968,0.5916375940453111,0.0
+TF-IDF,118,the steak was very good but the price was too high,"food, price","food, price",True,0,None,None,0.7848024301703693,0.6509186050877691,0.7848024301703693,0.0
+TF-IDF,715,nanroti contains a lot of butter which makes the bread taste better but the place where the bread is made is not clean,"food, ambiance","food, ambiance",True,0,None,None,0.6214778435321047,0.6087624397665987,0.6214778435321047,0.0
+TF-IDF,210,the menu is well balanced but the price seems a bit high,"food, price","food, price",True,0,None,None,0.7397847791367989,0.6430967422597975,0.7397847791367989,0.0
+TF-IDF,254,the decoration was very different and the atmosphere was very lively,ambiance,ambiance,True,0,None,None,0.8075034274578251,0.8075034274578251,0.8075034274578251,0.0
+TF-IDF,292,breads are thicker than before and prices have not increased,"food, price","food, price",True,0,None,None,0.6960506139420766,0.6915188993600577,0.6960506139420766,0.0
+TF-IDF,29,the price is right but the test is not the same as before,"food, price","food, price",True,0,None,None,0.7182776355836751,0.7065386507825353,0.7182776355836751,0.0
+TF-IDF,266,hilsa from mawa ghat has a different taste but the price is a bit higher,"food, price","food, price",True,0,None,None,0.7632298138389961,0.7495836377583681,0.7632298138389961,0.0
+TF-IDF,336,the caramel tastes completely different in the coffee and the flavor seems to be better for the surroundings,"food, ambiance",food,False,1,None,ambiance,0.6016294415727994,0.4867167814068473,0.7165421017387514,0.0
+TF-IDF,658,nehari is very attractive but the environment is not very nice,"food, ambiance",ambiance,False,1,None,food,0.603681589438993,0.434229803476605,0.7731333754013809,0.0
+TF-IDF,709,the food was not very good but the prices were really high,"food, price","food, price",True,0,None,None,0.7715249838601639,0.7587820076944848,0.7715249838601639,0.0
+TF-IDF,81,ilhasvajata is the same and the price is affordable,"food, price","food, price",True,0,None,None,0.731806176778059,0.5786429507271792,0.731806176778059,0.0
+TF-IDF,659,their service was great but they could improve their focus on the taste of their food,"food, service","food, service",True,0,None,None,0.7117708282801605,0.6892728291921099,0.7117708282801605,0.0
+TF-IDF,417,the timing of the meal was just right and the total cost was very less per person,"price, service","food, price",False,2,food,service,0.47463758728521077,0.32641981640445134,0.661195314049263,0.6995352699325558
+TF-IDF,637,there is no shortage of shops but i cannot find good food,"food, miscellaneous",food,False,1,None,miscellaneous,0.4369229377513879,0.23881242425355925,0.6350334512492166,0.0
+TF-IDF,682,as the price of this product has increased so has the quality,"food, price","food, price",True,0,None,None,0.7257610713959404,0.7084168373798332,0.7257610713959404,0.0
+TF-IDF,420,if everything is good at the wife s favorite restaurant and especially if the price of the food there is low then what else do husbands need,"price, miscellaneous","food, price",False,2,food,miscellaneous,0.512633890134601,0.38011010537918694,0.5487435363299015,0.45232939776978776
+TF-IDF,669,the food was not good and the service was terrible,"food, service","food, service",True,0,None,None,0.7423949054160599,0.6025561822212211,0.7423949054160599,0.0
+TF-IDF,448,could not be more happy with the waiters service but the taste of the food satisfied me,"food, service","food, service",True,0,None,None,0.7131481454436124,0.6690680183829393,0.7131481454436124,0.0
+TF-IDF,211,the taste is bad and the service is even worse,"food, service","food, service",True,0,None,None,0.7522033584710777,0.7111216058522906,0.7522033584710777,0.0
+TF-IDF,531,the time was good because of the atmosphere of the restaurant and their service was also amazing,"service, ambiance","service, ambiance",True,0,None,None,0.7496558424630545,0.7302380764000124,0.7496558424630545,0.0
+TF-IDF,482,the price may be high but believe me you all play it and you will not like anything else,"food, price","food, price",True,0,None,None,0.7029500758378273,0.6835327861801578,0.7029500758378273,0.0
+TF-IDF,218,customers are happy with the food quality and also happy with the price,"food, price","food, price",True,0,None,None,0.6461454037389753,0.5326040745875341,0.6461454037389753,0.0
+TF-IDF,7,had authentic food and i go twice a month,"food, miscellaneous","food, price",False,2,price,miscellaneous,0.5062439328416539,0.3326297533324043,0.5966569695982267,0.5134558268455499
+TF-IDF,581,the nimkis were very crunchy which everyone liked but it took a long time to wait,"food, service","food, service",True,0,None,None,0.681979571440636,0.6165300340424392,0.681979571440636,0.0
+TF-IDF,101,chicken corn soup is just chicken and corn and the price is not that high,"food, price","food, price",True,0,None,None,0.7682119787983934,0.7623899532330628,0.7682119787983934,0.0
+TF-IDF,323,the food prices in the restaurants in the trade fair are high and the quality is very bad,"food, price","food, price",True,0,None,None,0.655536020712169,0.5529892976763325,0.655536020712169,0.0
+TF-IDF,523,their service quality will not be fair but food quality was good,"food, service","food, service",True,0,None,None,0.7471343683286382,0.7045790464142695,0.7471343683286382,0.0
+TF-IDF,306,the beef was so soft and juicy that i cannot explain it but the price was high,"food, price","food, price",True,0,None,None,0.7263192470720738,0.6404167538544453,0.7263192470720738,0.0
+TF-IDF,329,does not take long to wait and tastes great too,"food, service",food,False,1,None,service,0.5612510561697651,0.49944282980799903,0.6230592825315312,0.0
+TF-IDF,2,food always tastes fresh and served promptly,"food, service","food, service",True,0,None,None,0.6546789057769697,0.5019696417037363,0.6546789057769697,0.0
+TF-IDF,365,food prices are lower than other nearby places but the food is very expensive,price,price,True,0,None,None,0.8110232610620823,0.8110232610620823,0.8110232610620823,0.0
+TF-IDF,412,it is hard to find eggs in egg chop and everything is rotten,food,"food, price",False,1,price,None,0.5406706644997973,0.5406706644997973,0.548760710991046,0.5568507574822946
+TF-IDF,518,just wasted my time because the quality of food was not good and i did not like the environment,"food, ambiance","food, ambiance",True,0,None,None,0.6448533111339453,0.5593766573373594,0.6448533111339453,0.0
+TF-IDF,588,it was very juicy and we were very happy with their delivery speed,"food, service","food, price",False,2,price,service,0.561242306357272,0.47589282414399214,0.5972724296764721,0.5479530707823923
+TF-IDF,434,there was nothing sweet about lachchi and the price was too expensive,"food, price","food, price",True,0,None,None,0.6622326971749586,0.4609945124293555,0.6622326971749586,0.0
+TF-IDF,740,i have never had such good service and the food here is also very good,"food, service","food, service",True,0,None,None,0.658246235443793,0.487195863178775,0.658246235443793,0.0
+TF-IDF,512,the sweets were disgusting and i hated their use,"food, service","food, service",True,0,None,None,0.5460623633221244,0.5397665712571419,0.5460623633221244,0.0
+TF-IDF,360,some fake restaurants and food prices are higher than the original places,"price, miscellaneous","price, ambiance",False,2,ambiance,miscellaneous,0.4710095956936108,0.2639510494472871,0.6221687975570062,0.5662694531740778
