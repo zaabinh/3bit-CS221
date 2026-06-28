@@ -1,6 +1,6 @@
 column,dtype,missing_count,missing_pct,unique_count
 review_en,str,0,0.0,796
-review_cleaned,str,0,0.0,789
+review_cleaned,str,0,0.0,790
 food,int64,0,0.0,2
 price,int64,0,0.0,2
 service,int64,0,0.0,2

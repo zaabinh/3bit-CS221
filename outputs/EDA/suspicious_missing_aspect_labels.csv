@@ -1,9 +1,9 @@
 review_en,review_cleaned,food,price,service,ambiance,miscellaneous,suspected_missing_aspect
 food prices are relatively low and relatively higher than other places,food price relatively low relatively higher place,0,1,0,0,0,food
-the price of the food is not reasonable but i am satisfied with the service,price food reasonable satisfied service,0,1,1,0,0,food
+the price of the food is not reasonable but i am satisfied with the service,price food not reasonable satisfied service,0,1,1,0,0,food
 good atmosphere to hangout but food price is high,good atmosphere hangout food price high,0,1,0,1,0,food
 the location of the restaurant is good and the price of the food is also low,location restaurant good price food also low,0,1,0,0,1,food
-the food is not expensive and there is a good atmosphere for dining with the family,food expensive good atmosphere dining family,0,1,0,1,0,food
+the food is not expensive and there is a good atmosphere for dining with the family,food not expensive good atmosphere dining family,0,1,0,1,0,food
 the decoration of the restaurant is better than before but the price of all the food has increased a bit,decoration restaurant better price food increased bit,0,1,0,1,0,food
 there were many combinations on the menu and the prices were reasonable,many combination menu price reasonable,0,1,0,0,1,food
 lack of professionalism among the staff and food prices are too high,lack professionalism among staff food price high,0,1,1,0,0,food
@@ -18,32 +18,32 @@ we were all very impressed but the food was very expensive,impressed food expens
 food prices are lower than other nearby places but the food is very expensive,food price lower nearby place food expensive,0,1,0,0,0,food
 the atmosphere of the restaurant is very refreshing and the price of the food here is also very good,atmosphere restaurant refreshing price food also good,0,1,0,1,0,food
 i have never seen a cleaner restaurant and the food environment was different,never seen cleaner restaurant food environment different,0,0,0,1,0,food
-the environment of madhuban hotel is not as noisy as the previous hotels and the food prices are also in the middle range,environment madhuban hotel noisy previous hotel food price also middle range,0,1,0,1,0,food
+the environment of madhuban hotel is not as noisy as the previous hotels and the food prices are also in the middle range,environment madhuban hotel not noisy previous hotel food price also middle range,0,1,0,1,0,food
 although i had to spend a little more money this money is nothing in front of the good quality service i got,although spend little money money nothing front good quality service got,0,1,1,0,0,food
 the timing of the meal was just right and the total cost was very less per person,timing meal right total cost less per person,0,1,1,0,0,food
-if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,everything good wife favorite restaurant especially price food low else husband need,0,1,0,0,1,food
+if everything is good at the wife s favorite restaurant and especially if the price of the food there is low then what else do husbands need,everything good wife favorite restaurant especially price food low else husband need,0,1,0,0,1,food
 this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,restaurant cooked foreign cook hence price food bit high,0,1,0,0,1,food
 there is a separate staff to play with the kids in this restaurant and despite all the facilities the food here is reasonably priced,separate staff play kid restaurant despite facility food reasonably priced,0,1,1,0,0,food
-the ac in the restaurant is not working and all the customers are in a bad mood as they wait for a long time for the food,ac restaurant working customer bad mood wait long time food,0,0,1,1,0,food
-food prices have gone up a lot and because of this the popularity of restaurants is not what it used to be,food price gone lot popularity restaurant used,0,1,0,0,1,food
+the ac in the restaurant is not working and all the customers are in a bad mood as they wait for a long time for the food,ac restaurant not working customer bad mood wait long time food,0,0,1,1,0,food
+food prices have gone up a lot and because of this the popularity of restaurants is not what it used to be,food price gone lot popularity restaurant not used,0,1,0,0,1,food
 all the waiters know very well what is on the menu and the restaurant has managed to offer a very good atmosphere to the customers,waiter know well menu restaurant managed offer good atmosphere customer,0,0,1,1,0,food
 ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,ordering lower priced item made waiter experience worse food seemed overpriced,0,1,1,0,0,food
-i did not like it and the food was too expensive including vat,like food expensive including vat,0,1,0,0,1,food
+i did not like it and the food was too expensive including vat,not like food expensive including vat,0,1,0,0,1,food
 food service is very good and their atmosphere is bad,food service good atmosphere bad,0,0,1,1,0,food
 food prices are a little lower than other places and cleanliness is also very good,food price little lower place cleanliness also good,0,1,0,1,0,food
 the staff were rude and the food prices were sky high,staff rude food price sky high,0,1,1,0,0,food
 hard to find a good quality restaurant and the price is fair,hard find good quality restaurant price fair,0,1,0,1,0,food
-in todays time you cannot believe the low price of the food and the atmosphere of the restaurant is also good,today time cannot believe low price food atmosphere restaurant also good,0,1,0,1,0,food
+in today s time you cannot believe the low price of the food and the atmosphere of the restaurant is also good,today time cannot believe low price food atmosphere restaurant also good,0,1,0,1,0,food
 the cleanliness was very poor and the food prices were high,cleanliness poor food price high,0,1,0,1,0,food
 it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,necessary sell land go eat price food high everyone go get touch good environment,0,1,0,1,0,food
 they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,giving free toy child good marketing price food high price toy collected,0,1,0,0,1,food
-food of normal price is very scarce here and they are not treating all the customers well,food normal price scarce treating customer well,0,1,1,0,0,food
+food of normal price is very scarce here and they are not treating all the customers well,food normal price scarce not treating customer well,0,1,1,0,0,food
 also the food is very affordable it is a great atmosphere overall,also food affordable great atmosphere overall,0,1,0,1,0,food
 the restaurant is small but has a lot of expensive items on the menu,restaurant small lot expensive item menu,0,1,0,1,0,food
-the price of the food is not what i would like but the service is good,price food would like service good,0,1,1,0,0,food
+the price of the food is not what i would like but the service is good,price food not would like service good,0,1,1,0,0,food
 the ambiance here is great but the food is a bit expensive,ambiance great food bit expensive,0,1,0,1,0,food
 the restaurant is located in a good area and the food is affordable,restaurant located good area food affordable,0,1,0,0,1,food
-the food is not expensive and has a comfortable atmosphere where you can eat with the family,food expensive comfortable atmosphere eat family,0,1,0,1,0,food
+the food is not expensive and has a comfortable atmosphere where you can eat with the family,food not expensive comfortable atmosphere eat family,0,1,0,1,0,food
 the cake is very expensive but it is more expensive than other cakes,cake expensive expensive cake,0,1,0,0,0,food
 the management of the restaurant knows how to run it well the food comes as soon as the order is placed,management restaurant know run well food come soon order placed,0,0,1,0,0,food
 80 taka per plate of soup but 2 people can eat it if they order any other side dish,80 taka per plate soup 2 people eat order side dish,1,1,0,0,0,service
@@ -54,40 +54,42 @@ the taste of jhalmuri in the restaurant is similar to that of the shops in akala
 the lemon sorbet of this restaurant is very refreshing and the price is also very low,lemon sorbet restaurant refreshing price also low,1,1,0,0,0,ambiance
 food tastes much better and food environment is much better than before,food taste much better food environment much better,1,0,1,0,0,ambiance
 the food quality of the restaurant is average but they know how to provide very good service,food quality restaurant average know provide good service,1,0,1,0,0,ambiance
-i waited so long but i did not get good quality food in this restaurant,waited long get good quality food restaurant,1,0,1,0,0,ambiance
+i waited so long but i did not get good quality food in this restaurant,waited long not get good quality food restaurant,1,0,1,0,0,ambiance
 digital system is being used for all functions including order and payment in this restaurant but the service is getting worse,digital system used function including order payment restaurant service getting worse,0,0,1,0,1,ambiance
 today i found a reasonable restaurant and food quality is good,today found reasonable restaurant food quality good,1,1,0,0,0,ambiance
 the quality of food is good but the restaurant suffers from lack of skilled employees,quality food good restaurant suffers lack skilled employee,1,0,1,0,0,ambiance
 it was understood that the less expensive food can be good but eating the food of this restaurant,understood less expensive food good eating food restaurant,1,1,0,0,0,ambiance
 a restaurant and location is also very good to eat a full stomach with less money,restaurant location also good eat full stomach less money,0,1,0,0,1,ambiance
 the price of the restaurant food was high but at the same time the quality of the food was good,price restaurant food high time quality food good,1,1,0,0,0,ambiance
-the management of the restaurant is not good but the food quality is very good,management restaurant good food quality good,1,0,0,0,1,ambiance
+the management of the restaurant is not good but the food quality is very good,management restaurant not good food quality good,1,0,0,0,1,ambiance
 the best restaurant and the service was the same,best restaurant service,0,0,1,0,1,ambiance
 the shik kababs were very clean and the taste was crispy,shik kababs clean taste crispy,1,0,0,0,0,ambiance
 i cannot believe that i can see bot items in the restaurant but the price is a bit high though,cannot believe see bot item restaurant price bit high though,1,1,0,0,0,ambiance
 the quality of the food was very bad but the restaurant was very expensive,quality food bad restaurant expensive,1,1,0,0,0,ambiance
 the reviews of the restaurant online were bad but i found the quality of the food to be good,review restaurant online bad found quality food good,1,0,0,0,1,ambiance
 food prices here are very low and hence very good restaurant for bachelors,food price low hence good restaurant bachelor,0,1,0,0,1,ambiance
-i have never experienced such harassment in any restaurant before and the quality of the food was not very good,never experienced harassment restaurant quality food good,1,0,1,0,0,ambiance
+i have never experienced such harassment in any restaurant before and the quality of the food was not very good,never experienced harassment restaurant quality food not good,1,0,1,0,0,ambiance
 i came to this restaurant today and saw what is called good service but the price of everything was very high,came restaurant today saw called good service price everything high,0,1,1,0,0,ambiance
-the rules of the restaurant were not very good and the behavior of the employees was also bad,rule restaurant good behavior employee also bad,0,0,1,0,1,ambiance
+the rules of the restaurant were not very good and the behavior of the employees was also bad,rule restaurant not good behavior employee also bad,0,0,1,0,1,ambiance
 today the quality of food is acceptable but the price is very bad experience in this restaurant,today quality food acceptable price bad experience restaurant,1,1,0,0,0,ambiance
 the price of the tacos is higher than the previous restaurant but they ate it because they paid less,price taco higher previous restaurant ate paid less,1,1,0,0,0,ambiance
-if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,everything good wife favorite restaurant especially price food low else husband need,0,1,0,0,1,ambiance
+although the amount of money spent was reasonable the condition of the restaurant s food was quite good,although amount money spent reasonable condition restaurant food quite good,1,1,0,0,0,ambiance
+if everything is good at the wife s favorite restaurant and especially if the price of the food there is low then what else do husbands need,everything good wife favorite restaurant especially price food low else husband need,0,1,0,0,1,ambiance
 people should learn from this restaurant how to cheat people on food taste and price,people learn restaurant cheat people food taste price,1,1,0,0,0,ambiance
 finally what i can say is that like kakali furniture the food in this restaurant is also low in price and good in quality,finally say like kakali furniture food restaurant also low price good quality,1,1,0,0,0,ambiance
 the taste of the food is very bad and the service is full of twelve bells in the restaurant,taste food bad service full twelve bell restaurant,1,0,1,0,0,ambiance
-home cooked food is better than this restaurant and you do not have to wait so long at home,home cooked food better restaurant wait long home,1,0,1,0,0,ambiance
+home cooked food is better than this restaurant and you do not have to wait so long at home,home cooked food better restaurant not wait long home,1,0,1,0,0,ambiance
 this restaurant seems to put all the nearby restaurants out of business with its food taste and service,restaurant seems put nearby restaurant business food taste service,1,0,1,0,0,ambiance
 very good food but the location of the restaurant should have been chosen better,good food location restaurant chosen better,1,0,0,0,1,ambiance
 this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,restaurant cooked foreign cook hence price food bit high,0,1,0,0,1,ambiance
 there is a separate staff to play with the kids in this restaurant and despite all the facilities the food here is reasonably priced,separate staff play kid restaurant despite facility food reasonably priced,0,1,1,0,0,ambiance
 the restaurant is always full of customers because it is so conscious about food quality and customer satisfaction,restaurant always full customer conscious food quality customer satisfaction,1,0,1,0,0,ambiance
 the food of this restaurant created a love for fish in my mind but the price is too high,food restaurant created love fish mind price high,1,1,0,0,0,ambiance
-there are not many options on the menu which is what most customers dislike about this restaurant but the food they do have is very tasty,many option menu customer dislike restaurant food tasty,1,0,0,0,0,ambiance
-if i am ashamed i will not come to this restaurant to experience such bad food and service again,ashamed come restaurant experience bad food service,1,0,1,0,0,ambiance
-no matter how good the service is this restaurant has stolen a lot of food,matter good service restaurant stolen lot food,1,0,1,0,0,ambiance
-there is no room to complain about the food quality and service of this restaurant,room complain food quality service restaurant,1,0,1,0,0,ambiance
+there are not many options on the menu which is what most customers dislike about this restaurant but the food they do have is very tasty,not many option menu customer dislike restaurant food tasty,1,0,0,0,0,ambiance
+as a businessman i can say that i liked the restaurant s business policy and food quality,businessman say liked restaurant business policy food quality,1,0,0,0,1,ambiance
+if i am ashamed i will not come to this restaurant to experience such bad food and service again,ashamed not come restaurant experience bad food service,1,0,1,0,0,ambiance
+no matter how good the service is this restaurant has stolen a lot of food,no matter good service restaurant stolen lot food,1,0,1,0,0,ambiance
+there is no room to complain about the food quality and service of this restaurant,no room complain food quality service restaurant,1,0,1,0,0,ambiance
 they gave us welcome drinks as soon as we sat in the restaurant which i like very much and the rest of their service was also very good,gave u welcome drink soon sat restaurant like much rest service also good,1,0,1,0,0,ambiance
 the smell of the food is tasteless and if i could i would take back the bill that i paid so much,smell food tasteless could would take back bill paid much,1,1,0,0,0,ambiance
 the beef kebab of this restaurant is a must try item and their service quality and speed is very good,beef kebab restaurant must try item service quality speed good,1,0,1,0,0,ambiance
@@ -96,19 +98,19 @@ my home food is more fun than this restaurant and the prices are too expensive f
 from today it is my favorite restaurant because the service here is very bad and the price of everything is very high,today favorite restaurant service bad price everything high,0,1,1,0,0,ambiance
 the service condition was very jose and the location of their restaurant was also very good,service condition jose location restaurant also good,0,0,1,0,1,ambiance
 i was disappointed that the restaurant had so many rules but i enjoyed the food a lot,disappointed restaurant many rule enjoyed food lot,1,0,0,0,1,ambiance
-i would recommend this restaurant for quick delivery and not too expensive,would recommend restaurant quick delivery expensive,0,1,1,0,0,ambiance
+i would recommend this restaurant for quick delivery and not too expensive,would recommend restaurant quick delivery not expensive,0,1,1,0,0,ambiance
 i have never seen a restaurant with such lax staff but everything else was good,never seen restaurant lax staff everything else good,0,0,1,0,1,ambiance
 eating fish in this restaurant made me hate fish even more and i felt like paying such a high price,eating fish restaurant made hate fish even felt like paying high price,1,1,0,0,0,ambiance
 from now on this restaurant is my favorite place because the staff are very friendly and their service is also fast,restaurant favorite place staff friendly service also fast,0,0,1,0,0,ambiance
-this restaurant has a lot of reputation but the food does not say it,restaurant lot reputation food say,1,0,0,0,1,ambiance
-the food was very good but the location of the shop is not good,food good location shop good,1,0,0,0,1,ambiance
+this restaurant has a lot of reputation but the food does not say it,restaurant lot reputation food not say,1,0,0,0,1,ambiance
+the food was very good but the location of the shop is not good,food good location shop not good,1,0,0,0,1,ambiance
 the restaurant is located in a good area and the food is affordable,restaurant located good area food affordable,0,1,0,0,1,ambiance
-this restaurant has no meat in the haleem and the price is higher than other restaurants,restaurant meat haleem price higher restaurant,1,1,0,0,0,ambiance
+this restaurant has no meat in the haleem and the price is higher than other restaurants,restaurant no meat haleem price higher restaurant,1,1,0,0,0,ambiance
 the jhalmuri in the restaurant tastes the same as in the akal shop but the price is higher,jhalmuri restaurant taste akal shop price higher,1,1,0,0,0,ambiance
 the lemonade at this restaurant is very fresh and very cheap,lemonade restaurant fresh cheap,1,1,0,0,0,ambiance
 the number of dishes in the buffet was very high but the price was less than what you would pay in a regular restaurant,number dish buffet high price less would pay regular restaurant,1,1,0,0,0,ambiance
 the food in this restaurant is average but the staff is very good at providing great service,food restaurant average staff good providing great service,1,0,1,0,0,ambiance
-i waited a long time for food at this restaurant but it was not as good as i expected,waited long time food restaurant good expected,1,0,1,0,0,ambiance
+i waited a long time for food at this restaurant but it was not as good as i expected,waited long time food restaurant not good expected,1,0,1,0,0,ambiance
 the use was good but the extra attention the kids had to pay made it worth it,use good extra attention kid pay made worth,0,0,1,0,0,ambiance
 the management of the restaurant knows how to run it well the food comes as soon as the order is placed,management restaurant know run well food come soon order placed,0,0,1,0,0,ambiance
-the food in this restaurant is good but the staff is not very efficient,food restaurant good staff efficient,1,0,1,0,0,ambiance
+the food in this restaurant is good but the staff is not very efficient,food restaurant good staff not efficient,1,0,1,0,0,ambiance

@@ -7,8 +7,8 @@ it is a pretty relaxing place now the food is good,pretty relaxing place food go
 the meat portions were huge although the price was nothing special,meat portion huge although price nothing special,1,1,0,0,0
 the service was inadequate and the food was below average,service inadequate food average,1,0,1,0,0
 had authentic food and i go twice a month,authentic food go twice month,1,0,0,0,1
-there was no atmosphere service was inadequate,atmosphere service inadequate,0,0,1,1,0
-there was no atmosphere and the food was below average,atmosphere food average,1,0,0,1,0
+there was no atmosphere service was inadequate,no atmosphere service inadequate,0,0,1,1,0
+there was no atmosphere and the food was below average,no atmosphere food average,1,0,0,1,0
 love quiet restaurant and for family we go here only to celebrate an occasion,love quiet restaurant family go celebrate occasion,0,0,0,1,1
 i found this block of banquets to be the best they have had i have been eating well for twenty years,found block banquet best eating well twenty year,0,0,0,1,1
 but everything was delicious overall the price was high,everything delicious overall price high,1,1,0,0,0
@@ -16,21 +16,21 @@ dirty service and a clean bathroom,dirty service clean bathroom,0,0,1,1,0
 great food great service,great food great service,1,0,1,0,0
 great food crappy service,great food crappy service,1,0,1,0,0
 great food and a clean bathroom,great food clean bathroom,1,0,0,1,0
-their nachos are very interesting but not everyone is taste is the same,nacho interesting everyone taste,1,0,0,0,1
+their nachos are very interesting but not everyone is taste is the same,nacho interesting not everyone taste,1,0,0,0,1
 your cooked meat has half bones if necessary increase the amount of money a little more,cooked meat half bone necessary increase amount money little,1,1,0,0,0
 several of their items are delicious as well as reasonably priced,several item delicious well reasonably priced,1,1,0,0,0
 good coffee or quiet environment,good coffee quiet environment,1,0,0,1,0
 the steak was delicious and the cost was low,steak delicious cost low,1,1,0,0,0
 bondami service is excluded why is the price so high,bondami service excluded price high,0,1,1,0,0
-dumplings are not very good it is late to pay everything,dumpling good late pay everything,1,0,1,0,0
+dumplings are not very good it is late to pay everything,dumpling not good late pay everything,1,0,1,0,0
 the taste of the food is very bad i have vomited the fries in my mouth,taste food bad vomited fry mouth,1,0,0,0,0
 their kitchen room is hideous everyone will forget the taste of food,kitchen room hideous everyone forget taste food,1,0,0,1,0
 at these prices these royal items are hard to come by,price royal item hard come,1,1,0,0,0
-the taste of the food is not that great but the decoration of the restaurant is very beautiful,taste food great decoration restaurant beautiful,1,0,0,1,0
+the taste of the food is not that great but the decoration of the restaurant is very beautiful,taste food not great decoration restaurant beautiful,1,0,0,1,0
 salt and salt in japanese food is a little less but a new ignorance,salt salt japanese food little less new ignorance,1,0,0,0,1
-the price is right but the test is not the same as before,price right test,1,1,0,0,0
+the price is right but the test is not the same as before,price right test not,1,1,0,0,0
 the biryani rice was fluffy and fluffy but the meat was tough,biryani rice fluffy fluffy meat tough,1,0,0,0,0
-as for the beef the test was very good but the name kalabuna was not right,beef test good name kalabuna right,1,0,0,0,0
+as for the beef the test was very good but the name kalabuna was not right,beef test good name kalabuna not right,1,0,0,0,0
 there is a feeling of home cooking and i like the meat of rajhas,feeling home cooking like meat rajhas,1,0,0,1,0
 every chicken item was very tasty they served the food very quickly,every chicken item tasty served food quickly,1,0,1,0,0
 that test of schizlingter served hot and fresh,test schizlingter served hot fresh,1,0,1,0,0
@@ -39,7 +39,7 @@ the food was cold waited 1 hour on it,food cold waited 1 hour,1,0,1,0,0
 an item was missing the food test is also simple,item missing food test also simple,1,0,0,0,0
 i have been eating bad food with the bill the smell of ginger in chicken fry,eating bad food bill smell ginger chicken fry,1,1,0,0,0
 took so much time to bring food but also fed stale food,took much time bring food also fed stale food,1,0,1,0,0
-there was not even a speck of flesh again the price is so much,even speck flesh price much,1,1,0,0,0
+there was not even a speck of flesh again the price is so much,not even speck flesh price much,1,1,0,0,0
 the sub sandwich was also very good as a prize alhamdulillah the environment is very good,sub sandwich also good prize alhamdulillah environment good,1,0,0,1,0
 all of the burgers were very tasty and the prices were reasonable,burger tasty price reasonable,1,1,0,0,0
 the bbq momo was very juicy and the price was reasonable,bbq momo juicy price reasonable,1,1,0,0,0
@@ -54,130 +54,130 @@ the pizza was like that the shop was also very clean,pizza like shop also clean,
 halim was in one word amazing i became a fan,halim one word amazing became fan,1,0,0,0,1
 the buffet food quality is very good and the interior is also very beautiful,buffet food quality good interior also beautiful,1,0,0,1,0
 all the dishes were very reasonably priced and the interior is also very beautiful,dish reasonably priced interior also beautiful,0,1,0,1,0
-the taste of cow pressure is really mouthwatering and their service was also very fast,taste cow pressure really mouthwatering service also fast,1,0,1,0,0
+the taste of cow pressure is really mouth watering and their service was also very fast,taste cow pressure really mouth watering service also fast,1,0,1,0,0
 the food was good and i am satisfied with the service,food good satisfied service,1,0,1,0,0
 the service was good but they are bad,service good bad,1,0,1,0,0
-nehari is very interesting but the environment is not good,nehari interesting environment good,1,0,0,1,0
+nehari is very interesting but the environment is not good,nehari interesting environment not good,1,0,0,1,0
 their service was excellent but they need to pay more attention to the taste,service excellent need pay attention taste,1,0,1,0,0
-the rice is very flavorful but their service was not good either,rice flavorful service good either,1,0,1,0,0
+the rice is very flavorful but their service was not good either,rice flavorful service not good either,1,0,1,0,0
 the food was very tasty and the staff were very nice,food tasty staff nice,1,0,1,0,0
 the taste of the food is excellent the service is very good,taste food excellent service good,1,0,1,0,0
-the side dishes are not very good but the service is good,side dish good service good,1,0,1,0,0
-the test was fair but their service was not good,test fair service good,1,0,1,0,0
+the side dishes are not very good but the service is good,side dish not good service good,1,0,1,0,0
+the test was fair but their service was not good,test fair service not good,1,0,1,0,0
 their service is great and food quality is good,service great food quality good,1,0,1,0,0
 best chicken pressure the price of 120 rupees seemed right to me,best chicken pressure price 120 rupee seemed right,1,1,0,0,0
 food taste great interior is good,food taste great interior good,1,0,0,1,0
 the barbecue was quite fun the price was a bit high,barbecue quite fun price bit high,1,1,0,0,0
-the price of food was high but the quality was not good,price food high quality good,1,1,0,0,0
+the price of food was high but the quality was not good,price food high quality not good,1,1,0,0,0
 the food was bad and the service even worse,food bad service even worse,1,0,1,0,0
-food is good but environment is not liked,food good environment liked,1,0,0,1,0
+food is good but environment is not liked,food good environment not liked,1,0,0,1,0
 very good prices and good environment too,good price good environment,0,1,0,1,0
 impressed with their use and also impressed with the quality of the food,impressed use also impressed quality food,1,0,1,0,0
-food quality is good but not a family friendly place,food quality good family friendly place,1,0,0,1,0
+food quality is good but not a family friendly place,food quality good not family friendly place,1,0,0,1,0
 i have never eaten such good kachchi in my life even though the price is high,never eaten good kachchi life even though price high,1,1,0,0,0
 the restaurant is small but expensive,restaurant small expensive,0,1,0,1,0
 the environment is bad and the food is also bad,environment bad food also bad,1,0,0,1,0
 amrit taste but the price is a bit high,amrit taste price bit high,1,1,0,0,0
-the quantity of meat was not high but the price was also low,quantity meat high price also low,1,1,0,0,0
+the quantity of meat was not high but the price was also low,quantity meat not high price also low,1,1,0,0,0
 quiet place and good service,quiet place good service,0,0,1,1,0
 ilhasvajata is the same and the price is affordable,ilhasvajata price affordable,1,1,0,0,0
 the fried rice was good but the price was more than necessary,fried rice good price necessary,1,1,0,0,0
 the price has gone up and so has the taste,price gone taste,1,1,0,0,0
-crimsoncups atmosphere is also joss and coffee is joss,crimsoncups atmosphere also joss coffee joss,1,0,0,1,0
-the coffee was too strong which i did not like and the price was high,coffee strong like price high,1,1,0,0,0
+crimsoncup s atmosphere is also joss and coffee is joss,crimsoncup atmosphere also joss coffee joss,1,0,0,1,0
+the coffee was too strong which i did not like and the price was high,coffee strong not like price high,1,1,0,0,0
 there are many items in the same price range that are good and the environment is also fair,many item price range good environment also fair,1,1,0,1,0
 the pancake was better and they served very quickly,pancake better served quickly,1,0,1,0,0
-i had a budget of 300 rupees but did not get the best tasting food here,budget 300 rupee get best tasting food,1,1,0,0,0
+i had a budget of 300 rupees but did not get the best tasting food here,budget 300 rupee not get best tasting food,1,1,0,0,0
 the prices are high and the atmosphere is very hifi,price high atmosphere hifi,0,1,0,1,0
 the quality of the food is bad and the price is also bad,quality food bad price also bad,1,1,0,0,0
 there is a place for kids to play and good food for them too,place kid play good food,1,0,0,1,0
-the taste of lacchita is not good but the atmosphere of the restaurant is not good,taste lacchita good atmosphere restaurant good,1,0,0,1,0
+the taste of lacchita is not good but the atmosphere of the restaurant is not good,taste lacchita not good atmosphere restaurant not good,1,0,0,1,0
 the price has increased but the taste remains the same,price increased taste remains,1,1,0,0,0
-i did not like the taste but the service was good,like taste service good,1,0,1,0,0
+i did not like the taste but the service was good,not like taste service good,1,0,1,0,0
 i saw today that good food is available at low prices and the environment is also good,saw today good food available low price environment also good,1,1,0,1,0
-the food is cheap but i have no doubt that the food is stale,food cheap doubt food stale,1,1,0,0,0
-i have not eaten bharta with so much flavor before and the price is also low,eaten bharta much flavor price also low,1,1,0,0,0
-the seafood taste was good but i did not like the presentation style in the plate,seafood taste good like presentation style plate,1,0,0,0,1
+the food is cheap but i have no doubt that the food is stale,food cheap no doubt food stale,1,1,0,0,0
+i have not eaten bharta with so much flavor before and the price is also low,not eaten bharta much flavor price also low,1,1,0,0,0
+the seafood taste was good but i did not like the presentation style in the plate,seafood taste good not like presentation style plate,1,0,0,0,1
 the price of lasagna is high but it tasted like a piece of bread,price lasagna high tasted like piece bread,1,1,0,0,0
 food prices are relatively low and relatively higher than other places,food price relatively low relatively higher place,0,1,0,0,0
-chicken corn soup is just chicken and corn and the price is not that high,chicken corn soup chicken corn price high,1,1,0,0,0
-the price of the food is not reasonable but i am satisfied with the service,price food reasonable satisfied service,0,1,1,0,0
+chicken corn soup is just chicken and corn and the price is not that high,chicken corn soup chicken corn price not high,1,1,0,0,0
+the price of the food is not reasonable but i am satisfied with the service,price food not reasonable satisfied service,0,1,1,0,0
 good atmosphere to hangout but food price is high,good atmosphere hangout food price high,0,1,0,1,0
-never experienced such friendly service before though food quality was not so good,never experienced friendly service though food quality good,1,0,1,0,0
-the price of chicken pizza is very high but i did not find much chicken in it,price chicken pizza high find much chicken,1,1,0,0,0
+never experienced such friendly service before though food quality was not so good,never experienced friendly service though food quality not good,1,0,1,0,0
+the price of chicken pizza is very high but i did not find much chicken in it,price chicken pizza high not find much chicken,1,1,0,0,0
 best set menu but lack of space in restaurant,best set menu lack space restaurant,1,0,0,1,0
 the quality of kacchi is good but they took a lot of time in delivery,quality kacchi good took lot time delivery,1,0,1,0,0
 the price of the burger was high but the amount of meat was very low,price burger high amount meat low,1,1,0,0,0
 the location of the restaurant is good and the price of the food is also low,location restaurant good price food also low,0,1,0,0,1
 the service was good but i have never seen a restaurant so full of mosquitoes,service good never seen restaurant full mosquito,0,0,1,1,0
-the food was not tasty though the prices were high,food tasty though price high,1,1,0,0,0
+the food was not tasty though the prices were high,food not tasty though price high,1,1,0,0,0
 the price of the salad is very low but the quality is amazing,price salad low quality amazing,1,1,0,0,0
 the cake tastes very good and the atmosphere for the party is also very nice,cake taste good atmosphere party also nice,1,0,0,1,0
-the food is not expensive and there is a good atmosphere for dining with the family,food expensive good atmosphere dining family,0,1,0,1,0
-the price is low but not many customers for the environment which is understandable,price low many customer environment understandable,0,1,0,1,0
-there is no meat in the haleem and the price is much higher than other places,meat haleem price much higher place,1,1,0,0,0
+the food is not expensive and there is a good atmosphere for dining with the family,food not expensive good atmosphere dining family,0,1,0,1,0
+the price is low but not many customers for the environment which is understandable,price low not many customer environment understandable,0,1,0,1,0
+there is no meat in the haleem and the price is much higher than other places,no meat haleem price much higher place,1,1,0,0,0
 nanroti has a lot of butter which adds to the taste but the place where the bread is made is unclean,nanroti lot butter add taste place bread made unclean,1,0,0,1,0
 the steak was very good but the price was too high,steak good price high,1,1,0,0,0
 biryani was average but good value for money,biryani average good value money,1,1,0,0,0
 all items are priced normally and taste normal,item priced normally taste normal,1,1,0,0,0
 the price is only 70 rupees but the taste of nihari is very juicy,price 70 rupee taste nihari juicy,1,1,0,0,0
 the amount of bot is more than this restaurant but the cleanliness here is good,amount bot restaurant cleanliness good,1,0,0,1,0
-the price is high but eating crab is not fun,price high eating crab fun,1,1,0,0,0
+the price is high but eating crab is not fun,price high eating crab not fun,1,1,0,0,0
 the quantity of eggs offered in mogalai is very high and the price is also fair,quantity egg offered mogalai high price also fair,1,1,0,0,0
 the size of shrimp is very small but the price is high,size shrimp small price high,1,1,0,0,0
 loved eating the octopus barbeque although the price was high,loved eating octopus barbeque although price high,1,1,0,0,0
-if you do not eat kalavunata it is really a miss and the price is also reasonable,eat kalavunata really miss price also reasonable,1,1,0,0,0
+if you do not eat kalavunata it is really a miss and the price is also reasonable,not eat kalavunata really miss price also reasonable,1,1,0,0,0
 the portion of the dessert was good and the taste was amazing,portion dessert good taste amazing,1,0,0,0,0
 iftar platters are as bad to eat and expensive too,iftar platter bad eat expensive,1,1,0,0,0
-the food did not match the picture on the menu and the service was also average,food match picture menu service also average,1,0,1,0,0
+the food did not match the picture on the menu and the service was also average,food not match picture menu service also average,1,0,1,0,0
 the fish was rotten and they reduced the price,fish rotten reduced price,1,1,0,0,0
-the prawns were not cleaned properly and there was a very bad smell around,prawn cleaned properly bad smell around,1,0,0,1,0
-there was no mushroom in the mushroom rice and the service was very slow,mushroom mushroom rice service slow,1,0,1,0,0
+the prawns were not cleaned properly and there was a very bad smell around,prawn not cleaned properly bad smell around,1,0,0,1,0
+there was no mushroom in the mushroom rice and the service was very slow,no mushroom mushroom rice service slow,1,0,1,0,0
 very indifferent staff about cleaning and food quality is also very bad,indifferent staff cleaning food quality also bad,1,0,1,0,0
-very poor service and not a kid friendly restaurant,poor service kid friendly restaurant,0,0,1,1,0
+very poor service and not a kid friendly restaurant,poor service not kid friendly restaurant,0,0,1,1,0
 at alupuri the quantity of potatoes was high but the price was normal like other shops,alupuri quantity potato high price normal like shop,1,1,0,0,0
 the price is low and the taste is good,price low taste good,1,1,0,0,0
 the chaomin chicken sizes were good and tasted good too,chaomin chicken size good tasted good,1,0,0,0,0
 the price is so low and the taste is just right,price low taste right,1,1,0,0,0
-the price of the cake per kg is less but the taste is not bad,price cake per kg less taste bad,1,1,0,0,0
+the price of the cake per kg is less but the taste is not bad,price cake per kg less taste not bad,1,1,0,0,0
 chicken rolta tastes good but the price is a bit high,chicken rolta taste good price bit high,1,1,0,0,0
 the price of pakora is only 15 rupees but the taste is much better,price pakora 15 rupee taste much better,1,1,0,0,0
-i was satisfied with polao and the price was not too high,satisfied polao price high,1,1,0,0,0
+i was satisfied with polao and the price was not too high,satisfied polao price not high,1,1,0,0,0
 the stalks are tasteless though large in size,stalk tasteless though large size,1,0,0,0,0
-singarat has a good quantity of cholera and the price is not too high,singarat good quantity cholera price high,1,1,0,0,0
+singarat has a good quantity of cholera and the price is not too high,singarat good quantity cholera price not high,1,1,0,0,0
 6 back beef for 150 taka and the taste is also very good,6 back beef 150 taka taste also good,1,1,0,0,0
-sujan mamas tornado chips cost 20 rupees but the taste is much better,sujan mama tornado chip cost 20 rupee taste much better,1,1,0,0,0
+sujan mama s tornado chips cost 20 rupees but the taste is much better,sujan mama tornado chip cost 20 rupee taste much better,1,1,0,0,0
 the prices here are reasonable and the quality of the set menu is also good,price reasonable quality set menu also good,1,1,0,0,0
-the idea of chicken fries with a burger is not very good and the price is high,idea chicken fry burger good price high,1,1,0,0,0
+the idea of chicken fries with a burger is not very good and the price is high,idea chicken fry burger not good price high,1,1,0,0,0
 the mutton pressure meat was very dry and the price was higher than other restaurants,mutton pressure meat dry price higher restaurant,1,1,0,0,0
-there are no childrens meals on the menu but the ones that are available are reasonably priced,childrens meal menu one available reasonably priced,1,1,0,0,0
+there are no children s meals on the menu but the ones that are available are reasonably priced,no child meal menu one available reasonably priced,1,1,0,0,0
 the quality of the food is bad and so is the behavior of the waiters,quality food bad behavior waiter,1,0,1,0,0
 oil was high on bull pressure but prices were lower than elsewhere,oil high bull pressure price lower elsewhere,1,1,0,0,0
 that and the full amount has been recovered for the fire,full amount recovered fire,1,1,0,0,0
-i did not have peace of mind after having tea in a 5 star hotel and only had to pay 2000 tk,peace mind tea 5 star hotel pay 2000 tk,1,1,0,0,0
+i did not have peace of mind after having tea in a 5 star hotel and only had to pay 2000 tk,not peace mind tea 5 star hotel pay 2000 tk,1,1,0,0,0
 the american burger is simply gorgeous and reasonably priced,american burger simply gorgeous reasonably priced,1,1,0,0,0
 the burger buns are so thin and the price is too high for the taste,burger bun thin price high taste,1,1,0,0,0
-the combination of ingredients is good but the taste is not that good,combination ingredient good taste good,1,0,0,0,0
+the combination of ingredients is good but the taste is not that good,combination ingredient good taste not good,1,0,0,0,0
 the chicken fillet is very juicy but the price is too high,chicken fillet juicy price high,1,1,0,0,0
 the patty of the burger is a bit thicker and the size feels larger because of that,patty burger bit thicker size feel larger,1,0,0,0,0
 the taste of jhalmuri in the restaurant is similar to that of the shops in akala but the price is higher,taste jhalmuri restaurant similar shop akala price higher,1,1,0,0,0
-the meats were raw and their servings were not that good,meat raw serving good,1,0,1,0,0
+the meats were raw and their servings were not that good,meat raw serving not good,1,0,1,0,0
 i have never seen such good service and food quality is also good,never seen good service food quality also good,1,0,1,0,0
 there are many options in the smoothies here and the atmosphere here is also very charming,many option smoothy atmosphere also charming,1,0,0,1,0
 the lemon sorbet of this restaurant is very refreshing and the price is also very low,lemon sorbet restaurant refreshing price also low,1,1,0,0,0
 the kacchi meat was very tender and juicy but the price seemed too low compared to the taste,kacchi meat tender juicy price seemed low compared taste,1,1,0,0,0
-the mint leaf chutney was not there and the funny thing is that it is free no matter how much you take,mint leaf chutney funny thing free matter much take,1,1,0,0,0
+the mint leaf chutney was not there and the funny thing is that it is free no matter how much you take,mint leaf chutney not funny thing free no matter much take,1,1,0,0,0
 the reshmi kebab melts in your mouth and the price is also very good,reshmi kebab melt mouth price also good,1,1,0,0,0
-there are not many vegetarian options and the ones that are are very expensive,many vegetarian option one expensive,1,1,0,0,0
+there are not many vegetarian options and the ones that are are very expensive,not many vegetarian option one expensive,1,1,0,0,0
 had to wait a long time for shik kebab but the taste is much better,wait long time shik kebab taste much better,1,0,1,0,0
-the amount of meat inside the chicken cutlet roll is good and the price is not too high,amount meat inside chicken cutlet roll good price high,1,1,0,0,0
+the amount of meat inside the chicken cutlet roll is good and the price is not too high,amount meat inside chicken cutlet roll good price not high,1,1,0,0,0
 it was good to eat at shalpata and somehow the food tasted a little different,good eat shalpata somehow food tasted little different,1,0,0,0,0
 the meat curry is very salty but all things considered the price is good,meat curry salty thing considered price good,1,1,0,0,0
 fuchka is expensive but fun to eat,fuchka expensive fun eat,1,1,0,0,0
 bad food and bad service,bad food bad service,1,0,1,0,0
 bad food and lazy staff all,bad food lazy staff,1,0,1,0,0
 the number of food in the buffet was very high but the price was less than that,number food buffet high price less,1,1,0,0,0
-i do not know why the basmati rice looked bad but everything else was good,know basmati rice looked bad everything else good,1,0,0,0,1
+i do not know why the basmati rice looked bad but everything else was good,not know basmati rice looked bad everything else good,1,0,0,0,1
 food tastes much better and food environment is much better than before,food taste much better food environment much better,1,0,1,0,0
 very authentic tasting food but reasonably priced,authentic tasting food reasonably priced,1,1,0,0,0
 the price of the cake is unmatched but also more expensive than other places,price cake unmatched also expensive place,1,1,0,0,0
@@ -189,8 +189,8 @@ the decoration of the restaurant is better than before but the price of all the 
 the taste of the food was good but it would have been better if the price was a little more reasonable,taste food good would better price little reasonable,1,1,0,0,0
 the food quality of the restaurant is average but they know how to provide very good service,food quality restaurant average know provide good service,1,0,1,0,0
 the taste is similar to street food but the price is higher,taste similar street food price higher,1,1,0,0,0
-they took a long time to serve but we had no complaints about the taste,took long time serve complaint taste,1,0,1,0,0
-i waited so long but i did not get good quality food in this restaurant,waited long get good quality food restaurant,1,0,1,0,0
+they took a long time to serve but we had no complaints about the taste,took long time serve no complaint taste,1,0,1,0,0
+i waited so long but i did not get good quality food in this restaurant,waited long not get good quality food restaurant,1,0,1,0,0
 the price was high but everyone enjoyed the pizza,price high everyone enjoyed pizza,1,1,0,0,0
 the use was good but the food meant they had to pay more attention,use good food meant pay attention,1,0,1,0,0
 food quality is good but price is high,food quality good price high,1,1,0,0,0
@@ -200,65 +200,65 @@ the ice creams are decent but overpriced,ice cream decent overpriced,1,1,0,0,0
 the curd puffs here are good and the price is quite within the range,curd puff good price quite within range,1,1,0,0,0
 yogurt is bad to eat and the price is so high,yogurt bad eat price high,1,1,0,0,0
 the food is all good and the price is reasonable,food good price reasonable,1,1,0,0,0
-i do not understand how the restaurant runs with such slow service but the atmosphere here is not that bad,understand restaurant run slow service atmosphere bad,0,0,1,1,0
+i do not understand how the restaurant runs with such slow service but the atmosphere here is not that bad,not understand restaurant run slow service atmosphere not bad,0,0,1,1,0
 the service was a little better and the atmosphere was simple,service little better atmosphere simple,0,0,1,1,0
 because the taste is good and the service is good there,taste good service good,1,0,1,0,0
 the taste of kachchi is really unforgettable but the price is very high,taste kachchi really unforgettable price high,1,1,0,0,0
-khasir rezala is only in name but i did not get anything in taste and so it seems the price is low here,khasir rezala name get anything taste seems price low,1,1,0,0,0
-the burgers were very tasty and not too expensive,burger tasty expensive,1,1,0,0,0
+khasir rezala is only in name but i did not get anything in taste and so it seems the price is low here,khasir rezala name not get anything taste seems price low,1,1,0,0,0
+the burgers were very tasty and not too expensive,burger tasty not expensive,1,1,0,0,0
 cleanliness is very much taken care of in this restaurant and the ambience is also very charming,cleanliness much taken care restaurant ambience also charming,0,0,0,1,0
 today i found a reasonable restaurant and food quality is good,today found reasonable restaurant food quality good,1,1,0,0,0
-comillas rasmalai is different and the price is reasonable,comillas rasmalai different price reasonable,1,1,0,0,0
+comilla s rasmalai is different and the price is reasonable,comilla rasmalai different price reasonable,1,1,0,0,0
 the menu is well balanced but the price seems a bit high,menu well balanced price seems bit high,1,1,0,0,0
 the taste is bad and the service is even worse,taste bad service even worse,1,0,1,0,0
-i was not satisfied with the pan pizza but the price was not too much,satisfied pan pizza price much,1,1,0,0,0
+i was not satisfied with the pan pizza but the price was not too much,not satisfied pan pizza price not much,1,1,0,0,0
 sure the price of burgers has gone up but the quality of the food has gone down,sure price burger gone quality food gone,1,1,0,0,0
-the environment around the restaurant is very bad and the quality of the food is not that good,environment around restaurant bad quality food good,1,0,0,1,0
+the environment around the restaurant is very bad and the quality of the food is not that good,environment around restaurant bad quality food not good,1,0,0,1,0
 the food here was the best and the price was reasonable,food best price reasonable,1,1,0,0,0
 the use of basmati rice in biryani has enhanced the taste and increased the price,use basmati rice biryani enhanced taste increased price,1,1,0,0,0
 there were many combinations on the menu and the prices were reasonable,many combination menu price reasonable,0,1,0,0,1
 customers are happy with the food quality and also happy with the price,customer happy food quality also happy price,1,1,0,0,0
-customers are not happy with the food quality and also not happy with the price,customer happy food quality also happy price,1,1,0,0,0
-cannot believe how you can get a set menu for 150 taka and the test is not bad either,cannot believe get set menu 150 taka test bad either,1,1,0,0,0
+customers are not happy with the food quality and also not happy with the price,customer not happy food quality also not happy price,1,1,0,0,0
+cannot believe how you can get a set menu for 150 taka and the test is not bad either,cannot believe get set menu 150 taka test not bad either,1,1,0,0,0
 the atmosphere is better and the service is much better than before,atmosphere better service much better,0,0,1,1,0
-only money can be spent on food but eating it does not fill the mind or stomach,money spent food eating fill mind stomach,1,1,0,0,0
-was not disappointed by the price of the food here and happy with the taste too,disappointed price food happy taste,1,1,0,0,0
+only money can be spent on food but eating it does not fill the mind or stomach,money spent food eating not fill mind stomach,1,1,0,0,0
+was not disappointed by the price of the food here and happy with the taste too,not disappointed price food happy taste,1,1,0,0,0
 meat items are just fat and fat but the price is just too high,meat item fat fat price high,1,1,0,0,0
 god knows how they run the restaurant with stale food and bad environment,god know run restaurant stale food bad environment,1,0,0,1,0
 the quality of food is good but the restaurant suffers from lack of skilled employees,quality food good restaurant suffers lack skilled employee,1,0,1,0,0
-i have never seen such friendly waiters in my life and the quality of their food is not bad,never seen friendly waiter life quality food bad,1,0,1,0,0
-what is the point of hiring more employees if the food does not taste good,point hiring employee food taste good,1,0,1,0,0
-what is the benefit of hiring more employees if the eating environment is not good,benefit hiring employee eating environment good,0,0,1,1,0
+i have never seen such friendly waiters in my life and the quality of their food is not bad,never seen friendly waiter life quality food not bad,1,0,1,0,0
+what is the point of hiring more employees if the food does not taste good,point hiring employee food not taste good,1,0,1,0,0
+what is the benefit of hiring more employees if the eating environment is not good,benefit hiring employee eating environment not good,0,0,1,1,0
 their service is so bad and the food is even worse,service bad food even worse,1,0,1,0,0
-the price of each item is high but i did not like the taste of each item,price item high like taste item,1,1,0,0,0
+the price of each item is high but i did not like the taste of each item,price item high not like taste item,1,1,0,0,0
 i recommend this restaurant to everyone for a nice environment and good quality food,recommend restaurant everyone nice environment good quality food,1,0,0,1,0
 servicing is slow and items are also bad,servicing slow item also bad,1,0,1,0,0
 the environment is ok but the location is very inside the market,environment ok location inside market,0,0,0,1,1
 the waiters were giving very fast refills and the food tasted a little different,waiter giving fast refill food tasted little different,1,0,1,0,0
 the prices are reasonable and the food is good,price reasonable food good,1,1,0,0,0
-the items are not nice to look at and the behavior of the staff is also bad,item nice look behavior staff also bad,1,0,1,0,0
+the items are not nice to look at and the behavior of the staff is also bad,item not nice look behavior staff also bad,1,0,1,0,0
 the employees are more serious about their work and the environment is good here,employee serious work environment good,0,0,1,1,0
 i never imagined the quality of street food to be so good and the price is so low,never imagined quality street food good price low,1,1,0,0,0
 the noodles seemed too oily but everything else was fine,noodle seemed oily everything else fine,1,0,0,0,1
 the price is right but i like the chaomin of street uncles better than this,price right like chaomin street uncle better,1,1,0,0,0
-the price was high for this but the taste was not good at all,price high taste good,1,1,0,0,0
+the price was high for this but the taste was not good at all,price high taste not good,1,1,0,0,0
 the joy of baisakh increased by eating panta at such a reasonable price and good taste,joy baisakh increased eating panta reasonable price good taste,1,1,0,0,0
 it was understood that the less expensive food can be good but eating the food of this restaurant,understood less expensive food good eating food restaurant,1,1,0,0,0
-the quantity of meat in tehari was very high and the price was not so high in comparison,quantity meat tehari high price high comparison,1,1,0,0,0
+the quantity of meat in tehari was very high and the price was not so high in comparison,quantity meat tehari high price not high comparison,1,1,0,0,0
 very professional work done by staff all around and food quality is also very good,professional work done staff around food quality also good,1,0,1,0,0
 the quality of the kebab meat was poor and the waiters were very slow,quality kebab meat poor waiter slow,1,0,1,0,0
 so cheap and the taste is amazing,cheap taste amazing,1,1,0,0,0
-the shik kebabs are fun to eat but the environment in which they are being prepared is not very clean,shik kebab fun eat environment prepared clean,1,0,0,1,0
+the shik kebabs are fun to eat but the environment in which they are being prepared is not very clean,shik kebab fun eat environment prepared not clean,1,0,0,1,0
 the restaurant has quickly earned a name for its good quality food and good ambience,restaurant quickly earned name good quality food good ambience,1,0,0,1,0
 the employees have laziness in their service and the atmosphere is also fair,employee laziness service atmosphere also fair,0,0,1,1,0
 lack of professionalism among the staff and food prices are too high,lack professionalism among staff food price high,0,1,1,0,0
 although the taste is good the price should have been lower,although taste good price lower,1,1,0,0,0
 the decoration was very different and the atmosphere was very lively,decoration different atmosphere lively,0,0,0,1,0
 the ambience of the restaurant is good and that is why the food prices seem so high,ambience restaurant good food price seem high,0,1,0,1,0
-did not see any good items and the employees were not responding well,see good item employee responding well,1,0,1,0,0
+did not see any good items and the employees were not responding well,not see good item employee not responding well,1,0,1,0,0
 you can eat here for a small amount of money and the service is also very good,eat small amount money service also good,0,1,1,0,0
 i never thought that the price of bharta could be so high but the taste was good,never thought price bharta could high taste good,1,1,0,0,0
-there is no bengali food item in the menu but the price seems very low,bengali food item menu price seems low,1,1,0,0,0
+there is no bengali food item in the menu but the price seems very low,no bengali food item menu price seems low,1,1,0,0,0
 a restaurant and location is also very good to eat a full stomach with less money,restaurant location also good eat full stomach less money,0,1,0,0,1
 the prices here are low but the quality of the food is good,price low quality food good,1,1,0,0,0
 mini chinese sets have more options and lower prices,mini chinese set option lower price,1,1,0,0,0
@@ -266,7 +266,7 @@ the quality of the dessert is fair and the price is a bit high compared to that,
 the taste of thai food items is volatile and the ambience is much more volatile,taste thai food item volatile ambience much volatile,1,0,0,1,0
 the price of the restaurant food was high but at the same time the quality of the food was good,price restaurant food high time quality food good,1,1,0,0,0
 hilsa from mawa ghat has a different taste but the price is a bit higher,hilsa mawa ghat different taste price bit higher,1,1,0,0,0
-best borhani in my life and not too expensive,best borhani life expensive,1,1,0,0,0
+best borhani in my life and not too expensive,best borhani life not expensive,1,1,0,0,0
 the price of food is low but the quality of food needs to be looked at,price food low quality food need looked,1,1,0,0,0
 kalavuna had too many spices and the prices were too high,kalavuna many spice price high,1,1,0,0,0
 while the quality of the food was good the ambience of the restaurant was also quite good,quality food good ambience restaurant also quite good,1,0,0,1,0
@@ -277,38 +277,38 @@ it is a good place and the environment is decent,good place environment decent,0
 this is the best place and the food is very reasonably priced,best place food reasonably priced,0,1,0,1,0
 delivery was very good but food quality was average,delivery good food quality average,1,0,1,0,0
 the quality of the food is good but the price is a little more reasonable,quality food good price little reasonable,1,1,0,0,0
-the management of the restaurant is not good but the food quality is very good,management restaurant good food quality good,1,0,0,0,1
+the management of the restaurant is not good but the food quality is very good,management restaurant not good food quality good,1,0,0,0,1
 the food tasted good but the atmosphere was stuffy in the restaurant,food tasted good atmosphere stuffy restaurant,1,0,0,1,0
-the kids options in the menu were good but the ambience was not good,kid option menu good ambience good,1,0,0,1,0
+the kids options in the menu were good but the ambience was not good,kid option menu good ambience not good,1,0,0,1,0
 the taste was slightly different and the staff were very attentive,taste slightly different staff attentive,1,0,1,0,0
 food quality is good and music is also good here,food quality good music also good,1,0,0,1,0
 the best restaurant and the service was the same,best restaurant service,0,0,1,0,1
 the food was very bad and the condition of the restaurant was also bad,food bad condition restaurant also bad,1,0,0,1,0
-there is no extra decoration and the service is decent,extra decoration service decent,0,0,1,1,0
+there is no extra decoration and the service is decent,no extra decoration service decent,0,0,1,1,0
 rajkachuri here is very cheap and tastes amazing,rajkachuri cheap taste amazing,1,1,0,0,0
-the curd in rajkachuri was not good and the price was very high,curd rajkachuri good price high,1,1,0,0,0
+the curd in rajkachuri was not good and the price was very high,curd rajkachuri not good price high,1,1,0,0,0
 the quality of pies in pithagars has gone down but the prices remain the same,quality pie pithagars gone price remain,1,1,0,0,0
-their food quality is bad and service is not as good as before,food quality bad service good,1,0,1,0,0
+their food quality is bad and service is not as good as before,food quality bad service not good,1,0,1,0,0
 the offers here are very good and the environment is also very nice,offer good environment also nice,0,1,0,1,0
 delicious taste and price within budget too,delicious taste price within budget,1,1,0,0,0
-breads are thicker than before and prices have not increased,bread thicker price increased,1,1,0,0,0
+breads are thicker than before and prices have not increased,bread thicker price not increased,1,1,0,0,0
 became a fan of the crispness of the nachos and the good price,became fan crispness nacho good price,1,1,0,0,0
-i have never found their french fries to be good but the prices are not cheap,never found french fry good price cheap,1,1,0,0,0
+i have never found their french fries to be good but the prices are not cheap,never found french fry good price not cheap,1,1,0,0,0
 the price is the same as before but the taste has increased surprisingly,price taste increased surprisingly,1,1,0,0,0
 the price was very low and i was able to eat amazing egg khichuri,price low able eat amazing egg khichuri,1,1,0,0,0
-the onion filling was salty and not worth paying separately,onion filling salty worth paying separately,1,1,0,0,0
+the onion filling was salty and not worth paying separately,onion filling salty not worth paying separately,1,1,0,0,0
 the food is good but the atmosphere of the restaurant is unbearable,food good atmosphere restaurant unbearable,1,0,0,1,0
 each dish is very expensive and because i think there is a candle light dinner,dish expensive think candle light dinner,0,1,0,1,0
 the burger was awkward and the delivery took too long,burger awkward delivery took long,1,0,1,0,0
 the menu is full of bengali food which i like very much and the prices are reasonable,menu full bengali food like much price reasonable,1,1,0,0,0
-the price of octopus is very high but i did not find any taste,price octopus high find taste,1,1,0,0,0
+the price of octopus is very high but i did not find any taste,price octopus high not find taste,1,1,0,0,0
 the shik kababs were very clean and the taste was crispy,shik kababs clean taste crispy,1,0,0,0,0
 the environment is good but the food is expensive,environment good food expensive,0,1,0,1,0
-because the taste is mouthwatering and the price is low,taste mouthwatering price low,1,1,0,0,0
+because the taste is mouth watering and the price is low,taste mouth watering price low,1,1,0,0,0
 the beef was so soft and juicy that i cannot explain it but the price was high,beef soft juicy cannot explain price high,1,1,0,0,0
-steakhouses add other items besides steak and the prices are reasonable,steakhouse add item besides steak price reasonable,1,1,0,0,0
+steak houses add other items besides steak and the prices are reasonable,steak house add item besides steak price reasonable,1,1,0,0,0
 i cannot believe that i can see bot items in the restaurant but the price is a bit high though,cannot believe see bot item restaurant price bit high though,1,1,0,0,0
-that is why the taste is slightly different and the price is same as normal khichuriegg,taste slightly different price normal khichuriegg,1,1,0,0,0
+that is why the taste is slightly different and the price is same as normal khichuri egg,taste slightly different price normal khichuri egg,1,1,0,0,0
 the price of the food is so high and then the amount of vat seems more than other restaurants to me,price food high amount vat seems restaurant,0,1,0,0,0
 gave fair service but the taste of their food was very good,gave fair service taste food good,1,0,1,0,0
 its taste was decent but the price was 1000 rupees which was a bit high,taste decent price 1000 rupee bit high,1,1,0,0,0
@@ -316,46 +316,46 @@ the price of taki fish bharta is 10 tk but the taste is very strong,price taki f
 the price of hilsa fish tail filling was also low and the taste was decent,price hilsa fish tail filling also low taste decent,1,1,0,0,0
 restaurant food quality is good but seating is bad,restaurant food quality good seating bad,1,0,0,1,0
 the quality of the food was very bad but the restaurant was very expensive,quality food bad restaurant expensive,1,1,0,0,0
-the prices were too high to say the least and the quality of the food was not bad,price high say least quality food bad,1,1,0,0,0
-chuijhal spice seems not well used and the atmosphere is not very good,chuijhal spice seems well used atmosphere good,1,0,0,1,0
+the prices were too high to say the least and the quality of the food was not bad,price high say least quality food not bad,1,1,0,0,0
+chui jhal spice seems not well used and the atmosphere is not very good,chui jhal spice seems not well used atmosphere not good,1,0,0,1,0
 the best finny you will ever eat and the price is very low too,best finny ever eat price low,1,1,0,0,0
 the hawaiian sweets were much sweeter and the customers were served very quickly,hawaiian sweet much sweeter customer served quickly,1,0,1,0,0
-everything is more modern but still the atmosphere is not liked by many,everything modern still atmosphere liked many,0,0,0,1,0
-the luchis were not well made and the cost of cow stress was high,luchis well made cost cow stress high,1,1,0,0,0
+everything is more modern but still the atmosphere is not liked by many,everything modern still atmosphere not liked many,0,0,0,1,0
+the luchis were not well made and the cost of cow stress was high,luchis not well made cost cow stress high,1,1,0,0,0
 the food prices in the restaurants in the trade fair are high and the quality is very bad,food price restaurant trade fair high quality bad,1,1,0,0,0
-they have improved the service but the quality of the food has not changed much,improved service quality food changed much,1,0,1,0,0
+they have improved the service but the quality of the food has not changed much,improved service quality food not changed much,1,0,1,0,0
 they have paid attention to the quality of the food but they seem to have forgotten about the service,paid attention quality food seem forgotten service,1,0,1,0,0
-the jhal fry portion was very juicy and the price was within the common mans budget,jhal fry portion juicy price within common man budget,1,1,0,0,0
+the jhal fry portion was very juicy and the price was within the common man s budget,jhal fry portion juicy price within common man budget,1,1,0,0,0
 the head of boal fish was very big and the price was only 150 taka,head boal fish big price 150 taka,1,1,0,0,0
 adding jaggery to vapa pitha has increased the taste and the price is only 7 rupees,adding jaggery vapa pitha increased taste price 7 rupee,1,1,0,0,0
-does not take long to wait and tastes great too,take long wait taste great,1,0,1,0,0
+does not take long to wait and tastes great too,not take long wait taste great,1,0,1,0,0
 they provided good service and their ice creams were also tasty,provided good service ice cream also tasty,1,0,1,0,0
-there was a lot and the quality was not bad,lot quality bad,1,0,0,0,0
+there was a lot and the quality was not bad,lot quality not bad,1,0,0,0,0
 the quality of the food is fair but there is too much traffic for the waiters to use,quality food fair much traffic waiter use,1,0,1,0,0
-the restaurant is very hifi but i do not understand how the price of everything is so low,restaurant hifi understand price everything low,0,1,0,1,0
+the restaurant is very hi fi but i do not understand how the price of everything is so low,restaurant hi fi not understand price everything low,0,1,0,1,0
 the quality of the food here is good and the price is a bit high,quality food good price bit high,1,1,0,0,0
 the reviews of the restaurant online were bad but i found the quality of the food to be good,review restaurant online bad found quality food good,1,0,0,0,1
 the caramel tastes completely different in the coffee and the flavor seems to be better for the surroundings,caramel taste completely different coffee flavor seems better surroundings,1,0,0,1,0
-the food ideas here are very unique and not too expensive,food idea unique expensive,1,1,0,0,0
+the food ideas here are very unique and not too expensive,food idea unique not expensive,1,1,0,0,0
 the taste of the food is bad but the price is sky high,taste food bad price sky high,1,1,0,0,0
 food prices here are very low and hence very good restaurant for bachelors,food price low hence good restaurant bachelor,0,1,0,0,1
-chhola baturas chickpeas are just that and their serving was very fast,chhola baturas chickpea serving fast,1,0,1,0,0
+chhola batura s chickpeas are just that and their serving was very fast,chhola batura chickpea serving fast,1,0,1,0,0
 terrible food and restaurant environment is very bad,terrible food restaurant environment bad,1,0,0,1,0
 earlier only the quality of food was bad and now the service is also bad,earlier quality food bad service also bad,1,0,1,0,0
 orders take slow and the atmosphere feels a bit stuffy,order take slow atmosphere feel bit stuffy,0,0,1,1,0
-all the staff looked very professional but their service was not that good,staff looked professional service good,0,0,1,0,0
+all the staff looked very professional but their service was not that good,staff looked professional service not good,0,0,1,0,0
 the food here is delicious and the price is cheap,food delicious price cheap,1,1,0,0,0
 such hard meat has never been eaten before and the condition of the restaurant is also bad,hard meat never eaten condition restaurant also bad,1,0,0,1,0
-i have never experienced such harassment in any restaurant before and the quality of the food was not very good,never experienced harassment restaurant quality food good,1,0,1,0,0
-i could not find any trace of butter in the butter naan but everything else was good,could find trace butter butter naan everything else good,1,0,0,0,0
+i have never experienced such harassment in any restaurant before and the quality of the food was not very good,never experienced harassment restaurant quality food not good,1,0,1,0,0
+i could not find any trace of butter in the butter naan but everything else was good,could not find trace butter butter naan everything else good,1,0,0,0,0
 i came to this restaurant today and saw what is called good service but the price of everything was very high,came restaurant today saw called good service price everything high,0,1,1,0,0
-they do not pay any attention to the quality of the food but they set the price too high,pay attention quality food set price high,1,1,0,0,0
+they do not pay any attention to the quality of the food but they set the price too high,not pay attention quality food set price high,1,1,0,0,0
 the decoration of the restaurant is very unique and i think it has the best atmosphere,decoration restaurant unique think best atmosphere,0,0,0,1,0
 although there are few employees they are giving very good service to everyone,although employee giving good service everyone,0,0,1,0,0
-the rules of the restaurant were not very good and the behavior of the employees was also bad,rule restaurant good behavior employee also bad,0,0,1,0,1
+the rules of the restaurant were not very good and the behavior of the employees was also bad,rule restaurant not good behavior employee also bad,0,0,1,0,1
 restaurant filled with all useless employees and good atmosphere is also sorely lacking,restaurant filled useless employee good atmosphere also sorely lacking,0,0,1,1,0
 the taste of the food is unmatched and the surroundings are also very beautiful,taste food unmatched surroundings also beautiful,1,0,0,1,0
-the price of the food is high but the quality of the food is not so good,price food high quality food good,1,1,0,0,0
+the price of the food is high but the quality of the food is not so good,price food high quality food not good,1,1,0,0,0
 the atmosphere of the restaurant is a little old fashioned but the taste of the food sticks to the tongue,atmosphere restaurant little old fashioned taste food stick tongue,1,0,0,1,0
 the quantity of food should be less and the focus should be more on service,quantity food less focus service,1,0,1,0,0
 i accept that the price of coffee is low but if i eat badly then it is a problem,accept price coffee low eat badly problem,1,1,0,0,0
@@ -366,9 +366,9 @@ today the quality of food is acceptable but the price is very bad experience in 
 we were all very impressed but the food was very expensive,impressed food expensive,0,1,0,0,1
 food prices are lower than other nearby places but the food is very expensive,food price lower nearby place food expensive,0,1,0,0,0
 the chicken was completely burnt and the service was pretty bad,chicken completely burnt service pretty bad,1,0,1,0,0
-the taste of the sushi was not that great but the atmosphere of the restaurant was so good that i would go there again,taste sushi great atmosphere restaurant good would go,1,0,0,1,0
-within 100 taka you can only get half tehari and no meat in tehari,within 100 taka get half tehari meat tehari,1,1,0,0,0
-i do not like sushi that much but i am satisfied with their service,like sushi much satisfied service,1,0,1,0,0
+the taste of the sushi was not that great but the atmosphere of the restaurant was so good that i would go there again,taste sushi not great atmosphere restaurant good would go,1,0,0,1,0
+within 100 taka you can only get half tehari and no meat in tehari,within 100 taka get half tehari no meat tehari,1,1,0,0,0
+i do not like sushi that much but i am satisfied with their service,not like sushi much satisfied service,1,0,1,0,0
 the french fries taste average but the whole item is overpriced i think,french fry taste average whole item overpriced think,1,1,0,0,0
 the quality is good but the quantity is very low compared to the price,quality good quantity low compared price,1,1,0,0,0
 we all really liked the food and the price was within the range,really liked food price within range,1,1,0,0,0
@@ -379,12 +379,12 @@ the broth of the chicken polao was absolutely delicious and the atmosphere was v
 the place is very classy but there is only 1 item inside 100 taka,place classy 1 item inside 100 taka,0,1,0,1,0
 the brownie was very soft and tasty and the price was only 100 taka,brownie soft tasty price 100 taka,1,1,0,0,0
 the juicy jillapis were full of juice but the price was higher than the hotels outside,juicy jillapis full juice price higher hotel outside,1,1,0,0,0
-the prices are really high and the taste is not much better than the street hotels,price really high taste much better street hotel,1,1,0,0,0
+the prices are really high and the taste is not much better than the street hotels,price really high taste not much better street hotel,1,1,0,0,0
 the amount of chicken in the chicken was incredibly high and the price seemed fair to me,amount chicken chicken incredibly high price seemed fair,1,1,0,0,0
-the dalpuris were not too oily but the price was high,dalpuris oily price high,1,1,0,0,0
+the dalpuris were not too oily but the price was high,dalpuris not oily price high,1,1,0,0,0
 the pizza was huge and cost only 5 rupees,pizza huge cost 5 rupee,1,1,0,0,0
 i have never seen a cleaner restaurant and the food environment was different,never seen cleaner restaurant food environment different,0,0,0,1,0
-the chicken moghlaita was good but by no means a 150 rupee meal,chicken moghlaita good mean 150 rupee meal,1,1,0,0,0
+the chicken moghlaita was good but by no means a 150 rupee meal,chicken moghlaita good no mean 150 rupee meal,1,1,0,0,0
 kebab and luchita together tasted normal but the combo was very good for 50 taka,kebab luchita together tasted normal combo good 50 taka,1,1,0,0,0
 everything is very expensive here and the service is very slow,everything expensive service slow,0,1,1,0,0
 everyone will come here if they want to try jilapi with rabri and the price is very low,everyone come want try jilapi rabri price low,1,1,0,0,0
@@ -393,12 +393,12 @@ there were more or less good ingredients in the soup but the quantity was very l
 i liked both the main and side dishes and was also very happy with their service,liked main side dish also happy service,1,0,1,0,0
 80 taka per plate of soup but 2 people can eat it if they order any other side dish,80 taka per plate soup 2 people eat order side dish,1,1,0,0,0
 the price is a bit high but compared to that the ambience and quantity looks very good,price bit high compared ambience quantity look good,1,1,0,1,0
-i feel like their tacos have improved a lot and the prices have not gone up that much,feel like taco improved lot price gone much,1,1,0,0,0
+i feel like their tacos have improved a lot and the prices have not gone up that much,feel like taco improved lot price not gone much,1,1,0,0,0
 the pizza had too many toppings which kept the taste but we were all disappointed with their service,pizza many topping kept taste disappointed service,1,0,1,0,0
-they tried hard to provide good service but could not succeed due to bad environment,tried hard provide good service could succeed due bad environment,0,0,1,1,0
-i like everything very much but i will deduct a number because the seat is not very comfortable,like everything much deduct number seat comfortable,0,0,0,1,1
+they tried hard to provide good service but could not succeed due to bad environment,tried hard provide good service could not succeed due bad environment,0,0,1,1,0
+i like everything very much but i will deduct a number because the seat is not very comfortable,like everything much deduct number seat not comfortable,0,0,0,1,1
 the price of the tacos is higher than the previous restaurant but they ate it because they paid less,price taco higher previous restaurant ate paid less,1,1,0,0,0
-the chicken in the tacos was not overcooked and the fillings were not that good either,chicken taco overcooked filling good either,1,0,0,0,0
+the chicken in the tacos was not overcooked and the fillings were not that good either,chicken taco not overcooked filling not good either,1,0,0,0,0
 the price has skyrocketed but the taste has gone down to earth,price skyrocketed taste gone earth,1,1,0,0,0
 all things considered it was good and the taste was very authentic,thing considered good taste authentic,1,0,0,0,1
 i liked the idea of them and the taste was good,liked idea taste good,1,0,0,0,1
@@ -407,47 +407,47 @@ if i talk about the taste only i like it and with it i got a touch of homely atm
 the side dishes were very good and the price was much less than i expected,side dish good price much less expected,1,1,0,0,0
 the food is cheap but the taste seemed authentic to me i know why,food cheap taste seemed authentic know,1,1,0,0,0
 the side dishes are better than the main course but the price is reasonable,side dish better main course price reasonable,1,1,0,0,0
-the environment of madhuban hotel is not as noisy as the previous hotels and the food prices are also in the middle range,environment madhuban hotel noisy previous hotel food price also middle range,0,1,0,1,0
-madhubans jhalfry is not comparable to other hotels but the price is a bit higher,madhubans jhalfry comparable hotel price bit higher,1,1,0,0,0
-the environment was very chaotic and the employees did not pay much attention to cleanliness,environment chaotic employee pay much attention cleanliness,0,0,1,1,0
+the environment of madhuban hotel is not as noisy as the previous hotels and the food prices are also in the middle range,environment madhuban hotel not noisy previous hotel food price also middle range,0,1,0,1,0
+madhuban s jhal fry is not comparable to other hotels but the price is a bit higher,madhuban jhal fry not comparable hotel price bit higher,1,1,0,0,0
+the environment was very chaotic and the employees did not pay much attention to cleanliness,environment chaotic employee not pay much attention cleanliness,0,0,1,1,0
 there are many options here for cheap prices and light snacks,many option cheap price light snack,1,1,0,0,0
-it is hard to find eggs in eggchop and everything is rotten,hard find egg eggchop everything rotten,1,0,0,0,0
+it is hard to find eggs in egg chop and everything is rotten,hard find egg egg chop everything rotten,1,0,0,0,0
 seeing the prices go up and the quantity of food go down makes my head spin,seeing price go quantity food go make head spin,1,1,0,0,0
-although the price here is lower than the neighboring shops but the taste of the food is not so good so people gather in the neighboring shops,although price lower neighboring shop taste food good people gather neighboring shop,1,1,0,0,0
+although the price here is lower than the neighboring shops but the taste of the food is not so good so people gather in the neighboring shops,although price lower neighboring shop taste food not good people gather neighboring shop,1,1,0,0,0
 although i had to spend a little more money this money is nothing in front of the good quality service i got,although spend little money money nothing front good quality service got,0,1,1,0,0
-the food was mouthwatering and the prices were not too high,food mouthwatering price high,1,1,0,0,0
+the food was mouthwatering and the prices were not too high,food mouthwatering price not high,1,1,0,0,0
 the timing of the meal was just right and the total cost was very less per person,timing meal right total cost less per person,0,1,1,0,0
-hearing about the price of prawns and the atmosphere of the fat uncles hotel made me want to go there,hearing price prawn atmosphere fat uncle hotel made want go,0,1,0,1,0
-although the amount of money spent was reasonable the condition of the restaurants food was quite good,although amount money spent reasonable condition restaurant food quite good,1,1,0,0,0
-if everything is good at the wifes favorite restaurant and especially if the price of the food there is low then what else do husbands need,everything good wife favorite restaurant especially price food low else husband need,0,1,0,0,1
+hearing about the price of prawns and the atmosphere of the fat uncle s hotel made me want to go there,hearing price prawn atmosphere fat uncle hotel made want go,0,1,0,1,0
+although the amount of money spent was reasonable the condition of the restaurant s food was quite good,although amount money spent reasonable condition restaurant food quite good,1,1,0,0,0
+if everything is good at the wife s favorite restaurant and especially if the price of the food there is low then what else do husbands need,everything good wife favorite restaurant especially price food low else husband need,0,1,0,0,1
 the service was relatively poor but the quality of the food made up for it,service relatively poor quality food made,1,0,1,0,0
-although the quality of the food was not the best and the environment was not that bad,although quality food best environment bad,1,0,0,1,0
+although the quality of the food was not the best and the environment was not that bad,although quality food not best environment not bad,1,0,0,1,0
 the extra jos atmosphere and food quality is also unstable,extra jos atmosphere food quality also unstable,1,0,0,1,0
-the food here tastes a little better but nothing else is quite customerfriendly,food taste little better nothing else quite customerfriendly,1,0,0,0,1
+the food here tastes a little better but nothing else is quite customer friendly,food taste little better nothing else quite customer friendly,1,0,0,0,1
 the price of the food is moderate and the taste is also moderate,price food moderate taste also moderate,1,1,0,0,0
 the restaurant is well decorated beyond words and the quality of the food was much better than i expected,restaurant well decorated beyond word quality food much better expected,1,0,0,1,0
 foreign customers also said that the food tasted very authentic to them and they were also very happy with the behavior of the waiters,foreign customer also said food tasted authentic also happy behavior waiter,1,0,1,0,0
-i do not understand how the staff of the restaurant handled so many customers and the atmosphere of the restaurant was very quiet even though there were many people,understand staff restaurant handled many customer atmosphere restaurant quiet even though many people,0,0,1,1,0
+i do not understand how the staff of the restaurant handled so many customers and the atmosphere of the restaurant was very quiet even though there were many people,not understand staff restaurant handled many customer atmosphere restaurant quiet even though many people,0,0,1,1,0
 people should learn from this restaurant how to cheat people on food taste and price,people learn restaurant cheat people food taste price,1,1,0,0,0
 waiters were nowhere to be found and we were served cold food,waiter nowhere found served cold food,1,0,1,0,0
-the taste of the food was not good and the price was also not good,taste food good price also good,1,1,0,0,0
+the taste of the food was not good and the price was also not good,taste food not good price also not good,1,1,0,0,0
 i spent very little money but it seems like i am eating nectar,spent little money seems like eating nectar,1,1,0,0,0
 finally what i can say is that like kakali furniture the food in this restaurant is also low in price and good in quality,finally say like kakali furniture food restaurant also low price good quality,1,1,0,0,0
 there was nothing sweet about lachchi and the price was too expensive,nothing sweet lachchi price expensive,1,1,0,0,0
 waiting in line for nachos made me cringe but when i finally got to eat the frustration was gone,waiting line nacho made cringe finally got eat frustration gone,1,0,1,0,0
 the taste of the food is very bad and the service is full of twelve bells in the restaurant,taste food bad service full twelve bell restaurant,1,0,1,0,0
-the food was not as good as i thought it was high quality food in a word the taste was normal but the price was not cheap at all,food good thought high quality food word taste normal price cheap,1,1,0,0,0
-no environment and no service,environment service,0,0,1,1,0
-home cooked food is better than this restaurant and you do not have to wait so long at home,home cooked food better restaurant wait long home,1,0,1,0,0
+the food was not as good as i thought it was high quality food in a word the taste was normal but the price was not cheap at all,food not good thought high quality food word taste normal price not cheap,1,1,0,0,0
+no environment and no service,no environment no service,0,0,1,1,0
+home cooked food is better than this restaurant and you do not have to wait so long at home,home cooked food better restaurant not wait long home,1,0,1,0,0
 although the restaurant is very old it has managed to keep its atmosphere as good as before,although restaurant old managed keep atmosphere good,0,0,0,1,0
 although the restaurant is very old it has managed to maintain the quality of the food,although restaurant old managed maintain quality food,1,0,0,1,0
-karim mamas khichuri is a little thinner so the taste is a little different and the price is not that high at just 25,karim mama khichuri little thinner taste little different price high 25,1,1,0,0,0
+karim mama s khichuri is a little thinner so the taste is a little different and the price is not that high at just 25,karim mama khichuri little thinner taste little different price not high 25,1,1,0,0,0
 this restaurant seems to put all the nearby restaurants out of business with its food taste and service,restaurant seems put nearby restaurant business food taste service,1,0,1,0,0
 because the taste of nectar is the same as before but the price has increased a lot,taste nectar price increased lot,1,1,0,0,0
 the ambiance of bhoot adda restaurant is a bit different from other places and the prices are also high,ambiance bhoot adda restaurant bit different place price also high,0,1,0,1,0
 the ghost play that is performed every now and then in bhoot adda attracts more customers and the quality of food is also good there,ghost play performed every bhoot adda attracts customer quality food also good,1,0,0,0,1
 in short the best place for any type of meeting and the experience with customers is also very good,short best place type meeting experience customer also good,0,0,1,1,0
-could not be more happy with the waiters service but the taste of the food satisfied me,could happy waiter service taste food satisfied,1,0,1,0,0
+could not be more happy with the waiters service but the taste of the food satisfied me,could not happy waiter service taste food satisfied,1,0,1,0,0
 very good food but the location of the restaurant should have been chosen better,good food location restaurant chosen better,1,0,0,0,1
 entering the restaurant i got a different atmosphere and also got good quality food,entering restaurant got different atmosphere also got good quality food,1,0,0,1,0
 this restaurant is being cooked by foreign cooks and hence the price of the food is a bit high,restaurant cooked foreign cook hence price food bit high,0,1,0,0,1
@@ -455,59 +455,59 @@ there is a separate staff to play with the kids in this restaurant and despite a
 the restaurant is always full of customers because it is so conscious about food quality and customer satisfaction,restaurant always full customer conscious food quality customer satisfaction,1,0,1,0,0
 the quality of food and their service has changed so much that i cannot help but be happy,quality food service changed much cannot help happy,1,0,1,0,0
 the decoration of the restaurant is very simple but i know why this thing has made the atmosphere here beautiful,decoration restaurant simple know thing made atmosphere beautiful,0,0,0,1,0
-the ac in the restaurant is not working and all the customers are in a bad mood as they wait for a long time for the food,ac restaurant working customer bad mood wait long time food,0,0,1,1,0
-service was good but i found the waiters to be overfriendly,service good found waiter overfriendly,0,0,1,0,0
-the food and ambiance of other restaurants are not even close to this one,food ambiance restaurant even close one,1,0,0,1,0
+the ac in the restaurant is not working and all the customers are in a bad mood as they wait for a long time for the food,ac restaurant not working customer bad mood wait long time food,0,0,1,1,0
+service was good but i found the waiters to be over friendly,service good found waiter friendly,0,0,1,0,0
+the food and ambiance of other restaurants are not even close to this one,food ambiance restaurant not even close one,1,0,0,1,0
 the food of this restaurant created a love for fish in my mind but the price is too high,food restaurant created love fish mind price high,1,1,0,0,0
-food prices have gone up a lot and because of this the popularity of restaurants is not what it used to be,food price gone lot popularity restaurant used,0,1,0,0,1
+food prices have gone up a lot and because of this the popularity of restaurants is not what it used to be,food price gone lot popularity restaurant not used,0,1,0,0,1
 the mind was full before the stomach by eating the food but it cost a lot of money,mind full stomach eating food cost lot money,1,1,0,0,0
-the outer layer of the dumpling was very thick and tasty to eat and did not have to wait too long for the food,outer layer dumpling thick tasty eat wait long food,1,0,1,0,0
-there are not many options on the menu which is what most customers dislike about this restaurant but the food they do have is very tasty,many option menu customer dislike restaurant food tasty,1,0,0,0,0
-as a businessman i can say that i liked the restaurants business policy and food quality,businessman say liked restaurant business policy food quality,1,0,0,0,1
+the outer layer of the dumpling was very thick and tasty to eat and did not have to wait too long for the food,outer layer dumpling thick tasty eat not wait long food,1,0,1,0,0
+there are not many options on the menu which is what most customers dislike about this restaurant but the food they do have is very tasty,not many option menu customer dislike restaurant food tasty,1,0,0,0,0
+as a businessman i can say that i liked the restaurant s business policy and food quality,businessman say liked restaurant business policy food quality,1,0,0,0,1
 they have kept the price low but they have mixed a lot of fruits in faluda,kept price low mixed lot fruit faluda,1,1,0,0,0
-the taste shows the original mothers stock rasmalai and the price is very reasonable,taste show original mother stock rasmalai price reasonable,1,1,0,0,0
-if i am ashamed i will not come to this restaurant to experience such bad food and service again,ashamed come restaurant experience bad food service,1,0,1,0,0
-the price of food at boomers cafe is so high but the quantity of food is disappointing,price food boomer cafe high quantity food disappointing,1,1,0,0,0
-no matter how good the service is this restaurant has stolen a lot of food,matter good service restaurant stolen lot food,1,0,1,0,0
+the taste shows the original mother s stock rasmalai and the price is very reasonable,taste show original mother stock rasmalai price reasonable,1,1,0,0,0
+if i am ashamed i will not come to this restaurant to experience such bad food and service again,ashamed not come restaurant experience bad food service,1,0,1,0,0
+the price of food at boomer s cafe is so high but the quantity of food is disappointing,price food boomer cafe high quantity food disappointing,1,1,0,0,0
+no matter how good the service is this restaurant has stolen a lot of food,no matter good service restaurant stolen lot food,1,0,1,0,0
 they are providing slow service but still taking care of customer needs,providing slow service still taking care customer need,0,0,1,0,0
 first i was upset by the price of the food and then after eating the food i was even more upset,first upset price food eating food even upset,1,1,0,0,0
-there is no room to complain about the food quality and service of this restaurant,room complain food quality service restaurant,1,0,1,0,0
+there is no room to complain about the food quality and service of this restaurant,no room complain food quality service restaurant,1,0,1,0,0
 every item tasted amazing and their workmanship was better than other places,every item tasted amazing workmanship better place,1,0,1,0,0
 i spent a lot of money but i got bad food,spent lot money got bad food,1,1,0,0,0
-i could not cut any numbers in the environment and service of the restaurant,could cut number environment service restaurant,0,0,1,1,0
+i could not cut any numbers in the environment and service of the restaurant,could not cut number environment service restaurant,0,0,1,1,0
 all restaurants need to learn how to cook steak from them and have a very charming atmosphere,restaurant need learn cook steak charming atmosphere,1,0,0,1,0
 all the waiters know very well what is on the menu and the restaurant has managed to offer a very good atmosphere to the customers,waiter know well menu restaurant managed offer good atmosphere customer,0,0,1,1,0
 they gave us welcome drinks as soon as we sat in the restaurant which i like very much and the rest of their service was also very good,gave u welcome drink soon sat restaurant like much rest service also good,1,0,1,0,0
 ordering lower priced items made the waiters experience worse and most of the food seemed overpriced,ordering lower priced item made waiter experience worse food seemed overpriced,0,1,1,0,0
 the inside of the steak was very pink and the servers were very polite,inside steak pink server polite,1,0,1,0,0
-we were all crushed by the taste and quantity of mejbanihaleem and the price was also low,crushed taste quantity mejbanihaleem price also low,1,1,0,0,0
-the price may be high but believe me you all play it and you will not like anything else,price may high believe play like anything else,1,1,0,0,0
-i did not like it and the food was too expensive including vat,like food expensive including vat,0,1,0,0,1
+we were all crushed by the taste and quantity of mejbani haleem and the price was also low,crushed taste quantity mejbani haleem price also low,1,1,0,0,0
+the price may be high but believe me you all play it and you will not like anything else,price may high believe play not like anything else,1,1,0,0,0
+i did not like it and the food was too expensive including vat,not like food expensive including vat,0,1,0,0,1
 the fried chicken is a bit different and the price is much lower than other restaurants,fried chicken bit different price much lower restaurant,1,1,0,0,0
 their specialty is mushroom soup i can tell by eating it and the price of the item was very reasonable,specialty mushroom soup tell eating price item reasonable,1,1,0,0,0
 none of us liked the fried rice khelam ki vishiri and everything else,none u liked fried rice khelam ki vishiri everything else,1,0,0,0,0
 the first experience of tea with malai almonds was very good and the price of tea is very low,first experience tea malai almond good price tea low,1,1,0,0,0
-maina mamas special halim had enough meat and the price was under 100 rupees,maina mama special halim enough meat price 100 rupee,1,1,0,0,0
-the idea of making haleem is unique but i do not like the taste much,idea making haleem unique like taste much,1,0,0,0,0
+maina mama s special halim had enough meat and the price was under 100 rupees,maina mama special halim enough meat price 100 rupee,1,1,0,0,0
+the idea of making haleem is unique but i do not like the taste much,idea making haleem unique not like taste much,1,0,0,0,0
 halim is very strict but i disliked the cleanliness aspect,halim strict disliked cleanliness aspect,1,0,0,1,0
 today is the first time i saw this restaurant that the environment can be so good and the price is quite within the range,today first time saw restaurant environment good price quite within range,0,1,0,1,0
-they are selling upma at the price of water but i did not find any sign of nuts in it,selling upma price water find sign nut,1,1,0,0,0
-uncles paan shop looks very colorful and we are all impressed by the speed of his paan making,uncle paan shop look colorful impressed speed paan making,0,0,1,1,0
+they are selling upma at the price of water but i did not find any sign of nuts in it,selling upma price water not find sign nut,1,1,0,0,0
+uncle s paan shop looks very colorful and we are all impressed by the speed of his paan making,uncle paan shop look colorful impressed speed paan making,0,0,1,1,0
 the smell of the food is tasteless and if i could i would take back the bill that i paid so much,smell food tasteless could would take back bill paid much,1,1,0,0,0
 the size of the bag is small and hence the price is right for me,size bag small hence price right,1,1,0,0,0
 the kebab looks very tasty and the price is similar to other restaurants,kebab look tasty price similar restaurant,1,1,0,0,0
 the beef kebab of this restaurant is a must try item and their service quality and speed is very good,beef kebab restaurant must try item service quality speed good,1,0,1,0,0
-the chickenballs had a good texture but the taste was not that good,chickenballs good texture taste good,1,0,0,0,0
-and i do not like the meat of rajhas so much but this is good,like meat rajhas much good,1,0,0,0,0
+the chicken balls had a good texture but the taste was not that good,chicken ball good texture taste not good,1,0,0,0,0
+and i do not like the meat of rajhas so much but this is good,not like meat rajhas much good,1,0,0,0,0
 the price of the pizza was high but the taste was good though,price pizza high taste good though,1,1,0,0,0
 everything is reasonably priced and the ambiance of the restaurant is also good,everything reasonably priced ambiance restaurant also good,0,1,0,1,0
-the amount of salt in the food was too bad and the environment was not good for children,amount salt food bad environment good child,1,0,0,1,0
+the amount of salt in the food was too bad and the environment was not good for children,amount salt food bad environment not good child,1,0,0,1,0
 the food was good but still we felt overcharged,food good still felt overcharged,1,1,0,0,0
 the food is plentiful and the prices are affordable,food plentiful price affordable,1,1,0,0,0
 there is a lot of variety in the taste of the food and the behavior of the staff was also very good,lot variety taste food behavior staff also good,1,0,1,0,0
 i could eat such good tasting food with my friends after a long time and their service was also amazing,could eat good tasting food friend long time service also amazing,1,0,1,0,0
 food service is very good and their atmosphere is bad,food service good atmosphere bad,0,0,1,1,0
-i do not understand how the food is so bad and the price is too high,understand food bad price high,1,1,0,0,0
+i do not understand how the food is so bad and the price is too high,not understand food bad price high,1,1,0,0,0
 food prices are a little lower than other places and cleanliness is also very good,food price little lower place cleanliness also good,0,1,0,1,0
 biryani is cheap but at the same time the quantity of meat is also less,biryani cheap time quantity meat also less,1,1,0,0,0
 the quality of the food was average but the prices were high,quality food average price high,1,1,0,0,0
@@ -516,74 +516,74 @@ the food tasted so good that i was happy and i was giving them gratuity for good
 the staff were rude and the food prices were sky high,staff rude food price sky high,0,1,1,0,0
 the price is steep but the taste is good,price steep taste good,1,1,0,0,0
 hard to find a good quality restaurant and the price is fair,hard find good quality restaurant price fair,0,1,0,1,0
-in todays time you cannot believe the low price of the food and the atmosphere of the restaurant is also good,today time cannot believe low price food atmosphere restaurant also good,0,1,0,1,0
-just wasted my time because the quality of food was not good and i did not like the environment,wasted time quality food good like environment,1,0,0,1,0
+in today s time you cannot believe the low price of the food and the atmosphere of the restaurant is also good,today time cannot believe low price food atmosphere restaurant also good,0,1,0,1,0
+just wasted my time because the quality of food was not good and i did not like the environment,wasted time quality food not good not like environment,1,0,0,1,0
 there are many items of food and the prices are also within the range which is good,many item food price also within range good,1,1,0,0,0
 it was good to get the service in a very short time but the restaurant felt bad for the high price,good get service short time restaurant felt bad high price,0,1,1,0,0
 there was unrest among the employees which was bad and the atmosphere was bad for me,unrest among employee bad atmosphere bad,0,0,1,1,0
 personally i like the atmosphere of the restaurant but the taste of the food is bad,personally like atmosphere restaurant taste food bad,1,0,0,1,0
-their service quality will not be fair but food quality was good,service quality fair food quality good,1,0,1,0,0
+their service quality will not be fair but food quality was good,service quality not fair food quality good,1,0,1,0,0
 my kids love the atmosphere of the restaurant and the food here is very healthy for kids,kid love atmosphere restaurant food healthy kid,1,0,0,1,0
-shahi khichuri did not have shahibhav so bad but their service is so good that i am impressed,shahi khichuri shahibhav bad service good impressed,1,0,1,0,0
+shahi khichuri did not have shahibhav so bad but their service is so good that i am impressed,shahi khichuri not shahibhav bad service good impressed,1,0,1,0,0
 they were very bad in terms of service but good in terms of food quality,bad term service good term food quality,1,0,1,0,0
 the cleanliness was very poor and the food prices were high,cleanliness poor food price high,0,1,0,1,0
-great serving of food but did not like the taste of my food,great serving food like taste food,1,0,1,0,0
+great serving of food but did not like the taste of my food,great serving food not like taste food,1,0,1,0,0
 my home food is more fun than this restaurant and the prices are too expensive for me,home food fun restaurant price expensive,1,1,0,0,0
 in the name of polao they are feeding rice to the customers but they are charging high prices,name polao feeding rice customer charging high price,1,1,0,0,0
 the time was good because of the atmosphere of the restaurant and their service was also amazing,time good atmosphere restaurant service also amazing,0,0,1,1,0
 from today it is my favorite restaurant because the service here is very bad and the price of everything is very high,today favorite restaurant service bad price everything high,0,1,1,0,0
 the taste of ice cream is still on my tongue i was so excited but the environment of their shop was very bad,taste ice cream still tongue excited environment shop bad,1,0,0,1,0
-the food is not as good as before and their service is also bad today,food good service also bad today,1,0,1,0,0
-i never thought i would get such good quality food near home and the price is not so high,never thought would get good quality food near home price high,1,1,0,0,0
-i do not think that such bad quality food can be in the restaurant and the place is also very strange,think bad quality food restaurant place also strange,1,0,0,1,0
+the food is not as good as before and their service is also bad today,food not good service also bad today,1,0,1,0,0
+i never thought i would get such good quality food near home and the price is not so high,never thought would get good quality food near home price not high,1,1,0,0,0
+i do not think that such bad quality food can be in the restaurant and the place is also very strange,not think bad quality food restaurant place also strange,1,0,0,1,0
 the restaurant is my favorite because it has a good atmosphere to hang out and their service is very good,restaurant favorite good atmosphere hang service good,0,0,1,1,0
 the service condition was very jose and the location of their restaurant was also very good,service condition jose location restaurant also good,0,0,1,0,1
 drinks were expensive but tasted good though,drink expensive tasted good though,1,1,0,0,0
 by looking at the crowd it is clear that there is a lot of good quality food available here and the price is also very low,looking crowd clear lot good quality food available price also low,1,1,0,0,0
 the menu of chinese food here is very good and the atmosphere is also charming,menu chinese food good atmosphere also charming,1,0,0,1,0
 the staff behaved very badly with everyone and the environment of their restaurant was also very disgusting,staff behaved badly everyone environment restaurant also disgusting,0,0,1,1,0
-i liked the fruit juice very much but was not completely happy because their service quality was so bad,liked fruit juice much completely happy service quality bad,1,0,1,0,0
+i liked the fruit juice very much but was not completely happy because their service quality was so bad,liked fruit juice much not completely happy service quality bad,1,0,1,0,0
 the taste quality of the restaurant food has increased and at the same time the ambiance of their restaurant has also improved a lot,taste quality restaurant food increased time ambiance restaurant also improved lot,1,0,0,1,0
 they are selling rotten food in the name of japanese food the taste is so weird and the service is even worse,selling rotten food name japanese food taste weird service even worse,1,0,1,0,0
 sharma had a lot of meat and was served very quickly by the staff,sharma lot meat served quickly staff,1,0,1,0,0
-the quality of food is not as good as it used to be and they are lagging behind in terms of cleanliness,quality food good used lagging behind term cleanliness,1,0,0,1,0
-there is no sweetness in the laddu bro and the price is so high that i am disappointed,sweetness laddu bro price high disappointed,1,1,0,0,0
-i did not understand why my friends told me to come to such a bad place but the staff were very quick,understand friend told come bad place staff quick,0,0,1,1,0
+the quality of food is not as good as it used to be and they are lagging behind in terms of cleanliness,quality food not good used lagging behind term cleanliness,1,0,0,1,0
+there is no sweetness in the laddu bro and the price is so high that i am disappointed,no sweetness laddu bro price high disappointed,1,1,0,0,0
+i did not understand why my friends told me to come to such a bad place but the staff were very quick,not understand friend told come bad place staff quick,0,0,1,1,0
 the restaurant is a perfect place to have food but there is a lot of lack of space here,restaurant perfect place food lot lack space,1,0,0,1,0
 the food here is worse than jail food and the service is horrible,food worse jail food service horrible,1,0,1,0,0
 the condition of cleanliness is worse in barota bazar and the condition of the environment is worse,condition cleanliness worse barota bazar condition environment worse,0,0,0,1,0
-the amount of food was so much that it is beyond explanation but i do not understand how the price is so low,amount food much beyond explanation understand price low,1,1,0,0,0
+the amount of food was so much that it is beyond explanation but i do not understand how the price is so low,amount food much beyond explanation not understand price low,1,1,0,0,0
 it has all the qualities of a 5 star hotel because i have never found such good food and good environment anywhere before,quality 5 star hotel never found good food good environment anywhere,1,0,0,1,0
-the staff served us the food in a short time but the food had no taste at all,staff served u food short time food taste,1,0,1,0,0
+the staff served us the food in a short time but the food had no taste at all,staff served u food short time food no taste,1,0,1,0,0
 today i ate here and realized that the lack of salt in the food spoils the taste of the food and there were many mistakes in their serving,today ate realized lack salt food spoil taste food many mistake serving,1,0,1,0,0
 skilled staff have improved the restaurant in terms of ambience but the quality of the food remains poor,skilled staff improved restaurant term ambience quality food remains poor,1,0,0,1,0
-the taste of their food has improved a lot from before but i do not understand why they are not making the restaurant area bigger,taste food improved lot understand making restaurant area bigger,1,0,0,1,0
-i do not want to come here for the bad atmosphere but the food tastes good,want come bad atmosphere food taste good,1,0,0,1,0
+the taste of their food has improved a lot from before but i do not understand why they are not making the restaurant area bigger,taste food improved lot not understand not making restaurant area bigger,1,0,0,1,0
+i do not want to come here for the bad atmosphere but the food tastes good,not want come bad atmosphere food taste good,1,0,0,1,0
 the environment of the restaurant smells like cowshed and the food tastes like bomb,environment restaurant smell like cowshed food taste like bomb,1,0,0,1,0
-even animals will not eat such disgusting food and at the same time they are keeping the price too high,even animal eat disgusting food time keeping price high,1,1,0,0,0
+even animals will not eat such disgusting food and at the same time they are keeping the price too high,even animal not eat disgusting food time keeping price high,1,1,0,0,0
 i was disappointed that the restaurant had so many rules but i enjoyed the food a lot,disappointed restaurant many rule enjoyed food lot,1,0,0,0,1
-the old things in the restaurant were spoiling the atmosphere and the service of the staff was not very good,old thing restaurant spoiling atmosphere service staff good,0,0,1,1,0
-if the khichuri here is not available in the rain i do not like the taste of their khichuri but it takes a lot of time to deliver,khichuri available rain like taste khichuri take lot time deliver,1,0,1,0,0
+the old things in the restaurant were spoiling the atmosphere and the service of the staff was not very good,old thing restaurant spoiling atmosphere service staff not good,0,0,1,1,0
+if the khichuri here is not available in the rain i do not like the taste of their khichuri but it takes a lot of time to deliver,khichuri not available rain not like taste khichuri take lot time deliver,1,0,1,0,0
 in summer the situation is very bad all the customers had such a hot environment and the work of the employees is very slow,summer situation bad customer hot environment work employee slow,0,0,1,1,0
-the space of the restaurant has increased but the taste has not increased,space restaurant increased taste increased,1,0,0,1,0
-this umbrella grill does not like to eat so badly and the price is as high as the price of gold,umbrella grill like eat badly price high price gold,1,1,0,0,0
+the space of the restaurant has increased but the taste has not increased,space restaurant increased taste not increased,1,0,0,1,0
+this umbrella grill does not like to eat so badly and the price is as high as the price of gold,umbrella grill not like eat badly price high price gold,1,1,0,0,0
 it is necessary to sell the land and go here to eat the price of food is so high but everyone goes here to get the touch of a good environment,necessary sell land go eat price food high everyone go get touch good environment,0,1,0,1,0
 they are giving free toys to children which is good for marketing but the price of food is high and the price of toys is being collected,giving free toy child good marketing price food high price toy collected,0,1,0,0,1
 free wifi is newly added here for which feels good and also enjoying the environment well,free wifi newly added feel good also enjoying environment well,0,0,0,1,1
 it is so bad that they show food in the menu one way and give us another way and their behavior is also disliked by everyone,bad show food menu one way give u another way behavior also disliked everyone,1,0,1,0,0
 wanting to abuse the food their taste is so bad and the prices are set abominably,wanting abuse food taste bad price set abominably,1,1,0,0,0
 toxic environment and poor service,toxic environment poor service,0,0,1,1,0
-the place is decent but there was no good environment to take pictures,place decent good environment take picture,0,0,0,1,0
+the place is decent but there was no good environment to take pictures,place decent no good environment take picture,0,0,0,1,0
 the new item at rs 450 has caught everyone is attention because it tastes so good and the price is right in comparison,new item r 450 caught everyone attention taste good price right comparison,1,1,0,0,0
-the price of the food was not that bad but the quality was very bad,price food bad quality bad,1,1,0,0,0
-i would recommend this restaurant for quick delivery and not too expensive,would recommend restaurant quick delivery expensive,0,1,1,0,0
-i liked the words and work of the staff but the food was not so good,liked word work staff food good,1,0,1,0,0
+the price of the food was not that bad but the quality was very bad,price food not bad quality bad,1,1,0,0,0
+i would recommend this restaurant for quick delivery and not too expensive,would recommend restaurant quick delivery not expensive,0,1,1,0,0
+i liked the words and work of the staff but the food was not so good,liked word work staff food not good,1,0,1,0,0
 it was bad habit to have insects in the food and the price was high,bad habit insect food price high,1,1,0,0,0
 great atmosphere but the food is average,great atmosphere food average,1,0,0,1,0
 the nimkis were very crunchy which everyone liked but it took a long time to wait,nimkis crunchy everyone liked took long time wait,1,0,1,0,0
 the quality of the masala chicken is as good as its name and the price was reasonable,quality masala chicken good name price reasonable,1,1,0,0,0
 the food was supreme in taste and the price was also supreme,food supreme taste price also supreme,1,1,0,0,0
-the staff took a long time to serve the food and the food was not cooked well,staff took long time serve food food cooked well,1,0,1,0,0
+the staff took a long time to serve the food and the food was not cooked well,staff took long time serve food food not cooked well,1,0,1,0,0
 the menu and the place are suffocating full of junk food,menu place suffocating full junk food,1,0,0,1,0
 the sizes of their chapatis were very large and the prices were also very large in size,size chapati large price also large size,1,1,0,0,0
 the taste of the food was so shockingly good that i cannot explain but it took a lot of waiting to get the service,taste food shockingly good cannot explain took lot waiting get service,1,0,1,0,0
@@ -592,7 +592,7 @@ i have never seen a restaurant with such lax staff but everything else was good,
 eating fish in this restaurant made me hate fish even more and i felt like paying such a high price,eating fish restaurant made hate fish even felt like paying high price,1,1,0,0,0
 i got everything here as people said and that is unsurpassed quality food and huge discount in price,got everything people said unsurpassed quality food huge discount price,1,1,0,0,0
 they are giving a lot of discount on the price which is very popular and everyone likes their food,giving lot discount price popular everyone like food,1,1,0,0,0
-food of normal price is very scarce here and they are not treating all the customers well,food normal price scarce treating customer well,0,1,1,0,0
+food of normal price is very scarce here and they are not treating all the customers well,food normal price scarce not treating customer well,0,1,1,0,0
 i ate dumba meat for the first time in my life and i liked the taste but it cost me a lot of money,ate dumba meat first time life liked taste cost lot money,1,1,0,0,0
 from now on this restaurant is my favorite place because the staff are very friendly and their service is also fast,restaurant favorite place staff friendly service also fast,0,0,1,0,0
 they seem to have improved the taste of the food cooked in the clay pot and it was heartening to hear such a low price,seem improved taste food cooked clay pot heartening hear low price,1,1,0,0,0
@@ -600,15 +600,15 @@ their cooking is different but the employees have to pay more attention to clean
 it was a good experience eating here but the service needs to be a little faster,good experience eating service need little faster,1,0,1,0,0
 the pizza was delicious but the experience was horrible,pizza delicious experience horrible,1,0,0,0,1
 the food was very good but the price was high,food good price high,1,1,0,0,0
-the food was good but the atmosphere was not so good,food good atmosphere good,1,0,0,1,0
+the food was good but the atmosphere was not so good,food good atmosphere not good,1,0,0,1,0
 food is always good and served promptly,food always good served promptly,1,0,1,0,0
 the prices are very good and the service is excellent,price good service excellent,0,1,1,0,0
 the restaurant is doing a great job with the food now so it is a more relaxed place,restaurant great job food relaxed place,1,0,0,1,0
-although the price was not high the meat portions were huge,although price high meat portion huge,1,1,0,0,0
-service was not good food was not good either,service good food good either,1,0,1,0,0
+although the price was not high the meat portions were huge,although price not high meat portion huge,1,1,0,0,0
+service was not good food was not good either,service not good food not good either,1,0,1,0,0
 small shop but sells food that is really good,small shop sell food really good,1,0,0,1,0
-the restaurant did not have much atmosphere and the service was slow,restaurant much atmosphere service slow,0,0,1,1,0
-the restaurant had no air and the food was not very good,restaurant air food good,1,0,0,1,0
+the restaurant did not have much atmosphere and the service was slow,restaurant not much atmosphere service slow,0,0,1,1,0
+the restaurant had no air and the food was not very good,restaurant no air food not good,1,0,0,1,0
 when we want to celebrate something quietly,want celebrate something quietly,0,0,0,1,1
 i have been eating well for twenty years and this feast was the best i have ever had,eating well twenty year feast best ever,1,0,0,0,0
 the food was delicious but the price was a bit high,food delicious price bit high,1,1,0,0,0
@@ -616,29 +616,29 @@ if you want to enjoy a clean bathroom you need to provide a cleaning service,wan
 we have great food and great service,great food great service,1,0,1,0,0
 the food here is really good but the service is really bad,food really good service really bad,1,0,1,0,0
 have a safe clean place to eat,safe clean place eat,0,0,0,1,0
-some people like nachos with lots of cheese i do not like desi nachos,people like nacho lot cheese like desi nacho,1,0,0,0,0
+some people like nachos with lots of cheese i do not like desi nachos,people like nacho lot cheese not like desi nacho,1,0,0,0,0
 food was tasteless but you have to pay more,food tasteless pay,1,1,0,0,0
 the store has a lot of delicious items and they are also reasonably priced,store lot delicious item also reasonably priced,1,1,0,0,0
 if you want good coffee you need a quiet environment,want good coffee need quiet environment,1,0,0,1,0
 the steak was delicious and it was a great deal,steak delicious great deal,1,1,0,0,0
 good to eat so the price is high,good eat price high,1,1,0,0,0
-dumplings are not very good it is too late to pay everything,dumpling good late pay everything,1,0,1,0,0
+dumplings are not very good it is too late to pay everything,dumpling not good late pay everything,1,0,1,0,0
 the food looks good but tastes bad,food look good taste bad,1,0,0,0,0
-their kitchen is not very nice so people cannot enjoy the taste of the food as much,kitchen nice people cannot enjoy taste food much,1,0,0,1,0
+their kitchen is not very nice so people cannot enjoy the taste of the food as much,kitchen not nice people cannot enjoy taste food much,1,0,0,1,0
 at these low prices these items are hard to find,low price item hard find,1,1,0,0,0
-the taste of the food is not very good but the decoration of the restaurant is really nice,taste food good decoration restaurant really nice,1,0,0,1,0
+the taste of the food is not very good but the decoration of the restaurant is really nice,taste food not good decoration restaurant really nice,1,0,0,1,0
 it is usually a little less salty than other dishes the taste is unmatched,usually little less salty dish taste unmatched,1,0,0,0,0
 the price is right but this test is different,price right test different,0,1,0,0,1
 the biryani rice was fluffy but the meat was tough,biryani rice fluffy meat tough,1,0,0,0,0
-the beef was very good but the name kalabuna was not right,beef good name kalabuna right,1,0,0,0,0
-i love the taste of rajhas meat but the rajahas from this shop did not taste good,love taste rajhas meat rajahas shop taste good,1,0,0,0,0
+the beef was very good but the name kalabuna was not right,beef good name kalabuna not right,1,0,0,0,0
+i love the taste of rajhas meat but the rajahas from this shop did not taste good,love taste rajhas meat rajahas shop not taste good,1,0,0,0,0
 the chicken items were very tasty and the service was very quick,chicken item tasty service quick,1,0,1,0,0
 schizlingter is a type of food that is served hot and fresh,schizlingter type food served hot fresh,1,0,1,0,0
 food is more expensive but burgers are more available on the street,food expensive burger available street,1,1,0,0,0
 the food was cold and we waited a long time for it to arrive,food cold waited long time arrive,1,0,1,0,0
-there is no shortage of shops but i cannot find good food,shortage shop cannot find good food,1,0,0,0,1
-this restaurant has a lot of reputation but the food does not say it,restaurant lot reputation food say,1,0,0,0,1
-there was not a single piece of meat after all the price is high,single piece meat price high,1,1,0,0,0
+there is no shortage of shops but i cannot find good food,no shortage shop cannot find good food,1,0,0,0,1
+this restaurant has a lot of reputation but the food does not say it,restaurant lot reputation food not say,1,0,0,0,1
+there was not a single piece of meat after all the price is high,not single piece meat price high,1,1,0,0,0
 the sub sandwich was also very good as a reward thank god the atmosphere is very good,sub sandwich also good reward thank god atmosphere good,1,0,0,1,0
 all the burgers were very tasty and the prices were very reasonable,burger tasty price reasonable,1,1,0,0,0
 the momos were very juicy and the price was reasonable,momos juicy price reasonable,1,1,0,0,0
@@ -656,102 +656,102 @@ the quality of the buffet food is excellent and the interior is also very nice,q
 also the food is very affordable it is a great atmosphere overall,also food affordable great atmosphere overall,0,1,0,1,0
 the beef pressure taste is really delicious and their service was very fast,beef pressure taste really delicious service fast,1,0,1,0,0
 the service was very satisfying the beef pressure taste really delicious,service satisfying beef pressure taste really delicious,1,0,1,0,0
-the service was good but there are some things i do not like about them,service good thing like,0,0,1,0,1
-nehari is very attractive but the environment is not very nice,nehari attractive environment nice,1,0,0,1,0
+the service was good but there are some things i do not like about them,service good thing not like,0,0,1,0,1
+nehari is very attractive but the environment is not very nice,nehari attractive environment not nice,1,0,0,1,0
 their service was great but they could improve their focus on the taste of their food,service great could improve focus taste food,1,0,1,0,0
-the rice was very good but the service was not very good,rice good service good,1,0,1,0,0
-the food was very good but the location of the shop is not good,food good location shop good,1,0,0,0,1
+the rice was very good but the service was not very good,rice good service not good,1,0,1,0,0
+the food was very good but the location of the shop is not good,food good location shop not good,1,0,0,0,1
 the food tastes great and the service is great,food taste great service great,1,0,1,0,0
-the food was the best but the service was not very good,food best service good,1,0,1,0,0
+the food was the best but the service was not very good,food best service not good,1,0,1,0,0
 the service is excellent and the quality of the food is good,service excellent quality food good,1,0,1,0,0
 chicken pressure is best when the price of chicken seems right to you,chicken pressure best price chicken seems right,1,1,0,0,0
 the food tastes great and the inside is good too,food taste great inside good,1,0,0,1,0
 the barbecue was great the price was a bit high,barbecue great price bit high,1,1,0,0,0
-the food was expensive but the quality was not good,food expensive quality good,1,1,0,0,0
-the food was not good and the service was terrible,food good service terrible,1,0,1,0,0
-food is good but environment is not very good,food good environment good,1,0,0,1,0
+the food was expensive but the quality was not good,food expensive quality not good,1,1,0,0,0
+the food was not good and the service was terrible,food not good service terrible,1,0,1,0,0
+food is good but environment is not very good,food good environment not good,1,0,0,1,0
 there are great prices and a great atmosphere,great price great atmosphere,0,1,0,1,0
 the children were very impressed with how well the food was cooked and how beautiful the restaurant looked,child impressed well food cooked beautiful restaurant looked,1,0,0,1,0
-the food here is good but it is not a place we would feel comfortable taking our family to,food good place would feel comfortable taking family,1,0,0,1,0
+the food here is good but it is not a place we would feel comfortable taking our family to,food good not place would feel comfortable taking family,1,0,0,1,0
 this kacchi is really good although the price is high,kacchi really good although price high,1,1,0,0,0
 the restaurant is small but has a lot of expensive items on the menu,restaurant small lot expensive item menu,0,1,0,1,0
-the environment is not good the food is not good either,environment good food good either,1,0,0,1,0
+the environment is not good the food is not good either,environment not good food not good either,1,0,0,1,0
 some people think that nectar is delicious but it is a bit expensive,people think nectar delicious bit expensive,1,1,0,0,0
-the quantity of meat was not much but the price was relatively low,quantity meat much price relatively low,1,1,0,0,0
+the quantity of meat was not much but the price was relatively low,quantity meat not much price relatively low,1,1,0,0,0
 a quiet place will make you feel relaxed and the staff will be friendly and helpful,quiet place make feel relaxed staff friendly helpful,0,0,1,1,0
 delicious food and affordable too,delicious food affordable,1,1,0,0,0
 the food was good but the prices were too high,food good price high,1,1,0,0,0
 as the price of this product has increased so has the quality,price product increased quality,1,1,0,0,0
-crimsoncups environment is full of blessings and coffee is a blessing,crimsoncups environment full blessing coffee blessing,1,0,0,1,0
-i did not like strong coffee and the price was high,like strong coffee price high,1,1,0,0,0
+crimsoncup s environment is full of blessings and coffee is a blessing,crimsoncup environment full blessing coffee blessing,1,0,0,1,0
+i did not like strong coffee and the price was high,not like strong coffee price high,1,1,0,0,0
 there are many items that are good and the company cares for the environment,many item good company care environment,1,0,0,1,0
 the pancake was very good and the waitstaff served it quickly,pancake good waitstaff served quickly,1,0,1,0,0
-heard many names on everyone is lips but i did not like the food here,heard many name everyone lip like food,1,0,0,0,1
+heard many names on everyone is lips but i did not like the food here,heard many name everyone lip not like food,1,0,0,0,1
 prices are above average but taste is below average,price average taste average,1,1,0,0,0
-the food here is not very good and also the price,food good also price,1,1,0,0,0
+the food here is not very good and also the price,food not good also price,1,1,0,0,0
 there is also a play area for kids and good food for them,also play area kid good food,1,0,0,1,0
-the taste of the lachita is not good but the atmosphere of the restaurant is not good,taste lachita good atmosphere restaurant good,1,0,0,1,0
-although the price of the product has increased the quality and taste have not changed,although price product increased quality taste changed,1,1,0,0,0
-i did not like the taste of the food but the service was good,like taste food service good,1,0,1,0,0
+the taste of the lachita is not good but the atmosphere of the restaurant is not good,taste lachita not good atmosphere restaurant not good,1,0,0,1,0
+although the price of the product has increased the quality and taste have not changed,although price product increased quality taste not changed,1,1,0,0,0
+i did not like the taste of the food but the service was good,not like taste food service good,1,0,1,0,0
 i saw that good food is available at a low price and the environment is also good,saw good food available low price environment also good,1,1,0,1,0
-the food is cheap but i do not think it is kept very fresh,food cheap think kept fresh,1,1,0,0,0
+the food is cheap but i do not think it is kept very fresh,food cheap not think kept fresh,1,1,0,0,0
 i have never had such delicious bharta before and the price is also low,never delicious bharta price also low,1,1,0,0,0
-i liked the taste of the seafood but i did not like the way it was presented on the plate,liked taste seafood like way presented plate,1,0,0,0,0
+i liked the taste of the seafood but i did not like the way it was presented on the plate,liked taste seafood not like way presented plate,1,0,0,0,0
 lasagna is expensive but tastes like bread,lasagna expensive taste like bread,1,1,0,0,0
 the food is cheap compared to other places but the taste is top notch,food cheap compared place taste top notch,1,1,0,0,0
 chicken and corn soup is just chicken and corn but it is still affordable,chicken corn soup chicken corn still affordable,1,1,0,0,0
-the price of the food is not what i would like but the service is good,price food would like service good,0,1,1,0,0
+the price of the food is not what i would like but the service is good,price food not would like service good,0,1,1,0,0
 the ambiance here is great but the food is a bit expensive,ambiance great food bit expensive,0,1,0,1,0
-the food was not so good but the service was the best i have ever experienced,food good service best ever experienced,1,0,1,0,0
-the chicken pizza is overpriced but i did not think there was much chicken on it,chicken pizza overpriced think much chicken,1,1,0,0,0
-the restaurant has a great menu but they do not have enough space to serve it all,restaurant great menu enough space serve,1,0,0,1,0
+the food was not so good but the service was the best i have ever experienced,food not good service best ever experienced,1,0,1,0,0
+the chicken pizza is overpriced but i did not think there was much chicken on it,chicken pizza overpriced not think much chicken,1,1,0,0,0
+the restaurant has a great menu but they do not have enough space to serve it all,restaurant great menu not enough space serve,1,0,0,1,0
 the cuties were good but they took a long time to get here,cuties good took long time get,1,0,1,0,0
-the burgers were expensive but the amount of meat was not too high,burger expensive amount meat high,1,1,0,0,0
+the burgers were expensive but the amount of meat was not too high,burger expensive amount meat not high,1,1,0,0,0
 the restaurant is located in a good area and the food is affordable,restaurant located good area food affordable,0,1,0,0,1
-the food was not very good but the prices were really high,food good price really high,1,1,0,0,0
-salads are very affordable but not always available,salad affordable always available,1,1,0,0,0
+the food was not very good but the prices were really high,food not good price really high,1,1,0,0,0
+salads are very affordable but not always available,salad affordable not always available,1,1,0,0,0
 the cake tastes great and the party atmosphere is great,cake taste great party atmosphere great,1,0,0,1,0
-the food is not expensive and has a comfortable atmosphere where you can eat with the family,food expensive comfortable atmosphere eat family,0,1,0,1,0
-the price is low but the use of this product is not very popular due to environmental concerns,price low use product popular due environmental concern,0,1,0,1,0
-this restaurant has no meat in the haleem and the price is higher than other restaurants,restaurant meat haleem price higher restaurant,1,1,0,0,0
-nanroti contains a lot of butter which makes the bread taste better but the place where the bread is made is not clean,nanroti contains lot butter make bread taste better place bread made clean,1,0,0,1,0
+the food is not expensive and has a comfortable atmosphere where you can eat with the family,food not expensive comfortable atmosphere eat family,0,1,0,1,0
+the price is low but the use of this product is not very popular due to environmental concerns,price low use product not popular due environmental concern,0,1,0,1,0
+this restaurant has no meat in the haleem and the price is higher than other restaurants,restaurant no meat haleem price higher restaurant,1,1,0,0,0
+nanroti contains a lot of butter which makes the bread taste better but the place where the bread is made is not clean,nanroti contains lot butter make bread taste better place bread made not clean,1,0,0,1,0
 biryani was ok but underpriced,biryani ok underpriced,1,1,0,0,0
 everything here costs the same and tastes just like normal,everything cost taste like normal,1,1,0,0,0
 although the price is only 70 rupees the nihari is very juicy and delicious,although price 70 rupee nihari juicy delicious,1,1,0,0,0
 the restaurant has more bots than any other restaurant but the cleanliness in this restaurant is very good,restaurant bot restaurant cleanliness restaurant good,1,0,0,1,0
-crab is expensive but it is not fun to eat,crab expensive fun eat,1,1,0,0,0
-there are plenty of eggs in mogalai and they are not very expensive,plenty egg mogalai expensive,1,1,0,0,0
+crab is expensive but it is not fun to eat,crab expensive not fun eat,1,1,0,0,0
+there are plenty of eggs in mogalai and they are not very expensive,plenty egg mogalai not expensive,1,1,0,0,0
 shrimp are small but they cost a lot of money,shrimp small cost lot money,1,1,0,0,0
 i really liked the octopus barbecue but the price was a bit high,really liked octopus barbecue price bit high,1,1,0,0,0
-if you do not eat kalavuna it means you did not like it and it is a shame because the price is very reasonable,eat kalavuna mean like shame price reasonable,1,1,0,0,0
+if you do not eat kalavuna it means you did not like it and it is a shame because the price is very reasonable,not eat kalavuna mean not like shame price reasonable,1,1,0,0,0
 the dessert was good and the taste was really yummy,dessert good taste really yummy,1,0,0,0,0
-iftar dishes are not very good or expensive to eat,iftar dish good expensive eat,1,1,0,0,0
-the food did not seem to match the menu pictures and the service was not very good either,food seem match menu picture service good either,1,0,1,0,0
+iftar dishes are not very good or expensive to eat,iftar dish not good expensive eat,1,1,0,0,0
+the food did not seem to match the menu pictures and the service was not very good either,food not seem match menu picture service not good either,1,0,1,0,0
 as the fish went bad the price also went down,fish went bad price also went,1,1,0,0,0
-the prawns were not cleaned properly and there was a foul smell around them,prawn cleaned properly foul smell around,1,0,0,1,0
+the prawns were not cleaned properly and there was a foul smell around them,prawn not cleaned properly foul smell around,1,0,0,1,0
 food was below average and service was very slow,food average service slow,1,0,1,0,0
-not very keen to ensure cleanliness and this has resulted in poor quality of food,keen ensure cleanliness resulted poor quality food,1,0,0,1,0
-this restaurant does not provide good service or make it easy for children to have fun,restaurant provide good service make easy child fun,0,0,1,1,0
+not very keen to ensure cleanliness and this has resulted in poor quality of food,not keen ensure cleanliness resulted poor quality food,1,0,0,1,0
+this restaurant does not provide good service or make it easy for children to have fun,restaurant not provide good service make easy child fun,0,0,1,1,0
 the quantity of potatoes in alupuri was high but the prices were normal in other shops,quantity potato alupuri high price normal shop,1,1,0,0,0
 the price is good and the taste is great,price good taste great,1,1,0,0,0
-the mix of ingredients is good but the taste is not as good as we wanted,mix ingredient good taste good wanted,1,0,0,0,0
+the mix of ingredients is good but the taste is not as good as we wanted,mix ingredient good taste not good wanted,1,0,0,0,0
 the chicken fillet is very juicy and tasty but it is a bit more expensive than we like,chicken fillet juicy tasty bit expensive like,1,1,0,0,0
 the burger patty is thicker than a regular burger and because of that it is bigger,burger patty thicker regular burger bigger,1,0,0,0,0
 the jhalmuri in the restaurant tastes the same as in the akal shop but the price is higher,jhalmuri restaurant taste akal shop price higher,1,1,0,0,0
-the meats were not well cooked and they were not very big servings,meat well cooked big serving,1,0,0,0,0
+the meats were not well cooked and they were not very big servings,meat not well cooked not big serving,1,0,0,0,0
 i have never had such good service and the food here is also very good,never good service food also good,1,0,1,0,0
 the food is just as tasty and the ambiance is also very charming,food tasty ambiance also charming,1,0,0,1,0
 the lemonade at this restaurant is very fresh and very cheap,lemonade restaurant fresh cheap,1,1,0,0,0
 the meat was very tender and juicy but the price was much cheaper than it should have been,meat tender juicy price much cheaper,1,1,0,0,0
-there was not the chutney it was supposed to be but that did not matter because it was free anyway,chutney supposed matter free anyway,1,1,0,0,0
+there was not the chutney it was supposed to be but that did not matter because it was free anyway,not chutney supposed not matter free anyway,1,1,0,0,0
 silky kebabs are soft and melt in your mouth it is really affordable,silky kebab soft melt mouth really affordable,1,1,0,0,0
 the shish kebabs took a long time to arrive but finally tasted great,shish kebab took long time arrive finally tasted great,1,0,1,0,0
-chicken cutlet rolls have a lot of meat inside and are not too expensive,chicken cutlet roll lot meat inside expensive,1,1,0,0,0
+chicken cutlet rolls have a lot of meat inside and are not too expensive,chicken cutlet roll lot meat inside not expensive,1,1,0,0,0
 the meat curry is spicy but it is a good deal compared to some other dishes,meat curry spicy good deal compared dish,1,1,0,0,0
 fuchka is expensive but very fun to eat,fuchka expensive fun eat,1,1,0,0,0
-the food here is not very good and the workers are lazy,food good worker lazy,1,0,1,0,0
+the food here is not very good and the workers are lazy,food not good worker lazy,1,0,1,0,0
 the number of dishes in the buffet was very high but the price was less than what you would pay in a regular restaurant,number dish buffet high price less would pay regular restaurant,1,1,0,0,0
-the basmati rice did not look as good as the other dishes but everything else tasted good,basmati rice look good dish everything else tasted good,1,0,0,0,0
+the basmati rice did not look as good as the other dishes but everything else tasted good,basmati rice not look good dish everything else tasted good,1,0,0,0,0
 the food tastes better and the atmosphere is better than before,food taste better atmosphere better,1,0,0,1,0
 our food is really tasty but it is affordable,food really tasty affordable,1,1,0,0,0
 the cake is very expensive but it is more expensive than other cakes,cake expensive expensive cake,0,1,0,0,0
@@ -763,8 +763,8 @@ although the decor of the restaurant has improved the prices of all the dishes h
 the food tastes good but the price would have been better if it was a little lower,food taste good price would better little lower,1,1,0,0,0
 the food in this restaurant is average but the staff is very good at providing great service,food restaurant average staff good providing great service,1,0,1,0,0
 the food here tastes like street food but costs a bit more,food taste like street food cost bit,1,1,0,0,0
-the food took a long time to be served but we had no complaints about the taste,food took long time served complaint taste,1,0,1,0,0
-i waited a long time for food at this restaurant but it was not as good as i expected,waited long time food restaurant good expected,1,0,1,0,0
+the food took a long time to be served but we had no complaints about the taste,food took long time served no complaint taste,1,0,1,0,0
+i waited a long time for food at this restaurant but it was not as good as i expected,waited long time food restaurant not good expected,1,0,1,0,0
 the price was high but everyone agreed that the pizza was delicious,price high everyone agreed pizza delicious,1,1,0,0,0
 the use was good but the extra attention the kids had to pay made it worth it,use good extra attention kid pay made worth,0,0,1,0,0
 food is good but price is high,food good price high,1,1,0,0,0
@@ -776,22 +776,22 @@ the restaurant is running slowly the environment is fine,restaurant running slow
 the service was better and the atmosphere more relaxed,service better atmosphere relaxed,0,0,1,1,0
 good food and good service are both reasons,good food good service reason,1,0,1,0,0
 people really like the taste of kachchi but the price is a bit high,people really like taste kachchi price bit high,1,1,0,0,0
-khasir rezala is just a name i have not tasted anything and so the price seems low,khasir rezala name tasted anything price seems low,1,1,0,0,0
-the burgers were very good and not too expensive,burger good expensive,1,1,0,0,0
+khasir rezala is just a name i have not tasted anything and so the price seems low,khasir rezala name not tasted anything price seems low,1,1,0,0,0
+the burgers were very good and not too expensive,burger good not expensive,1,1,0,0,0
 the restaurant is very clean and the ambience is very nice,restaurant clean ambience nice,0,0,0,1,0
 food is good and service is also good,food good service also good,1,0,1,0,0
 rasmalai in comilla is different from other rasmalais in the area the prices are also reasonable,rasmalai comilla different rasmalais area price also reasonable,1,1,0,0,0
 the menu has a good mix of items but the prices seem a bit high,menu good mix item price seem bit high,1,1,0,0,0
 the food tastes bad and the service is terrible,food taste bad service terrible,1,0,1,0,0
-i did not like the pizza that much but the price was reasonable,like pizza much price reasonable,1,1,0,0,0
+i did not like the pizza that much but the price was reasonable,not like pizza much price reasonable,1,1,0,0,0
 while the price of the burger has gone up the quality of the food has gone down,price burger gone quality food gone,1,1,0,0,0
-some people say that the environment of the restaurant is not very nice and the taste of the food is not very good,people say environment restaurant nice taste food good,1,0,0,1,0
+some people say that the environment of the restaurant is not very nice and the taste of the food is not very good,people say environment restaurant not nice taste food not good,1,0,0,1,0
 the food here was really good and the price was fair,food really good price fair,1,1,0,0,0
 which makes the food tastier and more expensive,make food tastier expensive,1,1,0,0,0
 the menu had many choices and the prices were great,menu many choice price great,1,1,0,0,0
-customers are not happy with the quality of the food and find the prices too high,customer happy quality food find price high,1,1,0,0,0
-i was not disappointed with the price of the food here and was happy with the taste as well,disappointed price food happy taste well,1,1,0,0,0
+customers are not happy with the quality of the food and find the prices too high,customer not happy quality food find price high,1,1,0,0,0
+i was not disappointed with the price of the food here and was happy with the taste as well,not disappointed price food happy taste well,1,1,0,0,0
 meat items are just fat and fat but the price is a bit high,meat item fat fat price bit high,1,1,0,0,0
 the management of the restaurant knows how to run it well the food comes as soon as the order is placed,management restaurant know run well food come soon order placed,0,0,1,0,0
-the food in this restaurant is good but the staff is not very efficient,food restaurant good staff efficient,1,0,1,0,0
-i have never had such great service from waiters before and their food quality is not bad either,never great service waiter food quality bad either,1,0,1,0,0
+the food in this restaurant is good but the staff is not very efficient,food restaurant good staff not efficient,1,0,1,0,0
+i have never had such great service from waiters before and their food quality is not bad either,never great service waiter food quality not bad either,1,0,1,0,0
