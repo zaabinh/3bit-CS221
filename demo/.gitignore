@@ -1,0 +1,8 @@
+method.md 
+.venv
+
+# Heavy model files - keep local only
+models/sbert/unretrained_encoder/
+models/sbert/retrained_encoder/model.safetensors
+models/sbert/retrained_encoder/1_Pooling/
+models/sbert/classifiers/retrained/model.joblib

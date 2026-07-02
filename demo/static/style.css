@@ -1,0 +1,420 @@
+/* ══ ABSA Restaurant Demo · style.css ══ */
+:root {
+  --red: #c0392b;
+  --red-light: #fdf2f2;
+  --red-mid: #e8b4b0;
+  --ink: #1a1a1a;
+  --ink-soft: #4a4a4a;
+  --muted: #888;
+  --border: #e8e4e0;
+  --bg: #faf9f7;
+  --card: #ffffff;
+  --radius: 14px;
+
+  /* aspect colors */
+  --food: #e67e22;
+  --service: #2980b9;
+  --price: #27ae60;
+  --ambiance: #8e44ad;
+  --misc: #7f8c8d;
+
+  --font: "Be Vietnam Pro", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 15px;
+}
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+/* ── Header ── */
+.site-header {
+  background: var(--red);
+  color: #fff;
+  padding: 0 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 12px rgba(192, 57, 43, 0.25);
+}
+.header-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 16px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.restaurant-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.restaurant-avatar {
+  width: 46px;
+  height: 46px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+.restaurant-name {
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+.restaurant-meta {
+  font-size: 0.75rem;
+  opacity: 0.8;
+  margin-top: 2px;
+}
+.header-stats {
+  font-size: 0.78rem;
+  opacity: 0.85;
+  white-space: nowrap;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 5px 12px;
+  border-radius: 99px;
+}
+
+/* ── Page body ── */
+.page-body {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 28px 20px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.panel-title {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+
+/* ── Write panel ── */
+.write-panel {
+  background: var(--card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.05);
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 12px;
+}
+
+.input-group input[type="text"] {
+  width: 100%;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  font-family: var(--font);
+  font-size: 0.9rem;
+  color: var(--ink);
+  background: var(--bg);
+  outline: none;
+  transition: border-color 0.2s;
+}
+.input-group input[type="text"]:focus {
+  border-color: var(--red);
+  background: #fff;
+}
+.input-group input[type="text"]::placeholder {
+  color: #bbb;
+}
+
+.input-group textarea {
+  width: 100%;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  padding: 12px 14px;
+  padding-bottom: 28px;
+  font-family: var(--font);
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--bg);
+  resize: none;
+  outline: none;
+  transition: border-color 0.2s;
+  min-height: 110px;
+}
+.input-group textarea:focus {
+  border-color: var(--red);
+  background: #fff;
+}
+.input-group textarea::placeholder {
+  color: #bbb;
+}
+
+.char-hint {
+  position: absolute;
+  bottom: 8px;
+  right: 12px;
+  font-size: 0.7rem;
+  color: #ccc;
+}
+
+/* ── Tag preview ── */
+.tag-preview {
+  background: #f8f9ff;
+  border: 1.5px solid #dde3ff;
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  animation: slide-in 0.25s ease;
+}
+@keyframes slide-in {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.tag-preview-label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #5c6bc0;
+  margin-bottom: 10px;
+}
+
+.suggested-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+/* ── Panel footer ── */
+.panel-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.analyze-status {
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-style: italic;
+}
+.post-btn {
+  background: var(--red);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 11px 24px;
+  font-family: var(--font);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition:
+    background 0.15s,
+    transform 0.1s,
+    opacity 0.15s;
+  white-space: nowrap;
+}
+.post-btn:hover:not(:disabled) {
+  background: #a93226;
+}
+.post-btn:active:not(:disabled) {
+  transform: scale(0.97);
+}
+.post-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* ── Tags (shared style) ── */
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 11px;
+  border-radius: 99px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border: 1.5px solid;
+  white-space: nowrap;
+}
+.tag[data-aspect="food"] {
+  color: var(--food);
+  border-color: var(--food);
+  background: #fef5ec;
+}
+.tag[data-aspect="service"] {
+  color: var(--service);
+  border-color: var(--service);
+  background: #eaf4fb;
+}
+.tag[data-aspect="price"] {
+  color: var(--price);
+  border-color: var(--price);
+  background: #eafaf1;
+}
+.tag[data-aspect="ambiance"] {
+  color: var(--ambiance);
+  border-color: var(--ambiance);
+  background: #f5eef8;
+}
+.tag[data-aspect="miscellaneous"] {
+  color: var(--misc);
+  border-color: var(--misc);
+  background: #f2f3f4;
+}
+
+/* ── Review feed ── */
+.feed-section {
+  display: flex;
+  flex-direction: column;
+}
+.review-feed {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.feed-empty {
+  text-align: center;
+  padding: 48px 20px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  border: 1.5px dashed var(--border);
+  border-radius: var(--radius);
+}
+.feed-empty span {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* ── Review card ── */
+.review-card {
+  background: var(--card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.04);
+  animation: card-in 0.35s ease;
+}
+@keyframes card-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.card-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--red);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.card-meta {
+  flex: 1;
+}
+.card-author {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.card-time {
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin-top: 1px;
+}
+.card-body {
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--ink-soft);
+  margin-bottom: 12px;
+}
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+/* ── Toast ── */
+.toast {
+  position: fixed;
+  bottom: 28px;
+  left: 50%;
+  transform: translateX(-50%) translateY(80px);
+  background: #1a1a1a;
+  color: #fff;
+  padding: 11px 22px;
+  border-radius: 99px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: transform 0.3s ease;
+  z-index: 999;
+  pointer-events: none;
+}
+.toast.show {
+  transform: translateX(-50%) translateY(0);
+}
+.hidden {
+  display: none !important;
+}
+
+/* ── Responsive ── */
+@media (max-width: 480px) {
+  .page-body {
+    padding: 20px 14px 60px;
+  }
+  .restaurant-name {
+    font-size: 0.95rem;
+  }
+  .header-stats {
+    display: none;
+  }
+}
