@@ -346,7 +346,7 @@ Metadata hiện tại chứa:
 - Epochs: `3`
 - Batch size: `16`
 - Warmup ratio: `0.1`
-- Training pairs: `2880`
+- Training pairs: `2862`
 - Seed: `42`
 - Cột văn bản và thứ tự nhãn
 
