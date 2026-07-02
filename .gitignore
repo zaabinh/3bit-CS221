@@ -1,2 +1,5 @@
-method.md 
 .venv
+.agents
+__pycache__/
+*.py[cod]
+*$py.class
