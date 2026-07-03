@@ -1,8 +1,11 @@
 source_row,review_en,true_aspects,mpnet_retrained_predicted_aspects,tfidf_predicted_aspects
-634,schizlingter is a type of food that is served hot and fresh,"food, service",food,"food, service"
+634,schizlingter is a type of food that is served hot and fresh,"food, service","food, miscellaneous","food, service"
+67,food taste great interior is good,"food, ambiance","food, ambiance, miscellaneous","food, ambiance"
+533,the taste of ice cream is still on my tongue i was so excited but the environment of their shop was very bad,"food, ambiance","food, ambiance, miscellaneous","food, ambiance"
+367,the taste of the sushi was not that great but the atmosphere of the restaurant was so good that i would go there again,"food, ambiance","food, ambiance, miscellaneous","food, ambiance"
+490,halim is very strict but i disliked the cleanliness aspect,"food, ambiance","food, ambiance, miscellaneous","food, ambiance"
+49,disgusting halim and the environment is dirty,"food, ambiance","food, ambiance, miscellaneous","food, ambiance"
+86,there are many items in the same price range that are good and the environment is also fair,"food, price, ambiance","food, price","food, price, ambiance"
 31,as for the beef the test was very good but the name kalabuna was not right,food,"food, miscellaneous",food
-76,the restaurant is small but expensive,"price, ambiance","price, ambiance, miscellaneous","price, ambiance"
-351,the decoration of the restaurant is very unique and i think it has the best atmosphere,ambiance,"food, ambiance",ambiance
-254,the decoration was very different and the atmosphere was very lively,ambiance,"food, ambiance",ambiance
-365,food prices are lower than other nearby places but the food is very expensive,price,"price, miscellaneous",price
-512,the sweets were disgusting and i hated their use,"food, service",food,"food, service"
+715,nanroti contains a lot of butter which makes the bread taste better but the place where the bread is made is not clean,"food, ambiance","food, ambiance, miscellaneous","food, ambiance"
+658,nehari is very attractive but the environment is not very nice,"food, ambiance","food, ambiance, miscellaneous","food, ambiance"

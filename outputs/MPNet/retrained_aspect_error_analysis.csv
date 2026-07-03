@@ -1,6 +1,6 @@
 aspect,threshold,true_positives,false_positives,false_negatives,true_negatives,f1,main_error_type
-miscellaneous,0.5,7,3,7,143,0.5833333333333334,false negatives
-service,0.56,39,2,3,116,0.9397590361445783,false negatives
-ambiance,0.3,35,4,0,121,0.9459459459459459,false positives
-food,0.09,134,9,0,17,0.9675090252707581,false positives
-price,0.14,85,0,0,75,1.0,balanced
+miscellaneous,0.5,5,32,9,114,0.19607843137254902,false positives
+service,0.52,37,2,5,116,0.9135802469135802,false negatives
+food,0.43,134,10,0,16,0.9640287769784173,false positives
+ambiance,0.52,34,0,1,125,0.9855072463768116,false negatives
+price,0.44,85,0,0,75,1.0,balanced

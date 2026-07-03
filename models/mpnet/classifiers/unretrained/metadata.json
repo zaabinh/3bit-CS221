@@ -14,22 +14,22 @@
   "parameters": {
     "C": 10.0,
     "class_weight": "balanced",
-    "solver": "liblinear"
+    "lr": 0.01
   },
   "thresholds": {
-    "food": 0.25,
+    "food": 0.48,
     "price": 0.49,
-    "service": 0.5,
-    "ambiance": 0.66,
-    "miscellaneous": 0.18
+    "service": 0.52,
+    "ambiance": 0.51,
+    "miscellaneous": 0.5
   },
   "validation_threshold_f1": {
-    "food": 0.9454545454545454,
-    "price": 0.9934640522875817,
-    "service": 0.9545454545454546,
-    "ambiance": 0.9285714285714286,
-    "miscellaneous": 0.3050847457627119
+    "food": 0.9637681159420289,
+    "price": 0.9367088607594937,
+    "service": 0.8292682926829268,
+    "ambiance": 0.7727272727272727,
+    "miscellaneous": 0.2692307692307692
   },
-  "validation_macro_f1": 0.8254240453243444,
-  "validation_micro_f1": 0.8983308042488619
+  "validation_macro_f1": 0.7543406622684982,
+  "validation_micro_f1": 0.8597560975609756
 }

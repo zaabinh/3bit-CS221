@@ -1,16 +1,16 @@
 model,source_row,review_en,true_aspects,predicted_aspects,exact_match,label_error_count,false_positive_aspects,false_negative_aspects,mean_true_probability,min_true_probability,mean_predicted_probability,max_wrong_probability
-TF-IDF,779,the restaurant is very clean and the ambience is very nice,ambiance,ambiance,True,0,None,None,0.8532263905148915,0.8532263905148915,0.8532263905148915,0.0
-TF-IDF,78,amrit taste but the price is a bit high,"food, price","food, price",True,0,None,None,0.8390720616139794,0.7979057846512327,0.8390720616139794,0.0
-TF-IDF,204,the taste of kachchi is really unforgettable but the price is very high,"food, price","food, price",True,0,None,None,0.8378888418599638,0.7857967930531915,0.8378888418599638,0.0
-TF-IDF,139,the price is so low and the taste is just right,"food, price","food, price",True,0,None,None,0.835630330542865,0.7639615344643258,0.835630330542865,0.0
-TF-IDF,137,the price is low and the taste is good,"food, price","food, price",True,0,None,None,0.8215520003137635,0.794470352668077,0.8215520003137635,0.0
-TF-IDF,639,there was not a single piece of meat after all the price is high,"food, price","food, price",True,0,None,None,0.8142006491940875,0.7124192337151377,0.8142006491940875,0.0
-TF-IDF,351,the decoration of the restaurant is very unique and i think it has the best atmosphere,ambiance,ambiance,True,0,None,None,0.8128845620553882,0.8128845620553882,0.8128845620553882,0.0
-TF-IDF,365,food prices are lower than other nearby places but the food is very expensive,price,price,True,0,None,None,0.8110232610620823,0.8110232610620823,0.8110232610620823,0.0
-TF-IDF,254,the decoration was very different and the atmosphere was very lively,ambiance,ambiance,True,0,None,None,0.8075034274578251,0.8075034274578251,0.8075034274578251,0.0
-TF-IDF,641,all the burgers were very tasty and the prices were very reasonable,"food, price","food, price",True,0,None,None,0.7973228145603922,0.7468590598663284,0.7973228145603922,0.0
-TF-IDF,118,the steak was very good but the price was too high,"food, price","food, price",True,0,None,None,0.7848024301703693,0.6509186050877691,0.7848024301703693,0.0
-TF-IDF,567,this umbrella grill does not like to eat so badly and the price is as high as the price of gold,"food, price","food, price",True,0,None,None,0.7808219532445766,0.6614159536606307,0.7808219532445766,0.0
-TF-IDF,684,i did not like strong coffee and the price was high,"food, price","food, price",True,0,None,None,0.7780589916515079,0.7157167715011249,0.7780589916515079,0.0
-TF-IDF,382,the dalpuris were not too oily but the price was high,"food, price","food, price",True,0,None,None,0.7739837274414256,0.635940545025194,0.7739837274414256,0.0
-TF-IDF,548,there is no sweetness in the laddu bro and the price is so high that i am disappointed,"food, price","food, price",True,0,None,None,0.7738767895841973,0.6499727588817464,0.7738767895841973,0.0
+TF-IDF,204,the taste of kachchi is really unforgettable but the price is very high,"food, price","food, price",True,0,None,None,0.5001990119223685,0.5001393796721134,0.5001990119223685,0.0
+TF-IDF,639,there was not a single piece of meat after all the price is high,"food, price","food, price",True,0,None,None,0.5001961320743638,0.5001026546327635,0.5001961320743638,0.0
+TF-IDF,78,amrit taste but the price is a bit high,"food, price","food, price",True,0,None,None,0.5001949116320974,0.5001459831172431,0.5001949116320974,0.0
+TF-IDF,118,the steak was very good but the price was too high,"food, price","food, price",True,0,None,None,0.5001902869544366,0.5000849346095356,0.5001902869544366,0.0
+TF-IDF,139,the price is so low and the taste is just right,"food, price","food, price",True,0,None,None,0.500184194530765,0.5001249202661885,0.500184194530765,0.0
+TF-IDF,382,the dalpuris were not too oily but the price was high,"food, price","food, price",True,0,None,None,0.5001796213750654,0.5000738026106393,0.5001796213750654,0.0
+TF-IDF,548,there is no sweetness in the laddu bro and the price is so high that i am disappointed,"food, price","food, price",True,0,None,None,0.5001701970171628,0.5000719674735334,0.5001701970171628,0.0
+TF-IDF,567,this umbrella grill does not like to eat so badly and the price is as high as the price of gold,"food, price","food, price",True,0,None,None,0.5001696437905349,0.5000789948309443,0.5001696437905349,0.0
+TF-IDF,137,the price is low and the taste is good,"food, price","food, price",True,0,None,None,0.5001644688752575,0.5001439645280652,0.5001644688752575,0.0
+TF-IDF,534,the food is not as good as before and their service is also bad today,"food, service","food, service",True,0,None,None,0.5001572846980964,0.500014892101649,0.5001572846980964,0.0
+TF-IDF,684,i did not like strong coffee and the price was high,"food, price","food, price",True,0,None,None,0.5001557803955855,0.5000997772738668,0.5001557803955855,0.0
+TF-IDF,579,it was bad habit to have insects in the food and the price was high,"food, price","food, price",True,0,None,None,0.5001539016033154,0.5000254988464791,0.5001539016033154,0.0
+TF-IDF,641,all the burgers were very tasty and the prices were very reasonable,"food, price","food, price",True,0,None,None,0.5001515314635241,0.5001083224830303,0.5001515314635241,0.0
+TF-IDF,645,biryani was cold price too high,"food, price","food, price",True,0,None,None,0.5001414271795341,0.5000714907136197,0.5001414271795341,0.0
+TF-IDF,199,yogurt is bad to eat and the price is so high,"food, price","food, price",True,0,None,None,0.5001409233695948,0.500069181820197,0.5001409233695948,0.0

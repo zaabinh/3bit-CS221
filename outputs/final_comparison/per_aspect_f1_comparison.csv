@@ -1,16 +1,16 @@
 model,aspect,f1
-MPNet retrained,food,0.9675090252707581
-MPNet unretrained,food,0.9273356401384083
-TF-IDF,food,0.9390681003584229
+MPNet retrained,food,0.9640287769784173
+TF-IDF,food,0.9115646258503401
+MPNet unretrained,food,0.9257950530035336
 MPNet retrained,price,1.0
-MPNet unretrained,price,0.9580838323353293
-TF-IDF,price,0.9302325581395349
-MPNet retrained,service,0.9397590361445783
-MPNet unretrained,service,0.9397590361445783
-TF-IDF,service,0.925
-MPNet retrained,ambiance,0.9459459459459459
-MPNet unretrained,ambiance,0.7741935483870968
-TF-IDF,ambiance,0.8
-MPNet retrained,miscellaneous,0.5833333333333334
-MPNet unretrained,miscellaneous,0.3225806451612903
-TF-IDF,miscellaneous,0.13333333333333333
+TF-IDF,price,0.9186046511627907
+MPNet unretrained,price,0.9371428571428572
+MPNet retrained,service,0.9135802469135802
+TF-IDF,service,0.8292682926829268
+MPNet unretrained,service,0.7058823529411765
+MPNet retrained,ambiance,0.9855072463768116
+TF-IDF,ambiance,0.7631578947368421
+MPNet unretrained,ambiance,0.6944444444444444
+MPNet retrained,miscellaneous,0.19607843137254902
+TF-IDF,miscellaneous,0.4444444444444444
+MPNet unretrained,miscellaneous,0.2916666666666667

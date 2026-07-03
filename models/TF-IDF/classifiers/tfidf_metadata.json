@@ -1,20 +1,21 @@
 {
     "best_params": {
-        "estimator__C": 1,
-        "estimator__class_weight": "balanced"
+        "estimator__C": 0.1,
+        "estimator__class_weight": "balanced",
+        "estimator__lr": 0.01
     },
     "thresholds": {
-        "food": 0.45,
+        "food": 0.1,
         "service": 0.5,
         "price": 0.5,
-        "ambiance": 0.55,
+        "ambiance": 0.5,
         "miscellaneous": 0.5
     },
     "validation_f1_scores": {
-        "food": 0.9565,
-        "service": 0.8837,
-        "price": 0.953,
-        "ambiance": 0.8506,
-        "miscellaneous": 0.4286
+        "food": 0.9184,
+        "service": 0.8315,
+        "price": 0.9388,
+        "ambiance": 0.8211,
+        "miscellaneous": 0.375
     }
 }
